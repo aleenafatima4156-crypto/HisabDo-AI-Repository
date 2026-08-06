@@ -1,0 +1,2 @@
+# conclusion explaining my findings
+This analysis showed that students with higher attendance generally achieved better final scores. The average performance of students was satisfactory across all courses. AI and ML students performed slightly better than some other courses. Students with attendance below 75% were more likely to have lower final scores and were identified as being at risk of failing. Overall, attendance and consistent academic performance appear to have a positive impact on student success.
