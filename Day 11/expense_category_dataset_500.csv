@@ -1,0 +1,501 @@
+expense,category
+bought groceries,Food & Groceries
+bought vegetables,Food & Groceries
+bought fruits,Food & Groceries
+bought milk,Food & Groceries
+bought bread,Food & Groceries
+restaurant dinner,Food & Groceries
+restaurant lunch,Food & Groceries
+pizza for dinner,Food & Groceries
+ordered food,Food & Groceries
+grocery shopping,Food & Groceries
+bought meat,Food & Groceries
+bought snacks,Food & Groceries
+coffee and breakfast,Food & Groceries
+bought rice,Food & Groceries
+supermarket groceries,Food & Groceries
+paid petrol,Transport
+filled car with fuel,Transport
+uber ride,Transport
+taxi fare,Transport
+bus ticket,Transport
+train ticket,Transport
+car fuel,Transport
+rickshaw fare,Transport
+transport fare,Transport
+paid for parking,Transport
+vehicle fuel,Transport
+petrol station payment,Transport
+ride to office,Transport
+bought new shoes,Shopping
+bought clothes,Shopping
+online shopping,Shopping
+purchased a bag,Shopping
+bought a new shirt,Shopping
+bought jeans,Shopping
+bought a jacket,Shopping
+shopping mall purchase,Shopping
+bought accessories,Shopping
+purchased a dress,Shopping
+bought a watch,Shopping
+bought a wallet,Shopping
+online order,Shopping
+bought cosmetics,Shopping
+electricity bill,Bills
+internet bill,Bills
+gas bill,Bills
+phone bill,Bills
+water bill,Bills
+paid utility bill,Bills
+monthly electricity payment,Bills
+internet subscription,Bills
+mobile phone bill,Bills
+gas payment,Bills
+water payment,Bills
+utility payment,Bills
+telephone bill,Bills
+movie ticket,Entertainment
+cinema ticket,Entertainment
+gaming subscription,Entertainment
+concert ticket,Entertainment
+entertainment expense,Entertainment
+Netflix subscription,Entertainment
+movie night,Entertainment
+game purchase,Entertainment
+theater ticket,Entertainment
+music subscription,Entertainment
+streaming subscription,Entertainment
+arcade payment,Entertainment
+online game,Entertainment
+school books,Education
+course fee,Education
+tuition fee,Education
+online learning course,Education
+education books,Education
+university fee,Education
+college fee,Education
+training course,Education
+online course payment,Education
+study material,Education
+exam fee,Education
+workshop fee,Education
+learning subscription,Education
+doctor fee,Health
+bought medicine,Health
+hospital bill,Health
+medical checkup,Health
+pharmacy expense,Health
+doctor appointment,Health
+medical test,Health
+healthcare expense,Health
+clinic fee,Health
+prescription medicine,Health
+medical treatment,Health
+dental checkup,Health
+medical consultation,Health
+bought vegetables from market,Food & Groceries
+bought fresh fruits,Food & Groceries
+purchased groceries,Food & Groceries
+monthly grocery purchase,Food & Groceries
+bought cooking oil,Food & Groceries
+bought flour,Food & Groceries
+bought sugar,Food & Groceries
+bought tea,Food & Groceries
+bought coffee,Food & Groceries
+bought eggs,Food & Groceries
+bought chicken,Food & Groceries
+bought fish,Food & Groceries
+bought bread and butter,Food & Groceries
+bought cheese,Food & Groceries
+bought yogurt,Food & Groceries
+bought cereal,Food & Groceries
+bought pasta,Food & Groceries
+bought noodles,Food & Groceries
+bought spices,Food & Groceries
+bought frozen food,Food & Groceries
+bought canned food,Food & Groceries
+bought biscuits,Food & Groceries
+bought chocolates,Food & Groceries
+bought ice cream,Food & Groceries
+bought juice,Food & Groceries
+bought soft drinks,Food & Groceries
+bought bottled water,Food & Groceries
+family dinner,Food & Groceries
+family lunch,Food & Groceries
+breakfast at restaurant,Food & Groceries
+lunch at restaurant,Food & Groceries
+dinner at restaurant,Food & Groceries
+fast food meal,Food & Groceries
+burger meal,Food & Groceries
+fried chicken meal,Food & Groceries
+pizza order,Food & Groceries
+food delivery,Food & Groceries
+ordered dinner,Food & Groceries
+ordered lunch,Food & Groceries
+takeaway food,Food & Groceries
+restaurant meal,Food & Groceries
+cafe breakfast,Food & Groceries
+coffee at cafe,Food & Groceries
+tea and snacks,Food & Groceries
+bought food items,Food & Groceries
+weekly groceries,Food & Groceries
+kitchen groceries,Food & Groceries
+market food purchase,Food & Groceries
+supermarket food,Food & Groceries
+bought potatoes,Food & Groceries
+bought onions,Food & Groceries
+bought tomatoes,Food & Groceries
+bought fresh meat,Food & Groceries
+bought dairy products,Food & Groceries
+bought bakery items,Food & Groceries
+bought cooking ingredients,Food & Groceries
+grocery delivery,Food & Groceries
+food order,Food & Groceries
+snack purchase,Food & Groceries
+breakfast meal,Food & Groceries
+lunch meal,Food & Groceries
+dinner meal,Food & Groceries
+bought household food,Food & Groceries
+monthly food shopping,Food & Groceries
+bought lentils,Food & Groceries
+bought beans,Food & Groceries
+bought cereal and milk,Food & Groceries
+bought fruits and vegetables,Food & Groceries
+bought bakery bread,Food & Groceries
+bought homemade food ingredients,Food & Groceries
+bought seafood,Food & Groceries
+bought chicken meat,Food & Groceries
+bought rice and flour,Food & Groceries
+bought spices and herbs,Food & Groceries
+paid for petrol,Transport
+bought diesel,Transport
+filled petrol tank,Transport
+car refueling,Transport
+motorbike fuel,Transport
+fuel station purchase,Transport
+paid for fuel,Transport
+uber trip,Transport
+uber ride to work,Transport
+taxi ride,Transport
+cab fare,Transport
+bus fare,Transport
+bus journey,Transport
+train fare,Transport
+train journey,Transport
+rickshaw ride,Transport
+careem ride,Transport
+ride sharing fare,Transport
+commute to office,Transport
+office transport,Transport
+school bus fare,Transport
+paid parking fee,Transport
+parking charges,Transport
+toll payment,Transport
+highway toll,Transport
+car maintenance,Transport
+vehicle service,Transport
+motorbike service,Transport
+car repair,Transport
+bike fuel,Transport
+petrol expense,Transport
+transportation cost,Transport
+daily commute,Transport
+ride home,Transport
+ride to school,Transport
+ride to university,Transport
+airport taxi,Transport
+airport transport,Transport
+local bus ticket,Transport
+metro ticket,Transport
+metro fare,Transport
+fuel payment,Transport
+car fuel expense,Transport
+motorcycle fuel,Transport
+vehicle refueling,Transport
+parking payment,Transport
+road toll payment,Transport
+public transport fare,Transport
+cab payment,Transport
+taxi to office,Transport
+uber to home,Transport
+rickshaw to market,Transport
+bus to college,Transport
+train ticket purchase,Transport
+transport ticket,Transport
+commuting expense,Transport
+fuel station payment,Transport
+car petrol,Transport
+bike petrol,Transport
+vehicle fuel payment,Transport
+transport fare payment,Transport
+paid for ride,Transport
+daily travel expense,Transport
+office commute fare,Transport
+local taxi fare,Transport
+ride booking,Transport
+bought sneakers,Shopping
+bought sandals,Shopping
+bought slippers,Shopping
+purchased clothes,Shopping
+new clothes purchase,Shopping
+bought trousers,Shopping
+bought t shirt,Shopping
+bought sweater,Shopping
+bought hoodie,Shopping
+bought coat,Shopping
+bought handbag,Shopping
+bought backpack,Shopping
+bought purse,Shopping
+bought school bag,Shopping
+bought belt,Shopping
+bought sunglasses,Shopping
+bought jewelry,Shopping
+bought earrings,Shopping
+bought necklace,Shopping
+bought bracelet,Shopping
+bought makeup,Shopping
+bought skincare products,Shopping
+bought perfume,Shopping
+bought shampoo,Shopping
+bought beauty products,Shopping
+online purchase,Shopping
+online store purchase,Shopping
+ecommerce order,Shopping
+shopping website order,Shopping
+bought phone case,Shopping
+bought headphones,Shopping
+bought charger,Shopping
+bought accessories online,Shopping
+purchased gift,Shopping
+bought birthday gift,Shopping
+bought household item,Shopping
+bought home decor,Shopping
+bought kitchen item,Shopping
+bought stationery,Shopping
+bought notebooks,Shopping
+bought pens,Shopping
+bought furniture,Shopping
+bought electronics,Shopping
+bought gadget,Shopping
+bought laptop accessory,Shopping
+bought watch online,Shopping
+bought new shoes online,Shopping
+bought dress online,Shopping
+online clothing order,Shopping
+mall shopping,Shopping
+clothing store purchase,Shopping
+department store purchase,Shopping
+retail purchase,Shopping
+shopping expense,Shopping
+bought new outfit,Shopping
+purchased formal clothes,Shopping
+bought winter clothes,Shopping
+bought summer clothes,Shopping
+bought sports shoes,Shopping
+bought wallet online,Shopping
+bought cosmetics online,Shopping
+purchased accessories,Shopping
+bought fashion item,Shopping
+bought clothing accessories,Shopping
+shopping order,Shopping
+paid electricity bill,Bills
+electricity payment,Bills
+monthly power bill,Bills
+power bill payment,Bills
+paid internet bill,Bills
+internet monthly bill,Bills
+wifi bill,Bills
+wifi subscription,Bills
+broadband payment,Bills
+paid gas bill,Bills
+monthly gas payment,Bills
+gas utility bill,Bills
+paid water bill,Bills
+monthly water bill,Bills
+water utility payment,Bills
+paid phone bill,Bills
+mobile bill payment,Bills
+mobile recharge,Bills
+telephone payment,Bills
+phone subscription,Bills
+utility bills payment,Bills
+monthly utility payment,Bills
+household bills,Bills
+paid household bill,Bills
+electricity charges,Bills
+internet charges,Bills
+gas charges,Bills
+water charges,Bills
+mobile phone charges,Bills
+telephone charges,Bills
+wifi monthly payment,Bills
+internet service payment,Bills
+electricity company payment,Bills
+gas company payment,Bills
+water company payment,Bills
+utility expense,Bills
+monthly bills,Bills
+bill payment,Bills
+paid utility charges,Bills
+home internet bill,Bills
+mobile subscription payment,Bills
+phone service bill,Bills
+electricity monthly payment,Bills
+water monthly payment,Bills
+gas monthly bill,Bills
+internet service bill,Bills
+telephone service bill,Bills
+utility account payment,Bills
+house bill payment,Bills
+monthly electricity bill,Bills
+monthly internet payment,Bills
+monthly phone payment,Bills
+monthly water payment,Bills
+monthly gas bill,Bills
+paid broadband bill,Bills
+paid mobile bill,Bills
+paid telephone bill,Bills
+paid utility bill online,Bills
+online bill payment,Bills
+household utility payment,Bills
+electricity dues,Bills
+internet dues,Bills
+gas dues,Bills
+water dues,Bills
+phone dues,Bills
+watched a movie,Entertainment
+movie theater ticket,Entertainment
+cinema payment,Entertainment
+movie booking,Entertainment
+movie show ticket,Entertainment
+bought movie ticket,Entertainment
+paid for cinema,Entertainment
+concert booking,Entertainment
+concert entry ticket,Entertainment
+live show ticket,Entertainment
+theater show,Entertainment
+theater booking,Entertainment
+gaming subscription payment,Entertainment
+video game purchase,Entertainment
+bought a game,Entertainment
+online gaming payment,Entertainment
+game subscription,Entertainment
+arcade visit,Entertainment
+arcade game payment,Entertainment
+music subscription payment,Entertainment
+music streaming,Entertainment
+video streaming subscription,Entertainment
+streaming service payment,Entertainment
+Netflix payment,Entertainment
+entertainment subscription,Entertainment
+movie night expense,Entertainment
+weekend movie,Entertainment
+cinema night,Entertainment
+concert expense,Entertainment
+event ticket,Entertainment
+event booking,Entertainment
+theme park ticket,Entertainment
+amusement park ticket,Entertainment
+fun activity,Entertainment
+entertainment booking,Entertainment
+online game purchase,Entertainment
+mobile game purchase,Entertainment
+gaming expense,Entertainment
+music app subscription,Entertainment
+movie streaming,Entertainment
+TV subscription,Entertainment
+sports streaming subscription,Entertainment
+paid for streaming,Entertainment
+theater ticket purchase,Entertainment
+show ticket,Entertainment
+festival ticket,Entertainment
+entertainment outing,Entertainment
+recreation expense,Entertainment
+weekend entertainment,Entertainment
+family movie,Entertainment
+cinema snacks,Entertainment
+movie booking online,Entertainment
+concert ticket purchase,Entertainment
+game download purchase,Entertainment
+arcade visit payment,Entertainment
+music app payment,Entertainment
+streaming monthly payment,Entertainment
+entertainment ticket,Entertainment
+leisure activity,Entertainment
+recreation ticket,Entertainment
+movie subscription,Entertainment
+gaming service payment,Entertainment
+online entertainment,Entertainment
+paid for event,Entertainment
+entertainment cost,Entertainment
+bought textbooks,Education
+purchased school books,Education
+bought university books,Education
+bought college books,Education
+course registration fee,Education
+paid tuition,Education
+monthly tuition fee,Education
+school fee,Education
+university tuition,Education
+college tuition,Education
+online course fee,Education
+online class payment,Education
+e learning subscription,Education
+online education payment,Education
+training program fee,Education
+workshop registration,Education
+seminar fee,Education
+exam registration fee,Education
+test fee,Education
+education materials,Education
+study books purchase,Education
+notebook purchase for study,Education
+stationery for school,Education
+school supplies,Education
+college supplies,Education
+university supplies,Education
+bought study guide,Education
+bought reference books,Education
+bought academic books,Education
+education subscription,Education
+learning platform payment,Education
+online learning subscription,Education
+course enrollment,Education
+course registration,Education
+training course payment,Education
+professional course fee,Education
+certification course fee,Education
+academic fee,Education
+semester fee,Education
+admission fee,Education
+school tuition payment,Education
+college fee payment,Education
+university fee payment,Education
+lab fee,Education
+library fee,Education
+exam registration,Education
+education workshop,Education
+training workshop,Education
+academic workshop,Education
+study material purchase,Education
+educational software,Education
+learning app subscription,Education
+online class subscription,Education
+student course fee,Education
+school supplies purchase,Education
+college stationery,Education
+university stationery,Education
+educational books,Education
+study material cost,Education
+course payment,Education
+tuition payment,Education
+academic subscription,Education
+education expense,Education
+learning expense,Education
+school payment,Education
+semester tuition,Education
+training fee,Education
+course enrollment payment,Education
+exam fee payment,Education
+books for study,Education
+doctor consultation,Health

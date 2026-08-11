@@ -1,0 +1,501 @@
+user_id,expense,amount,currency,date
+U001,bought groceries for dinner,2500,PKR,2026-08-01
+U002,paid electricity bill,4500,PKR,2026-08-02
+U003,filled petrol in car,5000,PKR,2026-08-03
+U004,bought new shoes,3500,PKR,2026-08-04
+U005,paid university fee,15000,PKR,2026-08-05
+U006,had dinner at restaurant,2200,PKR,2026-08-06
+U007,bought medicine from pharmacy,1800,PKR,2026-08-07
+U008,paid internet bill,3000,PKR,2026-08-08
+U009,bought vegetables and fruits,1200,PKR,2026-08-09
+U010,took a taxi to office,850,PKR,2026-08-10
+U011,bought a new shirt,2800,PKR,2026-08-11
+U012,paid water bill,1200,PKR,2026-08-11
+U013,bought laptop accessories,4500,PKR,2026-08-11
+U014,paid doctor consultation fee,2500,PKR,2026-08-11
+U015,bought stationery for studies,900,PKR,2026-08-11
+U016,ordered pizza for dinner,1800,PKR,2026-08-11
+U017,paid mobile phone bill,1800,PKR,2026-08-11
+U018,bought petrol for car,4000,PKR,2026-08-11
+U019,bought a birthday gift,3000,PKR,2026-08-11
+U020,bought milk and bread,650,PKR,2026-08-11
+U021,paid water bill,950,PKR,2026-08-20
+U022,bought a new shirt,2450,PKR,2026-09-04
+U023,paid gas bill,2950,PKR,2026-09-09
+U024,paid electricity bill,4350,PKR,2026-08-13
+U025,bought vegetables,750,PKR,2026-08-19
+U026,bought cleaning supplies,1350,PKR,2026-08-29
+U027,took a taxi to office,800,PKR,2026-09-03
+U028,bought laptop accessories,3950,PKR,2026-08-30
+U029,bought a jacket,5600,PKR,2026-08-12
+U030,filled petrol in car,4850,PKR,2026-08-22
+U031,bought a jacket,4300,PKR,2026-09-11
+U032,ordered food online,1300,PKR,2026-08-24
+U033,paid gas bill,2600,PKR,2026-08-23
+U034,bought jeans,3900,PKR,2026-09-04
+U035,bought a wedding gift,5050,PKR,2026-09-10
+U036,bought stationery for studies,700,PKR,2026-08-21
+U037,paid doctor consultation fee,2550,PKR,2026-09-03
+U038,bought bread and butter,500,PKR,2026-08-19
+U039,had dinner at restaurant,2950,PKR,2026-09-08
+U040,bought new shoes,4550,PKR,2026-08-24
+U041,bought a jacket,4900,PKR,2026-09-07
+U042,paid doctor consultation fee,2150,PKR,2026-08-23
+U043,paid bus fare,300,PKR,2026-09-03
+U044,bought bread and butter,650,PKR,2026-08-17
+U045,bought a new shirt,2400,PKR,2026-08-24
+U046,bought a jacket,5950,PKR,2026-09-01
+U047,bought new shoes,4250,PKR,2026-09-07
+U048,bought milk and eggs,750,PKR,2026-08-13
+U049,bought lunch at restaurant,1300,PKR,2026-08-14
+U050,paid bus fare,300,PKR,2026-08-30
+U051,bought lunch at restaurant,1200,PKR,2026-08-27
+U052,bought notebooks,1350,PKR,2026-09-01
+U053,bought a wedding gift,4250,PKR,2026-08-16
+U054,bought a new shirt,3050,PKR,2026-08-29
+U055,bought jeans,3800,PKR,2026-08-25
+U056,bought notebooks,1100,PKR,2026-08-16
+U057,bought cleaning supplies,1250,PKR,2026-09-05
+U058,bought milk and eggs,950,PKR,2026-08-16
+U059,filled petrol in car,5000,PKR,2026-08-25
+U060,bought bread and butter,600,PKR,2026-08-31
+U061,bought a wedding gift,5050,PKR,2026-08-29
+U062,bought groceries for the week,3400,PKR,2026-08-15
+U063,bought a jacket,5500,PKR,2026-08-22
+U064,paid water bill,1100,PKR,2026-08-17
+U065,bought a wedding gift,4000,PKR,2026-09-04
+U066,bought jeans,4150,PKR,2026-09-05
+U067,bought petrol for car,3500,PKR,2026-08-15
+U068,ordered pizza for dinner,2000,PKR,2026-08-28
+U069,took a taxi to office,600,PKR,2026-09-05
+U070,filled petrol in car,4550,PKR,2026-09-05
+U071,paid maintenance charges,3500,PKR,2026-08-31
+U072,bought lunch at restaurant,1350,PKR,2026-08-15
+U073,paid doctor consultation fee,2850,PKR,2026-09-07
+U074,ordered pizza for dinner,1600,PKR,2026-08-19
+U075,paid electricity bill,3500,PKR,2026-08-27
+U076,bought bread and butter,750,PKR,2026-08-29
+U077,paid internet bill,2550,PKR,2026-08-27
+U078,filled petrol in car,4050,PKR,2026-09-08
+U079,paid university fee,17750,PKR,2026-09-10
+U080,took a taxi to office,800,PKR,2026-08-24
+U081,paid doctor consultation fee,2400,PKR,2026-08-28
+U082,bought a birthday gift,2500,PKR,2026-08-19
+U083,bought bread and butter,600,PKR,2026-08-30
+U084,bought new shoes,4100,PKR,2026-08-12
+U085,bought bread and butter,700,PKR,2026-08-13
+U086,bought new shoes,3300,PKR,2026-08-13
+U087,ordered food online,1300,PKR,2026-08-19
+U088,bought a jacket,5300,PKR,2026-08-18
+U089,paid internet bill,3250,PKR,2026-09-09
+U090,paid gym fee,2200,PKR,2026-08-27
+U091,bought laptop accessories,3900,PKR,2026-08-15
+U092,paid university fee,14100,PKR,2026-08-25
+U093,bought a wedding gift,5700,PKR,2026-08-13
+U094,paid gas bill,2300,PKR,2026-09-04
+U095,ordered food online,1750,PKR,2026-08-15
+U096,bought a new shirt,2450,PKR,2026-08-29
+U097,bought a birthday gift,2550,PKR,2026-08-17
+U098,bought a jacket,4900,PKR,2026-09-08
+U099,bought bread and butter,600,PKR,2026-09-08
+U100,paid gas bill,2250,PKR,2026-08-29
+U101,bought groceries for the week,3800,PKR,2026-09-10
+U102,bought a new shirt,2400,PKR,2026-08-27
+U103,paid gym fee,2200,PKR,2026-08-24
+U104,bought milk and eggs,700,PKR,2026-08-12
+U105,bought stationery for studies,800,PKR,2026-09-06
+U106,bought a wedding gift,4550,PKR,2026-09-03
+U107,bought household items,1850,PKR,2026-08-21
+U108,paid bus fare,350,PKR,2026-08-30
+U109,bought milk and eggs,900,PKR,2026-08-13
+U110,bought milk and eggs,850,PKR,2026-08-28
+U111,paid maintenance charges,2550,PKR,2026-09-11
+U112,bought cleaning supplies,1050,PKR,2026-08-17
+U113,bought bread and butter,650,PKR,2026-09-02
+U114,bought a new shirt,2650,PKR,2026-09-11
+U115,bought a new shirt,2850,PKR,2026-08-13
+U116,paid electricity bill,4050,PKR,2026-08-30
+U117,paid maintenance charges,2750,PKR,2026-08-20
+U118,paid bus fare,300,PKR,2026-08-22
+U119,bought a new shirt,2500,PKR,2026-08-16
+U120,ordered pizza for dinner,1750,PKR,2026-09-10
+U121,bought bread and butter,500,PKR,2026-08-31
+U122,paid gas bill,2300,PKR,2026-08-18
+U123,bought cleaning supplies,1150,PKR,2026-09-10
+U124,bought medicine from pharmacy,2050,PKR,2026-09-09
+U125,bought a new shirt,2650,PKR,2026-08-17
+U126,bought a birthday gift,3400,PKR,2026-09-03
+U127,ordered pizza for dinner,1850,PKR,2026-09-06
+U128,paid maintenance charges,2400,PKR,2026-09-07
+U129,ordered pizza for dinner,2100,PKR,2026-08-15
+U130,paid internet bill,2700,PKR,2026-09-09
+U131,paid gas bill,3050,PKR,2026-08-16
+U132,bought a jacket,4550,PKR,2026-08-18
+U133,ordered food online,1400,PKR,2026-09-01
+U134,bought jeans,3500,PKR,2026-08-20
+U135,bought milk and eggs,700,PKR,2026-08-25
+U136,bought a jacket,4050,PKR,2026-08-22
+U137,paid internet bill,3150,PKR,2026-08-20
+U138,filled petrol in car,4900,PKR,2026-08-29
+U139,paid university fee,15350,PKR,2026-08-15
+U140,bought bread and butter,750,PKR,2026-09-03
+U141,paid mobile phone bill,1800,PKR,2026-09-07
+U142,paid doctor consultation fee,2550,PKR,2026-08-16
+U143,paid university fee,12750,PKR,2026-08-21
+U144,paid doctor consultation fee,2850,PKR,2026-09-06
+U145,bought fruits,1250,PKR,2026-08-18
+U146,bought a new shirt,2950,PKR,2026-08-23
+U147,bought laptop accessories,5350,PKR,2026-09-04
+U148,paid mobile phone bill,2100,PKR,2026-08-19
+U149,filled petrol in car,5350,PKR,2026-09-06
+U150,bought petrol for car,4000,PKR,2026-08-12
+U151,bought petrol for car,3800,PKR,2026-08-22
+U152,bought laptop accessories,5000,PKR,2026-09-08
+U153,bought a new shirt,2500,PKR,2026-09-06
+U154,paid gas bill,2650,PKR,2026-08-13
+U155,paid gym fee,2200,PKR,2026-09-07
+U156,bought a wedding gift,4650,PKR,2026-09-07
+U157,bought new shoes,3550,PKR,2026-09-02
+U158,took a taxi to office,700,PKR,2026-08-20
+U159,bought bread and butter,750,PKR,2026-08-20
+U160,bought medicine from pharmacy,1900,PKR,2026-08-24
+U161,ordered food online,1850,PKR,2026-08-15
+U162,bought jeans,3000,PKR,2026-09-11
+U163,bought jeans,2850,PKR,2026-08-31
+U164,paid university fee,14050,PKR,2026-09-06
+U165,bought lunch at restaurant,1350,PKR,2026-08-28
+U166,paid water bill,1100,PKR,2026-08-30
+U167,took a taxi to office,650,PKR,2026-09-03
+U168,paid university fee,12000,PKR,2026-09-10
+U169,took a taxi to office,700,PKR,2026-08-14
+U170,ordered food online,1650,PKR,2026-09-02
+U171,paid water bill,1300,PKR,2026-08-21
+U172,bought cleaning supplies,1200,PKR,2026-08-25
+U173,bought lunch at restaurant,1300,PKR,2026-08-21
+U174,paid internet bill,2600,PKR,2026-09-02
+U175,bought stationery for studies,950,PKR,2026-09-09
+U176,bought petrol for car,3650,PKR,2026-08-21
+U177,bought notebooks,1200,PKR,2026-08-12
+U178,ordered pizza for dinner,1600,PKR,2026-08-25
+U179,bought lunch at restaurant,1350,PKR,2026-08-26
+U180,paid bus fare,300,PKR,2026-09-06
+U181,filled petrol in car,4750,PKR,2026-08-21
+U182,bought cleaning supplies,1350,PKR,2026-08-31
+U183,ordered food online,1300,PKR,2026-09-11
+U184,bought a new shirt,2950,PKR,2026-08-19
+U185,took a taxi to office,600,PKR,2026-08-13
+U186,bought a new shirt,3300,PKR,2026-08-31
+U187,bought bread and butter,600,PKR,2026-09-09
+U188,took a taxi to office,800,PKR,2026-08-24
+U189,bought household items,2100,PKR,2026-08-16
+U190,bought groceries for the week,3700,PKR,2026-09-08
+U191,paid gas bill,3100,PKR,2026-08-19
+U192,bought petrol for car,3900,PKR,2026-09-03
+U193,paid maintenance charges,2950,PKR,2026-08-29
+U194,bought a new shirt,3250,PKR,2026-08-15
+U195,bought a wedding gift,4250,PKR,2026-08-26
+U196,paid maintenance charges,3550,PKR,2026-08-31
+U197,bought lunch at restaurant,1650,PKR,2026-09-09
+U198,bought a birthday gift,3100,PKR,2026-09-04
+U199,bought cleaning supplies,1250,PKR,2026-09-10
+U200,bought a birthday gift,3450,PKR,2026-09-04
+U201,paid gym fee,2450,PKR,2026-09-05
+U202,bought a new shirt,3150,PKR,2026-08-20
+U203,paid maintenance charges,2950,PKR,2026-08-19
+U204,bought a jacket,4850,PKR,2026-09-03
+U205,had dinner at restaurant,2200,PKR,2026-08-22
+U206,bought lunch at restaurant,1600,PKR,2026-08-14
+U207,paid internet bill,2550,PKR,2026-08-24
+U208,paid mobile phone bill,1900,PKR,2026-08-14
+U209,bought laptop accessories,4300,PKR,2026-08-29
+U210,bought a wedding gift,4800,PKR,2026-08-18
+U211,bought laptop accessories,4300,PKR,2026-09-05
+U212,bought vegetables,1000,PKR,2026-09-05
+U213,bought stationery for studies,850,PKR,2026-09-11
+U214,bought medicine from pharmacy,1650,PKR,2026-08-24
+U215,bought laptop accessories,4550,PKR,2026-09-04
+U216,bought new shoes,3950,PKR,2026-08-20
+U217,paid university fee,14900,PKR,2026-08-24
+U218,ordered food online,1700,PKR,2026-09-06
+U219,bought notebooks,1300,PKR,2026-09-07
+U220,bought a wedding gift,5800,PKR,2026-08-31
+U221,bought vegetables,1000,PKR,2026-08-30
+U222,bought vegetables,750,PKR,2026-08-25
+U223,paid internet bill,3400,PKR,2026-08-17
+U224,bought milk and eggs,750,PKR,2026-08-22
+U225,paid bus fare,250,PKR,2026-08-22
+U226,bought stationery for studies,800,PKR,2026-09-11
+U227,bought laptop accessories,4050,PKR,2026-08-14
+U228,paid gym fee,2000,PKR,2026-08-29
+U229,bought milk and eggs,1000,PKR,2026-08-23
+U230,bought new shoes,4200,PKR,2026-09-05
+U231,bought fruits,1200,PKR,2026-09-11
+U232,bought a new shirt,2450,PKR,2026-08-12
+U233,paid mobile phone bill,1600,PKR,2026-08-27
+U234,paid water bill,1200,PKR,2026-08-18
+U235,bought a wedding gift,5350,PKR,2026-09-05
+U236,paid doctor consultation fee,2150,PKR,2026-08-31
+U237,paid water bill,1300,PKR,2026-08-17
+U238,ordered pizza for dinner,1500,PKR,2026-08-12
+U239,ordered pizza for dinner,1850,PKR,2026-09-10
+U240,bought stationery for studies,850,PKR,2026-09-03
+U241,took a taxi to office,600,PKR,2026-09-03
+U242,bought a new shirt,2350,PKR,2026-09-05
+U243,ordered pizza for dinner,2050,PKR,2026-08-31
+U244,paid water bill,1300,PKR,2026-08-30
+U245,bought fruits,1000,PKR,2026-08-25
+U246,paid doctor consultation fee,2050,PKR,2026-09-01
+U247,ordered food online,1250,PKR,2026-08-25
+U248,bought household items,1850,PKR,2026-09-11
+U249,paid doctor consultation fee,2600,PKR,2026-09-07
+U250,bought a wedding gift,5400,PKR,2026-08-25
+U251,bought petrol for car,3800,PKR,2026-09-11
+U252,bought a jacket,5200,PKR,2026-09-10
+U253,paid gym fee,2450,PKR,2026-09-07
+U254,bought a jacket,4600,PKR,2026-08-19
+U255,paid electricity bill,3800,PKR,2026-08-26
+U256,bought a new shirt,3050,PKR,2026-08-30
+U257,bought stationery for studies,800,PKR,2026-08-27
+U258,bought lunch at restaurant,1200,PKR,2026-08-18
+U259,bought medicine from pharmacy,2000,PKR,2026-08-22
+U260,bought a jacket,5750,PKR,2026-09-03
+U261,bought a jacket,5100,PKR,2026-08-28
+U262,took a taxi to office,600,PKR,2026-09-04
+U263,bought laptop accessories,4450,PKR,2026-09-05
+U264,bought a new shirt,3000,PKR,2026-09-01
+U265,bought household items,2150,PKR,2026-08-12
+U266,paid electricity bill,3850,PKR,2026-08-24
+U267,bought a new shirt,2550,PKR,2026-08-30
+U268,paid doctor consultation fee,2450,PKR,2026-08-28
+U269,bought medicine from pharmacy,1700,PKR,2026-09-04
+U270,ordered food online,1500,PKR,2026-08-26
+U271,bought a jacket,4600,PKR,2026-08-19
+U272,paid water bill,1300,PKR,2026-08-22
+U273,paid water bill,1300,PKR,2026-09-11
+U274,bought petrol for car,3050,PKR,2026-09-04
+U275,paid gym fee,2250,PKR,2026-08-30
+U276,paid maintenance charges,3100,PKR,2026-08-15
+U277,took a taxi to office,650,PKR,2026-08-23
+U278,bought petrol for car,3200,PKR,2026-09-03
+U279,paid internet bill,2700,PKR,2026-08-13
+U280,had dinner at restaurant,2650,PKR,2026-08-16
+U281,bought household items,1850,PKR,2026-08-12
+U282,had dinner at restaurant,2450,PKR,2026-08-26
+U283,ordered food online,1350,PKR,2026-08-13
+U284,bought jeans,4100,PKR,2026-08-27
+U285,paid water bill,1350,PKR,2026-08-24
+U286,bought household items,1800,PKR,2026-09-01
+U287,bought milk and eggs,700,PKR,2026-09-06
+U288,ordered pizza for dinner,1500,PKR,2026-08-19
+U289,paid water bill,1200,PKR,2026-08-25
+U290,bought new shoes,4400,PKR,2026-08-24
+U291,bought a birthday gift,3450,PKR,2026-08-21
+U292,paid university fee,13800,PKR,2026-08-31
+U293,bought milk and eggs,850,PKR,2026-09-04
+U294,paid gas bill,3300,PKR,2026-08-18
+U295,paid bus fare,250,PKR,2026-08-14
+U296,filled petrol in car,4000,PKR,2026-08-29
+U297,bought bread and butter,550,PKR,2026-08-25
+U298,bought a birthday gift,3200,PKR,2026-08-27
+U299,had dinner at restaurant,2000,PKR,2026-08-21
+U300,had dinner at restaurant,2700,PKR,2026-08-26
+U301,bought bread and butter,650,PKR,2026-09-10
+U302,bought jeans,3900,PKR,2026-09-01
+U303,took a taxi to office,700,PKR,2026-08-29
+U304,bought new shoes,4200,PKR,2026-09-10
+U305,bought a jacket,5650,PKR,2026-08-14
+U306,bought milk and eggs,700,PKR,2026-08-21
+U307,had dinner at restaurant,2400,PKR,2026-08-26
+U308,ordered pizza for dinner,1900,PKR,2026-09-11
+U309,bought a jacket,5000,PKR,2026-08-27
+U310,bought a birthday gift,2450,PKR,2026-08-13
+U311,paid university fee,16400,PKR,2026-08-31
+U312,bought jeans,2800,PKR,2026-08-19
+U313,bought vegetables,1050,PKR,2026-09-02
+U314,bought a jacket,5150,PKR,2026-09-05
+U315,bought petrol for car,3450,PKR,2026-09-01
+U316,bought a birthday gift,3450,PKR,2026-08-17
+U317,paid university fee,15800,PKR,2026-08-27
+U318,paid electricity bill,4100,PKR,2026-08-25
+U319,ordered food online,1450,PKR,2026-08-15
+U320,filled petrol in car,4150,PKR,2026-09-03
+U321,bought household items,2000,PKR,2026-09-11
+U322,bought notebooks,1350,PKR,2026-08-29
+U323,bought fruits,1050,PKR,2026-08-22
+U324,bought jeans,3250,PKR,2026-09-05
+U325,bought notebooks,1350,PKR,2026-09-07
+U326,bought groceries for the week,3400,PKR,2026-08-29
+U327,bought a wedding gift,4800,PKR,2026-08-18
+U328,paid maintenance charges,2800,PKR,2026-09-05
+U329,bought household items,2300,PKR,2026-09-05
+U330,bought milk and eggs,700,PKR,2026-08-29
+U331,paid internet bill,3500,PKR,2026-08-26
+U332,bought household items,1850,PKR,2026-09-01
+U333,bought a new shirt,3000,PKR,2026-08-21
+U334,bought groceries for the week,3250,PKR,2026-08-14
+U335,bought new shoes,4750,PKR,2026-09-10
+U336,paid water bill,1150,PKR,2026-08-15
+U337,paid mobile phone bill,1750,PKR,2026-09-03
+U338,had dinner at restaurant,2500,PKR,2026-08-20
+U339,bought laptop accessories,5100,PKR,2026-08-27
+U340,bought a new shirt,2750,PKR,2026-08-16
+U341,bought stationery for studies,750,PKR,2026-08-31
+U342,bought cleaning supplies,1400,PKR,2026-08-16
+U343,bought bread and butter,550,PKR,2026-09-06
+U344,bought laptop accessories,4200,PKR,2026-09-06
+U345,bought cleaning supplies,1150,PKR,2026-08-12
+U346,had dinner at restaurant,2700,PKR,2026-09-07
+U347,bought household items,2500,PKR,2026-08-26
+U348,paid gym fee,2300,PKR,2026-08-29
+U349,bought stationery for studies,850,PKR,2026-08-22
+U350,took a taxi to office,850,PKR,2026-08-19
+U351,bought stationery for studies,800,PKR,2026-09-05
+U352,bought laptop accessories,3650,PKR,2026-09-04
+U353,paid gym fee,2700,PKR,2026-09-06
+U354,bought stationery for studies,850,PKR,2026-09-02
+U355,paid mobile phone bill,1750,PKR,2026-08-13
+U356,paid internet bill,3000,PKR,2026-08-30
+U357,ordered food online,1800,PKR,2026-09-08
+U358,bought a birthday gift,2500,PKR,2026-09-10
+U359,bought a wedding gift,4000,PKR,2026-08-16
+U360,bought laptop accessories,5150,PKR,2026-08-16
+U361,bought bread and butter,600,PKR,2026-08-20
+U362,ordered food online,1650,PKR,2026-08-24
+U363,paid electricity bill,4750,PKR,2026-09-08
+U364,bought stationery for studies,1050,PKR,2026-09-01
+U365,bought household items,2500,PKR,2026-08-13
+U366,bought bread and butter,550,PKR,2026-09-02
+U367,had dinner at restaurant,2950,PKR,2026-09-04
+U368,paid electricity bill,4050,PKR,2026-08-15
+U369,paid gas bill,2700,PKR,2026-09-03
+U370,ordered pizza for dinner,2050,PKR,2026-08-13
+U371,bought lunch at restaurant,1550,PKR,2026-08-21
+U372,bought medicine from pharmacy,1700,PKR,2026-08-16
+U373,bought a new shirt,2800,PKR,2026-08-30
+U374,bought petrol for car,3000,PKR,2026-08-14
+U375,bought stationery for studies,900,PKR,2026-08-19
+U376,bought household items,2550,PKR,2026-08-16
+U377,bought new shoes,3900,PKR,2026-08-20
+U378,bought a wedding gift,4500,PKR,2026-08-12
+U379,bought a wedding gift,5800,PKR,2026-09-02
+U380,filled petrol in car,3700,PKR,2026-09-11
+U381,bought medicine from pharmacy,2150,PKR,2026-08-21
+U382,paid university fee,16100,PKR,2026-08-26
+U383,ordered pizza for dinner,1550,PKR,2026-08-24
+U384,paid gym fee,2100,PKR,2026-08-24
+U385,bought medicine from pharmacy,1850,PKR,2026-09-03
+U386,had dinner at restaurant,2000,PKR,2026-09-07
+U387,bought notebooks,1050,PKR,2026-08-30
+U388,bought milk and eggs,950,PKR,2026-09-04
+U389,bought household items,2450,PKR,2026-09-09
+U390,had dinner at restaurant,2750,PKR,2026-08-19
+U391,bought medicine from pharmacy,1550,PKR,2026-08-18
+U392,bought jeans,3700,PKR,2026-09-04
+U393,paid internet bill,3150,PKR,2026-09-09
+U394,bought fruits,1000,PKR,2026-08-26
+U395,bought fruits,1100,PKR,2026-09-04
+U396,paid internet bill,2500,PKR,2026-08-21
+U397,bought lunch at restaurant,1500,PKR,2026-08-17
+U398,took a taxi to office,600,PKR,2026-08-29
+U399,paid doctor consultation fee,2500,PKR,2026-09-10
+U400,bought a jacket,5650,PKR,2026-08-20
+U401,paid gym fee,2950,PKR,2026-08-21
+U402,ordered food online,1750,PKR,2026-08-26
+U403,bought bread and butter,550,PKR,2026-09-11
+U404,bought new shoes,4550,PKR,2026-09-04
+U405,bought notebooks,1400,PKR,2026-09-06
+U406,paid doctor consultation fee,2050,PKR,2026-08-24
+U407,bought groceries for the week,2850,PKR,2026-08-15
+U408,bought a wedding gift,4700,PKR,2026-09-04
+U409,bought jeans,3600,PKR,2026-09-07
+U410,paid doctor consultation fee,2100,PKR,2026-08-19
+U411,paid gym fee,2000,PKR,2026-09-09
+U412,bought lunch at restaurant,1600,PKR,2026-08-19
+U413,bought bread and butter,650,PKR,2026-08-26
+U414,ordered pizza for dinner,1900,PKR,2026-08-15
+U415,paid internet bill,2450,PKR,2026-08-13
+U416,ordered pizza for dinner,2150,PKR,2026-08-15
+U417,paid gas bill,2500,PKR,2026-08-29
+U418,paid internet bill,2850,PKR,2026-08-23
+U419,bought laptop accessories,4650,PKR,2026-09-04
+U420,paid mobile phone bill,2050,PKR,2026-09-01
+U421,paid gas bill,3150,PKR,2026-08-31
+U422,bought laptop accessories,5250,PKR,2026-08-20
+U423,bought fruits,1150,PKR,2026-08-18
+U424,bought a birthday gift,2900,PKR,2026-08-19
+U425,paid doctor consultation fee,2050,PKR,2026-09-02
+U426,paid doctor consultation fee,2500,PKR,2026-09-01
+U427,bought medicine from pharmacy,1450,PKR,2026-08-20
+U428,took a taxi to office,850,PKR,2026-09-11
+U429,bought a wedding gift,4150,PKR,2026-08-18
+U430,bought vegetables,700,PKR,2026-08-22
+U431,bought a new shirt,3300,PKR,2026-09-06
+U432,paid bus fare,200,PKR,2026-09-05
+U433,paid bus fare,300,PKR,2026-09-07
+U434,bought new shoes,3700,PKR,2026-08-16
+U435,bought groceries for the week,2900,PKR,2026-08-16
+U436,paid internet bill,3000,PKR,2026-09-06
+U437,bought petrol for car,2950,PKR,2026-09-08
+U438,bought vegetables,750,PKR,2026-08-23
+U439,bought a new shirt,2850,PKR,2026-08-12
+U440,bought petrol for car,3150,PKR,2026-08-16
+U441,bought laptop accessories,4500,PKR,2026-09-04
+U442,bought bread and butter,600,PKR,2026-09-05
+U443,paid doctor consultation fee,2500,PKR,2026-08-15
+U444,bought a birthday gift,3000,PKR,2026-09-11
+U445,bought fruits,1150,PKR,2026-09-10
+U446,paid maintenance charges,2750,PKR,2026-09-01
+U447,bought vegetables,700,PKR,2026-08-27
+U448,bought notebooks,1150,PKR,2026-08-15
+U449,bought household items,2350,PKR,2026-08-26
+U450,bought bread and butter,750,PKR,2026-08-22
+U451,paid mobile phone bill,1450,PKR,2026-08-20
+U452,bought lunch at restaurant,1300,PKR,2026-08-31
+U453,paid maintenance charges,2750,PKR,2026-08-28
+U454,paid university fee,12550,PKR,2026-09-03
+U455,paid water bill,1350,PKR,2026-09-01
+U456,paid bus fare,250,PKR,2026-09-09
+U457,bought new shoes,3850,PKR,2026-09-07
+U458,bought a wedding gift,4750,PKR,2026-09-04
+U459,paid gas bill,2550,PKR,2026-08-22
+U460,bought jeans,3300,PKR,2026-08-16
+U461,paid gym fee,2050,PKR,2026-09-07
+U462,paid electricity bill,3500,PKR,2026-08-15
+U463,paid doctor consultation fee,2800,PKR,2026-08-29
+U464,bought milk and eggs,850,PKR,2026-08-29
+U465,ordered food online,1700,PKR,2026-08-25
+U466,bought medicine from pharmacy,2050,PKR,2026-09-11
+U467,paid university fee,17200,PKR,2026-09-04
+U468,bought milk and eggs,1000,PKR,2026-08-31
+U469,ordered pizza for dinner,1650,PKR,2026-08-30
+U470,bought cleaning supplies,1150,PKR,2026-09-02
+U471,paid gym fee,2200,PKR,2026-08-15
+U472,bought medicine from pharmacy,2000,PKR,2026-08-23
+U473,paid water bill,1300,PKR,2026-08-30
+U474,bought new shoes,4450,PKR,2026-09-08
+U475,bought vegetables,900,PKR,2026-09-02
+U476,bought a jacket,4050,PKR,2026-08-20
+U477,ordered pizza for dinner,2100,PKR,2026-08-23
+U478,bought groceries for the week,2750,PKR,2026-08-16
+U479,bought notebooks,950,PKR,2026-09-04
+U480,bought vegetables,750,PKR,2026-08-28
+U481,paid bus fare,250,PKR,2026-08-26
+U482,ordered food online,1350,PKR,2026-08-21
+U483,bought lunch at restaurant,1550,PKR,2026-08-30
+U484,paid electricity bill,4800,PKR,2026-08-16
+U485,filled petrol in car,4950,PKR,2026-08-13
+U486,paid electricity bill,3800,PKR,2026-09-02
+U487,paid university fee,14900,PKR,2026-08-26
+U488,bought laptop accessories,4050,PKR,2026-09-05
+U489,bought cleaning supplies,1050,PKR,2026-08-25
+U490,paid water bill,1050,PKR,2026-09-02
+U491,bought household items,2200,PKR,2026-08-21
+U492,bought fruits,950,PKR,2026-08-31
+U493,bought milk and eggs,650,PKR,2026-08-21
+U494,paid bus fare,300,PKR,2026-09-05
+U495,bought jeans,3200,PKR,2026-08-15
+U496,bought groceries for the week,3150,PKR,2026-08-25
+U497,bought petrol for car,2950,PKR,2026-08-29
+U498,bought new shoes,4000,PKR,2026-09-07
+U499,bought medicine from pharmacy,1450,PKR,2026-09-08
+U500,bought fruits,1050,PKR,2026-08-26
