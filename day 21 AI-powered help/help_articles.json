@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "How to Add an Expense",
+        "keywords": [
+            "expense",
+            "add expense",
+            "new expense",
+            "record expense"
+        ],
+        "category": "Expenses",
+        "description": "Learn how to add and save a new expense in HisabDo."
+    },
+    {
+        "id": 2,
+        "title": "Understanding Expense Categories",
+        "keywords": [
+            "category",
+            "expense category",
+            "categorization",
+            "classify expense"
+        ],
+        "category": "Expenses",
+        "description": "Learn how expenses are categorized and how to review categories."
+    },
+    {
+        "id": 3,
+        "title": "How to Create a Financial Goal",
+        "keywords": [
+            "financial goal",
+            "goal",
+            "saving goal",
+            "target"
+        ],
+        "category": "Financial Goals",
+        "description": "Learn how to create and monitor a financial goal."
+    },
+    {
+        "id": 4,
+        "title": "Understanding Monthly Insights",
+        "keywords": [
+            "monthly insights",
+            "monthly report",
+            "insights",
+            "monthly spending"
+        ],
+        "category": "Insights",
+        "description": "Learn how to understand your monthly financial insights."
+    },
+    {
+        "id": 5,
+        "title": "How Payment Reminders Work",
+        "keywords": [
+            "payment",
+            "payment reminder",
+            "due payment",
+            "reminder"
+        ],
+        "category": "Payments",
+        "description": "Learn how to view and manage upcoming payment reminders."
+    },
+    {
+        "id": 6,
+        "title": "Understanding Business Health Score",
+        "keywords": [
+            "business health",
+            "health score",
+            "business score",
+            "performance"
+        ],
+        "category": "Business",
+        "description": "Learn how the Business Health Score represents business performance."
+    },
+    {
+        "id": 7,
+        "title": "What to Do When a Payment Fails",
+        "keywords": [
+            "payment failed",
+            "payment error",
+            "failed payment",
+            "payment problem"
+        ],
+        "category": "Troubleshooting",
+        "description": "Troubleshooting steps for common payment problems."
+    },
+    {
+        "id": 8,
+        "title": "What to Do When an Expense Is Not Saved",
+        "keywords": [
+            "expense not saved",
+            "save expense error",
+            "expense error",
+            "cannot save expense"
+        ],
+        "category": "Troubleshooting",
+        "description": "Troubleshooting steps when an expense cannot be saved."
+    }
+]
