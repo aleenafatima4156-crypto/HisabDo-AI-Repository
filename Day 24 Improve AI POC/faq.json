@@ -1,0 +1,32 @@
+[
+  {
+    "question": "How can I add an expense?",
+    "keywords": ["expense", "add", "create", "new", "transaction"],
+    "category": "Expenses",
+    "answer": "Open the Expenses section, select Add Expense, enter the expense details, review them, and save the transaction."
+  },
+  {
+    "question": "How can I view my expenses?",
+    "keywords": ["expense", "view", "list", "history"],
+    "category": "Expenses",
+    "answer": "Open the Expenses section to view your recorded expenses and transaction history."
+  },
+  {
+    "question": "How can I create an invoice?",
+    "keywords": ["invoice", "create", "new", "bill"],
+    "category": "Invoices",
+    "answer": "Open Invoices, select Create Invoice, add the customer and items, review the details, and save the invoice."
+  },
+  {
+    "question": "How can I view reports?",
+    "keywords": ["report", "reports", "view", "analytics"],
+    "category": "Reports",
+    "answer": "Open the Reports section and select the report type you want to view."
+  },
+  {
+    "question": "How can I update my profile?",
+    "keywords": ["profile", "account", "update", "edit"],
+    "category": "Account",
+    "answer": "Open your account or profile settings, update the required information, and save the changes."
+  }
+]
