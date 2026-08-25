@@ -1,0 +1,3001 @@
+expense,category,amount,currency,date
+paid house rent,Home & Rent,73097,PKR,2026-03-04
+bought shirt online,Shopping,3658,PKR,2026-06-23
+miscellaneous purchase,Other,19449,PKR,2026-04-19
+bought groceries,Food & Groceries,3682,PKR,2026-03-01
+bought perfume,Personal Care,9395,PKR,2026-02-20
+miscellaneous purchase yesterday,Other,7323,PKR,2026-04-25
+bought train ticket,Travel,42853,PKR,2026-06-28
+paid streaming subscription this week,Entertainment,2747,PKR,2026-02-25
+bought medicine,Healthcare,25198,PKR,2026-01-25
+bought prescription medicine this week,Healthcare,39865,PKR,2026-03-09
+bought snacks for family,Food & Groceries,2145,PKR,2026-04-07
+paid utility bill this week,Utilities,12350,PKR,2026-05-28
+bought clothes,Shopping,21968,PKR,2026-02-28
+bought books today,Education,13738,PKR,2026-04-08
+paid exam fee online,Education,48319,PKR,2026-02-11
+visited hospital today,Healthcare,44220,PKR,2026-03-10
+miscellaneous expense for family,Other,5707,PKR,2026-05-17
+paid miscellaneous charges today,Other,15247,PKR,2026-04-08
+paid school fee online,Education,43004,PKR,2026-08-04
+bought chicken,Food & Groceries,13289,PKR,2026-03-22
+paid streaming subscription,Entertainment,3656,PKR,2026-05-26
+general expense today,Other,16458,PKR,2026-04-12
+bought home appliances today,Home & Rent,70436,PKR,2026-02-05
+bought household items for family,Shopping,8909,PKR,2026-07-11
+paid travel fare for family,Travel,105700,PKR,2026-04-03
+bought shirt for family,Shopping,16471,PKR,2026-01-24
+bought fruits today,Food & Groceries,10380,PKR,2026-02-10
+bought home appliances for family,Home & Rent,17653,PKR,2026-04-09
+bought concert ticket yesterday,Entertainment,8869,PKR,2026-03-06
+haircut online,Personal Care,12008,PKR,2026-01-30
+paid maintenance charges this week,Home & Rent,90174,PKR,2026-01-29
+bought educational material today,Education,59970,PKR,2026-01-01
+general expense for family,Other,5954,PKR,2026-05-10
+paid mobile bill this week,Utilities,17135,PKR,2026-06-05
+bought shirt this week,Shopping,25285,PKR,2026-02-11
+bought perfume,Personal Care,10013,PKR,2026-03-24
+paid credit card bill,Bills & Payments,48076,PKR,2026-08-13
+paid school fee,Education,32071,PKR,2026-08-13
+booked hotel,Travel,128399,PKR,2026-07-28
+paid utility bill today,Utilities,4707,PKR,2026-06-18
+paid service fee today,Bills & Payments,35241,PKR,2026-05-16
+paid travel fare today,Travel,142373,PKR,2026-07-13
+paid miscellaneous charges online,Other,10314,PKR,2026-04-13
+bought cleaning supplies this week,Home & Rent,115845,PKR,2026-08-19
+visited salon,Personal Care,4261,PKR,2026-02-27
+paid water bill,Utilities,19777,PKR,2026-05-22
+online shopping today,Shopping,535,PKR,2026-01-19
+miscellaneous expense today,Other,2308,PKR,2026-08-20
+restaurant dinner,Food & Groceries,8523,PKR,2026-03-02
+paid exam fee today,Education,71178,PKR,2026-02-03
+miscellaneous purchase for family,Other,15588,PKR,2026-03-04
+paid monthly bill today,Bills & Payments,12863,PKR,2026-01-25
+bought home appliances this week,Home & Rent,112038,PKR,2026-04-16
+paid online bill,Bills & Payments,88759,PKR,2026-06-17
+paid house rent,Home & Rent,106544,PKR,2026-07-06
+bought prescription medicine,Healthcare,16595,PKR,2026-02-19
+bought household items yesterday,Shopping,4893,PKR,2026-04-19
+booked ride yesterday,Transportation,4192,PKR,2026-08-12
+paid internet bill for family,Utilities,3708,PKR,2026-01-13
+paid maintenance charges,Home & Rent,25448,PKR,2026-07-12
+bought shirt yesterday,Shopping,16213,PKR,2026-05-04
+bought cosmetics,Shopping,5694,PKR,2026-04-08
+pizza for dinner this week,Food & Groceries,12946,PKR,2026-07-20
+paid bank charges yesterday,Bills & Payments,91803,PKR,2026-07-07
+bought personal care items online,Personal Care,8173,PKR,2026-02-09
+bought handbag today,Shopping,2216,PKR,2026-05-29
+miscellaneous purchase,Other,10376,PKR,2026-01-15
+bought cooking oil for family,Food & Groceries,14070,PKR,2026-05-16
+filled petrol in car for family,Transportation,1412,PKR,2026-08-06
+filled fuel for family,Transportation,1213,PKR,2026-06-22
+bought cosmetics,Shopping,29472,PKR,2026-05-26
+online shopping for family,Shopping,1602,PKR,2026-06-08
+paid internet bill online,Utilities,19625,PKR,2026-05-25
+bought skincare products this week,Personal Care,3546,PKR,2026-06-21
+general expense today,Other,8803,PKR,2026-04-12
+booked ride yesterday,Transportation,5280,PKR,2026-07-12
+paid electricity bill yesterday,Utilities,18948,PKR,2026-01-26
+paid utility bill today,Utilities,17076,PKR,2026-03-09
+paid rickshaw fare,Transportation,14505,PKR,2026-03-04
+visited hospital today,Healthcare,29016,PKR,2026-08-02
+bought personal care items this week,Personal Care,10221,PKR,2026-07-26
+paid maintenance charges,Home & Rent,146385,PKR,2026-03-18
+paid house rent today,Home & Rent,70328,PKR,2026-01-30
+paid mobile bill for family,Utilities,5593,PKR,2026-03-11
+paid school fee online,Education,45442,PKR,2026-02-22
+bought cleaning supplies this week,Home & Rent,133489,PKR,2026-05-06
+paid university fee,Education,83636,PKR,2026-04-19
+paid university fee,Education,44219,PKR,2026-07-17
+booked ride today,Transportation,12244,PKR,2026-04-24
+bought personal care items yesterday,Personal Care,9389,PKR,2026-01-03
+paid electricity bill online,Utilities,5384,PKR,2026-05-20
+restaurant lunch for family,Food & Groceries,9152,PKR,2026-02-07
+bought movie ticket,Entertainment,5250,PKR,2026-04-04
+restaurant lunch today,Food & Groceries,11274,PKR,2026-03-05
+paid house rent this week,Home & Rent,147770,PKR,2026-08-15
+bought concert ticket online,Entertainment,2732,PKR,2026-03-02
+paid bus fare yesterday,Transportation,506,PKR,2026-02-15
+general expense yesterday,Other,8231,PKR,2026-03-10
+filled fuel yesterday,Transportation,14389,PKR,2026-01-10
+paid loan installment today,Bills & Payments,60832,PKR,2026-03-31
+paid school fee today,Education,3601,PKR,2026-06-18
+bought cosmetics this week,Shopping,9429,PKR,2026-08-10
+paid water bill this week,Utilities,17192,PKR,2026-04-13
+home repair for family,Home & Rent,87808,PKR,2026-01-08
+paid water bill today,Utilities,19524,PKR,2026-03-09
+bought fruits for family,Food & Groceries,7219,PKR,2026-03-30
+general expense yesterday,Other,19964,PKR,2026-05-11
+paid internet bill for family,Utilities,6728,PKR,2026-03-07
+ordered food,Food & Groceries,8618,PKR,2026-07-26
+bought personal care items online,Personal Care,12356,PKR,2026-07-08
+paid apartment rent this week,Home & Rent,114062,PKR,2026-01-18
+bought furniture for family,Home & Rent,83291,PKR,2026-06-19
+paid mobile bill this week,Utilities,17117,PKR,2026-03-21
+bought home appliances this week,Home & Rent,106486,PKR,2026-06-28
+bought stationery today,Education,55608,PKR,2026-06-20
+played games online,Entertainment,14991,PKR,2026-02-14
+booked bus ticket this week,Travel,107450,PKR,2026-05-21
+bought flour this week,Food & Groceries,3543,PKR,2026-04-21
+booked bus ticket online,Travel,85475,PKR,2026-04-30
+paid monthly bill online,Bills & Payments,28510,PKR,2026-05-11
+paid online bill today,Bills & Payments,86856,PKR,2026-01-22
+paid course fee,Education,98953,PKR,2026-03-02
+bought furniture today,Home & Rent,53200,PKR,2026-02-07
+grocery shopping today,Food & Groceries,7884,PKR,2026-06-06
+paid internet bill yesterday,Utilities,19363,PKR,2026-02-19
+other payment yesterday,Other,13195,PKR,2026-03-04
+filled petrol in car,Transportation,12853,PKR,2026-04-19
+bought shirt online,Shopping,17272,PKR,2026-04-29
+bought chicken,Food & Groceries,7578,PKR,2026-02-04
+paid online bill for family,Bills & Payments,73759,PKR,2026-06-02
+bought prescription medicine yesterday,Healthcare,40450,PKR,2026-07-28
+miscellaneous purchase yesterday,Other,18052,PKR,2026-04-25
+changed car oil yesterday,Transportation,4346,PKR,2026-07-12
+bought handbag for family,Shopping,16179,PKR,2026-06-10
+bought handbag yesterday,Shopping,2838,PKR,2026-07-02
+paid school fee this week,Education,44520,PKR,2026-03-23
+haircut today,Personal Care,2671,PKR,2026-03-01
+played games today,Entertainment,11773,PKR,2026-02-24
+paid internet bill yesterday,Utilities,11342,PKR,2026-05-19
+paid monthly bill,Bills & Payments,27610,PKR,2026-08-02
+went to amusement park for family,Entertainment,11595,PKR,2026-01-06
+paid travel fare yesterday,Travel,2545,PKR,2026-04-01
+bought educational material yesterday,Education,71045,PKR,2026-07-11
+miscellaneous purchase for family,Other,7326,PKR,2026-05-05
+bought handbag yesterday,Shopping,16213,PKR,2026-01-08
+paid streaming subscription online,Entertainment,11327,PKR,2026-07-24
+played games today,Entertainment,13970,PKR,2026-04-30
+filled petrol in car yesterday,Transportation,9797,PKR,2026-05-25
+paid house rent,Home & Rent,113358,PKR,2026-02-04
+paid loan installment,Bills & Payments,34599,PKR,2026-04-08
+paid doctor fee yesterday,Healthcare,21720,PKR,2026-03-28
+paid streaming subscription yesterday,Entertainment,4333,PKR,2026-08-02
+paid internet bill,Utilities,18175,PKR,2026-01-14
+paid doctor fee online,Healthcare,4796,PKR,2026-07-19
+paid house rent,Home & Rent,65823,PKR,2026-02-21
+bought milk today,Food & Groceries,2168,PKR,2026-05-02
+paid house rent for family,Home & Rent,58138,PKR,2026-04-30
+general expense this week,Other,5598,PKR,2026-06-05
+paid hotel bill online,Travel,31024,PKR,2026-07-19
+booked ride,Transportation,9581,PKR,2026-01-07
+bought educational material yesterday,Education,94218,PKR,2026-02-20
+paid utility bill online,Utilities,8457,PKR,2026-01-27
+general expense online,Other,19774,PKR,2026-07-26
+paid utility bill,Utilities,11877,PKR,2026-05-17
+played games this week,Entertainment,1329,PKR,2026-05-10
+bought furniture,Home & Rent,111115,PKR,2026-07-30
+paid credit card bill yesterday,Bills & Payments,47972,PKR,2026-06-12
+paid online bill today,Bills & Payments,57580,PKR,2026-02-15
+miscellaneous purchase online,Other,8950,PKR,2026-06-07
+visited salon yesterday,Personal Care,7336,PKR,2026-07-31
+miscellaneous purchase this week,Other,10661,PKR,2026-08-07
+bought clothes this week,Shopping,29189,PKR,2026-04-26
+bought accessories for family,Shopping,20299,PKR,2026-06-21
+paid streaming subscription,Entertainment,8298,PKR,2026-08-06
+paid doctor fee yesterday,Healthcare,14201,PKR,2026-04-01
+paid course fee this week,Education,78639,PKR,2026-06-29
+paid university fee for family,Education,25542,PKR,2026-01-22
+bought cosmetics yesterday,Shopping,18492,PKR,2026-07-14
+bought accessories online,Shopping,23625,PKR,2026-05-06
+paid credit card bill,Bills & Payments,39066,PKR,2026-02-26
+played games today,Entertainment,5216,PKR,2026-06-19
+bought train ticket yesterday,Travel,146089,PKR,2026-05-16
+bought vitamins online,Healthcare,36370,PKR,2026-03-26
+dental checkup yesterday,Healthcare,18054,PKR,2026-03-20
+paid school fee,Education,95040,PKR,2026-02-19
+bought medicine online,Healthcare,35418,PKR,2026-07-15
+paid miscellaneous charges today,Other,7190,PKR,2026-07-09
+paid bank charges online,Bills & Payments,77778,PKR,2026-07-14
+bought perfume this week,Personal Care,1847,PKR,2026-08-02
+bought handbag today,Shopping,12125,PKR,2026-02-15
+paid university fee online,Education,70510,PKR,2026-02-02
+paid university fee,Education,73029,PKR,2026-03-16
+paid miscellaneous charges online,Other,16185,PKR,2026-01-27
+bought flour yesterday,Food & Groceries,7943,PKR,2026-04-23
+paid doctor fee,Healthcare,16846,PKR,2026-08-09
+paid credit card bill,Bills & Payments,53021,PKR,2026-05-06
+paid utility bill online,Utilities,2256,PKR,2026-02-08
+booked ride,Transportation,4166,PKR,2026-01-31
+visited salon for family,Personal Care,9966,PKR,2026-07-22
+booked flight for family,Travel,100713,PKR,2026-04-26
+paid bank charges for family,Bills & Payments,56707,PKR,2026-03-20
+booked bus ticket,Travel,27013,PKR,2026-07-15
+bought trousers this week,Shopping,21940,PKR,2026-01-21
+paid taxi fare today,Transportation,9143,PKR,2026-01-20
+filled petrol in car yesterday,Transportation,7481,PKR,2026-06-26
+paid travel fare this week,Travel,9556,PKR,2026-03-01
+bought notebooks online,Education,60010,PKR,2026-01-19
+paid apartment rent this week,Home & Rent,52857,PKR,2026-04-19
+paid utility bill today,Utilities,5382,PKR,2026-03-10
+filled fuel,Transportation,2818,PKR,2026-07-22
+bought notebooks yesterday,Education,16799,PKR,2026-04-30
+general expense online,Other,13289,PKR,2026-03-11
+bought perfume yesterday,Personal Care,7372,PKR,2026-01-21
+booked hotel yesterday,Travel,85494,PKR,2026-06-04
+paid university fee,Education,30505,PKR,2026-06-22
+booked bus ticket,Travel,71650,PKR,2026-05-28
+bought bread yesterday,Food & Groceries,8602,PKR,2026-06-16
+paid bank charges today,Bills & Payments,77220,PKR,2026-04-22
+home repair yesterday,Home & Rent,24918,PKR,2026-05-01
+bought vitamins this week,Healthcare,21340,PKR,2026-06-21
+paid gas bill this week,Utilities,13988,PKR,2026-06-27
+paid bank charges online,Bills & Payments,52988,PKR,2026-07-28
+haircut yesterday,Personal Care,1642,PKR,2026-03-22
+paid course fee,Education,53476,PKR,2026-08-10
+haircut online,Personal Care,14443,PKR,2026-05-19
+paid monthly bill,Bills & Payments,25086,PKR,2026-05-13
+paid medical bill yesterday,Healthcare,41286,PKR,2026-04-24
+bought eggs this week,Food & Groceries,9098,PKR,2026-02-03
+paid exam fee online,Education,64032,PKR,2026-02-01
+bought chicken online,Food & Groceries,2694,PKR,2026-03-21
+haircut for family,Personal Care,6884,PKR,2026-01-24
+bought clothes yesterday,Shopping,4149,PKR,2026-06-15
+changed car oil online,Transportation,4881,PKR,2026-05-11
+general expense yesterday,Other,15910,PKR,2026-05-01
+bought accessories for family,Shopping,5039,PKR,2026-04-09
+online shopping for family,Shopping,24754,PKR,2026-08-14
+filled fuel this week,Transportation,12759,PKR,2026-07-22
+paid streaming subscription for family,Entertainment,4577,PKR,2026-07-30
+bought flour online,Food & Groceries,4991,PKR,2026-08-03
+booked bus ticket online,Travel,129356,PKR,2026-08-10
+changed car oil for family,Transportation,8035,PKR,2026-03-30
+paid medical bill for family,Healthcare,25020,PKR,2026-04-27
+bought prescription medicine today,Healthcare,46011,PKR,2026-03-03
+paid travel fare today,Travel,108682,PKR,2026-01-12
+dental checkup yesterday,Healthcare,46517,PKR,2026-07-27
+went to amusement park online,Entertainment,13182,PKR,2026-07-30
+paid apartment rent yesterday,Home & Rent,10704,PKR,2026-02-02
+bought perfume this week,Personal Care,14449,PKR,2026-01-26
+paid credit card bill for family,Bills & Payments,60390,PKR,2026-01-04
+paid miscellaneous charges yesterday,Other,5158,PKR,2026-01-20
+paid bank charges this week,Bills & Payments,82191,PKR,2026-06-27
+played games,Entertainment,14155,PKR,2026-03-26
+home repair for family,Home & Rent,100617,PKR,2026-03-23
+bought cleaning supplies yesterday,Home & Rent,142824,PKR,2026-01-10
+booked hotel today,Travel,76334,PKR,2026-02-28
+miscellaneous expense yesterday,Other,3325,PKR,2026-07-14
+bought cleaning supplies,Home & Rent,117307,PKR,2026-02-12
+general expense,Other,1607,PKR,2026-03-25
+bought flour this week,Food & Groceries,6241,PKR,2026-04-21
+paid taxi fare for family,Transportation,6851,PKR,2026-05-25
+home repair today,Home & Rent,45560,PKR,2026-02-14
+paid utility bill yesterday,Utilities,8391,PKR,2026-05-08
+booked flight today,Travel,121887,PKR,2026-06-13
+paid exam fee this week,Education,87904,PKR,2026-01-03
+paid bank charges online,Bills & Payments,72143,PKR,2026-02-10
+paid internet bill this week,Utilities,19753,PKR,2026-03-18
+bought home appliances online,Home & Rent,66561,PKR,2026-04-27
+paid school fee yesterday,Education,63835,PKR,2026-01-28
+bought cosmetics for family,Shopping,12062,PKR,2026-05-28
+bought notebooks,Education,86775,PKR,2026-04-12
+paid university fee for family,Education,90389,PKR,2026-07-19
+miscellaneous expense for family,Other,16376,PKR,2026-08-02
+paid school fee for family,Education,46679,PKR,2026-02-26
+paid apartment rent for family,Home & Rent,66700,PKR,2026-06-23
+paid miscellaneous charges online,Other,3283,PKR,2026-08-20
+bought cleaning supplies,Home & Rent,81984,PKR,2026-07-21
+paid credit card bill for family,Bills & Payments,48323,PKR,2026-07-07
+filled fuel this week,Transportation,5452,PKR,2026-07-11
+bought movie ticket today,Entertainment,2365,PKR,2026-07-21
+bought skincare products for family,Personal Care,8421,PKR,2026-03-11
+booked ride yesterday,Transportation,13313,PKR,2026-03-17
+general expense,Other,15446,PKR,2026-01-20
+paid taxi fare online,Transportation,11965,PKR,2026-06-22
+paid gaming subscription for family,Entertainment,6192,PKR,2026-01-24
+watched a movie this week,Entertainment,8991,PKR,2026-02-01
+paid bank charges online,Bills & Payments,98674,PKR,2026-06-22
+bought educational material online,Education,49189,PKR,2026-01-28
+paid apartment rent yesterday,Home & Rent,7560,PKR,2026-06-08
+bought skincare products for family,Personal Care,3826,PKR,2026-06-15
+paid mobile bill yesterday,Utilities,10402,PKR,2026-06-16
+watched a movie today,Entertainment,942,PKR,2026-01-10
+paid exam fee,Education,13239,PKR,2026-03-02
+bought shampoo yesterday,Personal Care,7632,PKR,2026-04-05
+bought cleaning supplies online,Home & Rent,142608,PKR,2026-04-18
+paid hotel bill online,Travel,41507,PKR,2026-08-15
+played games,Entertainment,13859,PKR,2026-05-06
+paid travel fare this week,Travel,9576,PKR,2026-06-26
+paid doctor fee yesterday,Healthcare,29443,PKR,2026-03-02
+bought medicine online,Healthcare,24373,PKR,2026-05-20
+bought furniture,Home & Rent,105369,PKR,2026-03-12
+bought clothes yesterday,Shopping,3303,PKR,2026-06-19
+online shopping,Shopping,1957,PKR,2026-07-21
+paid doctor fee today,Healthcare,37300,PKR,2026-02-22
+paid utility bill today,Utilities,19714,PKR,2026-02-25
+bought watch today,Shopping,26142,PKR,2026-08-19
+booked hotel this week,Travel,38929,PKR,2026-02-03
+bought skincare products today,Personal Care,2001,PKR,2026-06-19
+bought milk,Food & Groceries,5969,PKR,2026-07-22
+online shopping this week,Shopping,817,PKR,2026-02-14
+paid university fee today,Education,97718,PKR,2026-04-18
+haircut online,Personal Care,1241,PKR,2026-05-02
+paid bank charges for family,Bills & Payments,78312,PKR,2026-01-28
+paid service fee today,Bills & Payments,81123,PKR,2026-01-12
+miscellaneous purchase this week,Other,15109,PKR,2026-06-14
+grocery shopping yesterday,Food & Groceries,13982,PKR,2026-04-13
+played games,Entertainment,8232,PKR,2026-07-02
+paid credit card bill,Bills & Payments,42719,PKR,2026-06-05
+filled fuel today,Transportation,4605,PKR,2026-06-09
+paid maintenance charges for family,Home & Rent,86245,PKR,2026-04-08
+booked bus ticket this week,Travel,119938,PKR,2026-05-10
+paid travel fare,Travel,30992,PKR,2026-08-07
+bought cleaning supplies for family,Home & Rent,57367,PKR,2026-04-21
+paid loan installment yesterday,Bills & Payments,44924,PKR,2026-07-31
+paid monthly bill yesterday,Bills & Payments,96131,PKR,2026-01-25
+bought vitamins this week,Healthcare,43888,PKR,2026-03-07
+paid doctor fee online,Healthcare,31381,PKR,2026-01-18
+paid electricity bill,Utilities,14651,PKR,2026-01-25
+general expense today,Other,18331,PKR,2026-01-16
+booked bus ticket for family,Travel,87414,PKR,2026-06-21
+paid internet bill this week,Utilities,14358,PKR,2026-08-11
+miscellaneous expense this week,Other,19774,PKR,2026-03-21
+bought medicine for family,Healthcare,33553,PKR,2026-02-24
+changed car oil today,Transportation,13981,PKR,2026-01-28
+bought prescription medicine for family,Healthcare,24388,PKR,2026-01-30
+paid school fee yesterday,Education,74026,PKR,2026-07-16
+booked bus ticket online,Travel,146945,PKR,2026-01-07
+paid hotel bill online,Travel,71109,PKR,2026-01-08
+booked ride online,Transportation,12591,PKR,2026-03-21
+visited hospital,Healthcare,12188,PKR,2026-08-11
+car maintenance,Transportation,2424,PKR,2026-07-09
+paid house rent,Home & Rent,140062,PKR,2026-02-25
+went to amusement park yesterday,Entertainment,5785,PKR,2026-02-10
+visited hospital online,Healthcare,21558,PKR,2026-07-18
+booked bus ticket,Travel,14791,PKR,2026-02-09
+filled petrol in car online,Transportation,1436,PKR,2026-03-11
+paid online bill yesterday,Bills & Payments,64156,PKR,2026-06-05
+paid monthly bill this week,Bills & Payments,28755,PKR,2026-07-13
+haircut this week,Personal Care,7243,PKR,2026-01-29
+paid exam fee for family,Education,87942,PKR,2026-03-20
+bought chicken yesterday,Food & Groceries,9919,PKR,2026-01-15
+bought eggs this week,Food & Groceries,3560,PKR,2026-07-16
+booked ride this week,Transportation,5475,PKR,2026-01-31
+bought cooking oil online,Food & Groceries,7155,PKR,2026-02-14
+car maintenance for family,Transportation,11628,PKR,2026-02-28
+bought perfume online,Personal Care,13408,PKR,2026-04-01
+paid internet bill online,Utilities,1886,PKR,2026-04-22
+bought snacks,Food & Groceries,14224,PKR,2026-03-22
+paid travel fare for family,Travel,107017,PKR,2026-07-01
+bought home appliances this week,Home & Rent,31192,PKR,2026-04-14
+restaurant dinner today,Food & Groceries,13228,PKR,2026-06-08
+paid online bill this week,Bills & Payments,12051,PKR,2026-04-22
+paid gas bill yesterday,Utilities,19796,PKR,2026-04-13
+haircut yesterday,Personal Care,14462,PKR,2026-03-21
+general expense today,Other,11013,PKR,2026-07-19
+filled fuel for family,Transportation,10474,PKR,2026-01-30
+bought perfume today,Personal Care,12917,PKR,2026-03-31
+dental checkup online,Healthcare,9979,PKR,2026-03-02
+paid gas bill this week,Utilities,6964,PKR,2026-02-14
+booked flight online,Travel,20753,PKR,2026-02-15
+bought home appliances yesterday,Home & Rent,148779,PKR,2026-07-14
+paid travel fare online,Travel,148978,PKR,2026-06-14
+paid maintenance charges this week,Home & Rent,83873,PKR,2026-02-08
+paid credit card bill yesterday,Bills & Payments,58461,PKR,2026-06-11
+bought notebooks for family,Education,7862,PKR,2026-04-01
+haircut this week,Personal Care,7765,PKR,2026-04-26
+grocery shopping this week,Food & Groceries,13726,PKR,2026-03-15
+paid mobile bill,Utilities,19966,PKR,2026-05-10
+went to amusement park for family,Entertainment,9281,PKR,2026-07-22
+miscellaneous expense yesterday,Other,18832,PKR,2026-06-16
+bought watch for family,Shopping,15885,PKR,2026-05-09
+filled petrol in car yesterday,Transportation,1795,PKR,2026-07-27
+dental checkup,Healthcare,33366,PKR,2026-06-15
+filled petrol in car today,Transportation,11693,PKR,2026-04-23
+paid service fee for family,Bills & Payments,80428,PKR,2026-02-10
+visited hospital this week,Healthcare,25689,PKR,2026-04-15
+dental checkup for family,Healthcare,3731,PKR,2026-07-22
+bought cleaning supplies this week,Home & Rent,18278,PKR,2026-03-26
+paid utility bill online,Utilities,13166,PKR,2026-03-14
+bought stationery this week,Education,11182,PKR,2026-05-30
+paid apartment rent this week,Home & Rent,82325,PKR,2026-06-17
+other payment today,Other,19598,PKR,2026-07-01
+paid water bill for family,Utilities,12843,PKR,2026-06-14
+bought prescription medicine today,Healthcare,44216,PKR,2026-06-29
+miscellaneous purchase,Other,13974,PKR,2026-05-11
+bought medicine this week,Healthcare,20541,PKR,2026-02-16
+bought watch yesterday,Shopping,6591,PKR,2026-02-27
+paid bus fare,Transportation,4946,PKR,2026-08-05
+paid utility bill for family,Utilities,17753,PKR,2026-01-10
+bought furniture for family,Home & Rent,35353,PKR,2026-06-02
+bought movie ticket today,Entertainment,3162,PKR,2026-08-01
+miscellaneous purchase today,Other,14441,PKR,2026-01-12
+paid streaming subscription online,Entertainment,11989,PKR,2026-03-02
+paid service fee this week,Bills & Payments,99117,PKR,2026-07-11
+paid loan installment for family,Bills & Payments,31848,PKR,2026-03-21
+paid loan installment this week,Bills & Payments,89407,PKR,2026-05-27
+paid monthly bill this week,Bills & Payments,50552,PKR,2026-05-09
+visited salon today,Personal Care,13583,PKR,2026-02-21
+booked flight this week,Travel,14678,PKR,2026-06-14
+paid bank charges for family,Bills & Payments,13946,PKR,2026-07-02
+haircut this week,Personal Care,1574,PKR,2026-07-15
+booked ride yesterday,Transportation,14932,PKR,2026-05-12
+car maintenance,Transportation,3737,PKR,2026-07-29
+paid bank charges,Bills & Payments,54881,PKR,2026-01-14
+bought concert ticket this week,Entertainment,4062,PKR,2026-04-09
+paid water bill today,Utilities,1423,PKR,2026-03-23
+paid mobile bill online,Utilities,11486,PKR,2026-07-22
+paid bus fare,Transportation,4800,PKR,2026-08-01
+paid online bill today,Bills & Payments,99962,PKR,2026-06-30
+paid monthly bill for family,Bills & Payments,1188,PKR,2026-08-20
+paid electricity bill this week,Utilities,7566,PKR,2026-08-02
+car maintenance,Transportation,12816,PKR,2026-03-15
+bought handbag,Shopping,1864,PKR,2026-03-03
+played games for family,Entertainment,7689,PKR,2026-01-17
+paid internet bill for family,Utilities,18065,PKR,2026-01-05
+paid maintenance charges for family,Home & Rent,64422,PKR,2026-07-03
+booked ride yesterday,Transportation,125,PKR,2026-06-07
+paid doctor fee for family,Healthcare,27600,PKR,2026-02-17
+bought cleaning supplies,Home & Rent,138228,PKR,2026-04-03
+paid utility bill for family,Utilities,17124,PKR,2026-07-21
+bought perfume,Personal Care,6597,PKR,2026-08-12
+paid credit card bill online,Bills & Payments,51209,PKR,2026-04-06
+paid university fee this week,Education,9355,PKR,2026-03-30
+bought clothes for family,Shopping,24390,PKR,2026-07-13
+paid doctor fee,Healthcare,23388,PKR,2026-05-20
+bought prescription medicine online,Healthcare,11774,PKR,2026-08-01
+bought home appliances online,Home & Rent,126444,PKR,2026-06-11
+paid bus fare,Transportation,11831,PKR,2026-07-18
+paid credit card bill this week,Bills & Payments,26922,PKR,2026-01-12
+bought new shoes this week,Shopping,10460,PKR,2026-05-12
+paid gaming subscription for family,Entertainment,7956,PKR,2026-03-06
+bought eggs this week,Food & Groceries,5948,PKR,2026-08-09
+restaurant dinner this week,Food & Groceries,2139,PKR,2026-07-24
+bought vitamins yesterday,Healthcare,49013,PKR,2026-04-23
+paid streaming subscription today,Entertainment,8329,PKR,2026-06-27
+paid bank charges for family,Bills & Payments,35459,PKR,2026-07-25
+paid mobile bill yesterday,Utilities,3086,PKR,2026-04-21
+travel expenses today,Travel,143992,PKR,2026-03-17
+bought medicine,Healthcare,21790,PKR,2026-06-19
+bought notebooks yesterday,Education,79486,PKR,2026-07-03
+bought movie ticket online,Entertainment,7472,PKR,2026-03-31
+paid credit card bill online,Bills & Payments,46710,PKR,2026-06-07
+paid streaming subscription online,Entertainment,13167,PKR,2026-01-15
+paid mobile bill online,Utilities,13810,PKR,2026-04-04
+bought personal care items online,Personal Care,2821,PKR,2026-01-08
+changed car oil,Transportation,2168,PKR,2026-01-18
+bought watch this week,Shopping,12845,PKR,2026-05-26
+bought milk online,Food & Groceries,7471,PKR,2026-04-05
+bought vitamins,Healthcare,37912,PKR,2026-02-05
+bought skincare products yesterday,Personal Care,5350,PKR,2026-06-16
+paid school fee,Education,3896,PKR,2026-07-08
+changed car oil for family,Transportation,6440,PKR,2026-05-24
+paid water bill this week,Utilities,15123,PKR,2026-02-24
+bought train ticket online,Travel,129765,PKR,2026-02-21
+paid gas bill,Utilities,15312,PKR,2026-02-14
+other payment,Other,10572,PKR,2026-06-20
+dental checkup,Healthcare,36344,PKR,2026-05-19
+bought notebooks today,Education,93798,PKR,2026-07-01
+paid miscellaneous charges this week,Other,16770,PKR,2026-02-27
+paid gas bill today,Utilities,8257,PKR,2026-07-22
+paid credit card bill this week,Bills & Payments,73116,PKR,2026-05-27
+bought vitamins for family,Healthcare,8804,PKR,2026-06-06
+paid electricity bill this week,Utilities,13546,PKR,2026-07-03
+other payment for family,Other,13560,PKR,2026-07-16
+paid gaming subscription for family,Entertainment,1408,PKR,2026-02-02
+dental checkup,Healthcare,29789,PKR,2026-04-30
+paid maintenance charges this week,Home & Rent,34642,PKR,2026-08-13
+bought personal care items for family,Personal Care,3181,PKR,2026-07-16
+car maintenance for family,Transportation,14324,PKR,2026-01-15
+paid utility bill today,Utilities,10465,PKR,2026-02-12
+paid rickshaw fare online,Transportation,3794,PKR,2026-03-30
+bought skincare products,Personal Care,4305,PKR,2026-02-20
+paid maintenance charges this week,Home & Rent,33812,PKR,2026-06-10
+bought books for family,Education,84515,PKR,2026-02-13
+booked bus ticket today,Travel,45879,PKR,2026-06-18
+paid hotel bill for family,Travel,89504,PKR,2026-08-04
+booked hotel,Travel,22292,PKR,2026-01-12
+home repair for family,Home & Rent,70377,PKR,2026-06-16
+online shopping yesterday,Shopping,20554,PKR,2026-06-13
+bought cooking oil online,Food & Groceries,9038,PKR,2026-03-16
+bought furniture yesterday,Home & Rent,65193,PKR,2026-07-26
+bought home appliances this week,Home & Rent,119893,PKR,2026-01-19
+miscellaneous expense today,Other,14504,PKR,2026-04-17
+paid monthly bill today,Bills & Payments,45089,PKR,2026-06-05
+paid rickshaw fare online,Transportation,5331,PKR,2026-07-07
+bought vitamins today,Healthcare,24583,PKR,2026-05-12
+haircut this week,Personal Care,4160,PKR,2026-04-30
+paid water bill yesterday,Utilities,8623,PKR,2026-02-06
+paid electricity bill this week,Utilities,13087,PKR,2026-08-10
+paid travel fare today,Travel,42864,PKR,2026-07-28
+paid medical bill online,Healthcare,20794,PKR,2026-02-18
+changed car oil for family,Transportation,7748,PKR,2026-05-08
+paid exam fee,Education,12302,PKR,2026-04-11
+visited salon today,Personal Care,3724,PKR,2026-05-30
+bought medicine,Healthcare,18738,PKR,2026-05-07
+travel expenses online,Travel,124361,PKR,2026-03-15
+haircut,Personal Care,7260,PKR,2026-02-04
+paid course fee yesterday,Education,48464,PKR,2026-01-12
+watched a movie for family,Entertainment,9404,PKR,2026-02-19
+paid medical bill this week,Healthcare,5118,PKR,2026-04-09
+visited salon for family,Personal Care,4782,PKR,2026-07-31
+paid hotel bill for family,Travel,32145,PKR,2026-02-02
+paid internet bill this week,Utilities,11611,PKR,2026-05-23
+bought prescription medicine today,Healthcare,13345,PKR,2026-06-04
+visited salon for family,Personal Care,859,PKR,2026-01-12
+bought milk online,Food & Groceries,5556,PKR,2026-07-25
+paid service fee yesterday,Bills & Payments,20021,PKR,2026-06-05
+bought shampoo this week,Personal Care,10244,PKR,2026-03-23
+car maintenance for family,Transportation,12213,PKR,2026-08-04
+paid course fee for family,Education,67309,PKR,2026-05-17
+paid online bill for family,Bills & Payments,39794,PKR,2026-05-02
+restaurant lunch this week,Food & Groceries,11139,PKR,2026-01-29
+bought concert ticket this week,Entertainment,13254,PKR,2026-08-19
+miscellaneous expense for family,Other,15651,PKR,2026-03-09
+home repair for family,Home & Rent,60649,PKR,2026-07-04
+bought cooking oil today,Food & Groceries,8689,PKR,2026-06-11
+miscellaneous purchase yesterday,Other,4942,PKR,2026-07-30
+paid apartment rent,Home & Rent,29808,PKR,2026-02-18
+bought snacks this week,Food & Groceries,6961,PKR,2026-02-08
+played games today,Entertainment,6923,PKR,2026-05-09
+paid travel fare online,Travel,17326,PKR,2026-06-30
+paid taxi fare for family,Transportation,5425,PKR,2026-06-19
+paid service fee yesterday,Bills & Payments,41624,PKR,2026-02-14
+paid service fee this week,Bills & Payments,72101,PKR,2026-04-01
+home repair online,Home & Rent,70300,PKR,2026-06-06
+paid loan installment today,Bills & Payments,37069,PKR,2026-05-23
+paid school fee this week,Education,38380,PKR,2026-06-30
+bought accessories this week,Shopping,16022,PKR,2026-03-31
+bought personal care items this week,Personal Care,4915,PKR,2026-02-01
+paid hotel bill for family,Travel,100534,PKR,2026-08-18
+paid gaming subscription this week,Entertainment,12865,PKR,2026-07-25
+booked ride,Transportation,4812,PKR,2026-07-02
+paid water bill yesterday,Utilities,8903,PKR,2026-07-11
+paid loan installment today,Bills & Payments,71092,PKR,2026-03-11
+bought personal care items this week,Personal Care,2449,PKR,2026-01-28
+paid hotel bill for family,Travel,63726,PKR,2026-03-04
+bought chicken online,Food & Groceries,3914,PKR,2026-01-14
+paid internet bill this week,Utilities,15979,PKR,2026-01-26
+home repair today,Home & Rent,2358,PKR,2026-05-21
+car maintenance online,Transportation,14528,PKR,2026-08-13
+paid monthly bill online,Bills & Payments,26643,PKR,2026-07-13
+paid course fee this week,Education,85159,PKR,2026-01-16
+paid mobile bill for family,Utilities,8109,PKR,2026-05-17
+miscellaneous expense today,Other,13793,PKR,2026-08-14
+filled petrol in car yesterday,Transportation,13009,PKR,2026-05-07
+booked ride,Transportation,251,PKR,2026-03-18
+booked bus ticket,Travel,88829,PKR,2026-03-14
+paid online bill for family,Bills & Payments,69223,PKR,2026-05-07
+changed car oil this week,Transportation,3259,PKR,2026-07-27
+paid water bill today,Utilities,15537,PKR,2026-06-15
+bought stationery,Education,97049,PKR,2026-03-28
+paid school fee today,Education,80579,PKR,2026-08-08
+bought home appliances yesterday,Home & Rent,136077,PKR,2026-03-25
+paid internet bill online,Utilities,3625,PKR,2026-02-17
+changed car oil this week,Transportation,4164,PKR,2026-01-02
+bought educational material today,Education,59054,PKR,2026-07-12
+paid course fee this week,Education,76844,PKR,2026-07-05
+booked hotel this week,Travel,95254,PKR,2026-06-27
+bought new shoes online,Shopping,4173,PKR,2026-04-30
+bought stationery yesterday,Education,90425,PKR,2026-05-09
+general expense online,Other,3947,PKR,2026-06-13
+paid course fee for family,Education,29447,PKR,2026-02-26
+changed car oil today,Transportation,7554,PKR,2026-07-11
+bought train ticket yesterday,Travel,144978,PKR,2026-05-01
+bought personal care items today,Personal Care,12682,PKR,2026-03-05
+home repair for family,Home & Rent,22461,PKR,2026-05-15
+paid service fee online,Bills & Payments,47919,PKR,2026-01-20
+booked hotel,Travel,144562,PKR,2026-08-20
+bought shampoo for family,Personal Care,8992,PKR,2026-02-08
+paid rickshaw fare for family,Transportation,7339,PKR,2026-01-30
+paid apartment rent online,Home & Rent,129143,PKR,2026-01-24
+visited salon,Personal Care,7629,PKR,2026-02-03
+visited salon yesterday,Personal Care,9439,PKR,2026-01-15
+visited salon online,Personal Care,13420,PKR,2026-03-20
+miscellaneous expense yesterday,Other,8438,PKR,2026-07-29
+bought eggs for family,Food & Groceries,1296,PKR,2026-01-12
+paid streaming subscription online,Entertainment,1244,PKR,2026-05-19
+bought vegetables yesterday,Food & Groceries,619,PKR,2026-03-15
+bought movie ticket today,Entertainment,12747,PKR,2026-06-14
+other payment this week,Other,12633,PKR,2026-04-25
+went to amusement park,Entertainment,11385,PKR,2026-06-19
+bought shampoo online,Personal Care,14294,PKR,2026-03-31
+paid gas bill for family,Utilities,13379,PKR,2026-05-16
+paid taxi fare,Transportation,12489,PKR,2026-01-06
+paid exam fee online,Education,94753,PKR,2026-05-20
+bought concert ticket yesterday,Entertainment,13689,PKR,2026-02-28
+bought accessories this week,Shopping,5383,PKR,2026-03-12
+bought clothes,Shopping,26824,PKR,2026-06-19
+bought concert ticket,Entertainment,4143,PKR,2026-02-22
+paid electricity bill for family,Utilities,1600,PKR,2026-04-25
+paid hotel bill online,Travel,13760,PKR,2026-03-04
+miscellaneous expense yesterday,Other,14483,PKR,2026-03-01
+bought shampoo,Personal Care,2495,PKR,2026-05-09
+paid school fee online,Education,76011,PKR,2026-03-23
+booked bus ticket online,Travel,85060,PKR,2026-03-02
+bought stationery online,Education,68821,PKR,2026-02-26
+paid streaming subscription this week,Entertainment,1198,PKR,2026-05-23
+paid hotel bill today,Travel,112988,PKR,2026-05-23
+paid credit card bill this week,Bills & Payments,84820,PKR,2026-06-21
+paid gaming subscription for family,Entertainment,5422,PKR,2026-06-28
+went to amusement park today,Entertainment,5113,PKR,2026-04-07
+changed car oil today,Transportation,14015,PKR,2026-02-27
+bought stationery yesterday,Education,8052,PKR,2026-05-24
+went to amusement park for family,Entertainment,8883,PKR,2026-02-04
+bought movie ticket this week,Entertainment,3531,PKR,2026-03-26
+paid house rent yesterday,Home & Rent,98275,PKR,2026-01-24
+bought personal care items today,Personal Care,1044,PKR,2026-03-10
+played games for family,Entertainment,10078,PKR,2026-01-11
+paid gas bill for family,Utilities,18812,PKR,2026-02-25
+paid loan installment this week,Bills & Payments,40239,PKR,2026-01-04
+bought trousers online,Shopping,4144,PKR,2026-07-11
+paid loan installment online,Bills & Payments,79720,PKR,2026-06-30
+bought cosmetics today,Shopping,18390,PKR,2026-03-24
+bought educational material yesterday,Education,70446,PKR,2026-06-16
+visited hospital this week,Healthcare,23869,PKR,2026-05-12
+paid monthly bill,Bills & Payments,95188,PKR,2026-05-01
+paid doctor fee this week,Healthcare,20807,PKR,2026-04-16
+bought chicken online,Food & Groceries,2490,PKR,2026-01-05
+bought educational material this week,Education,20476,PKR,2026-02-20
+paid doctor fee yesterday,Healthcare,37641,PKR,2026-08-02
+bought accessories for family,Shopping,21750,PKR,2026-06-25
+visited hospital yesterday,Healthcare,47719,PKR,2026-06-14
+other payment yesterday,Other,5612,PKR,2026-07-07
+paid doctor fee today,Healthcare,47506,PKR,2026-05-20
+paid loan installment for family,Bills & Payments,84623,PKR,2026-01-16
+haircut,Personal Care,13602,PKR,2026-06-21
+bought groceries yesterday,Food & Groceries,2352,PKR,2026-08-04
+paid apartment rent,Home & Rent,40591,PKR,2026-01-03
+bought household items yesterday,Shopping,12529,PKR,2026-01-16
+paid hotel bill online,Travel,127669,PKR,2026-06-18
+paid credit card bill,Bills & Payments,70258,PKR,2026-05-22
+watched a movie,Entertainment,8873,PKR,2026-07-04
+bought notebooks,Education,66326,PKR,2026-07-28
+other payment today,Other,3606,PKR,2026-01-25
+bought shampoo today,Personal Care,3344,PKR,2026-06-08
+bought skincare products this week,Personal Care,4579,PKR,2026-07-23
+watched a movie this week,Entertainment,6852,PKR,2026-04-28
+booked flight online,Travel,60207,PKR,2026-03-18
+home repair,Home & Rent,9305,PKR,2026-01-24
+went to amusement park yesterday,Entertainment,9255,PKR,2026-05-02
+bought groceries online,Food & Groceries,2907,PKR,2026-01-22
+paid monthly bill online,Bills & Payments,43920,PKR,2026-05-25
+paid utility bill,Utilities,8028,PKR,2026-02-24
+miscellaneous purchase yesterday,Other,8983,PKR,2026-01-12
+paid mobile bill this week,Utilities,18294,PKR,2026-05-25
+paid house rent today,Home & Rent,83440,PKR,2026-01-05
+online shopping today,Shopping,24949,PKR,2026-07-30
+other payment,Other,9906,PKR,2026-02-11
+booked flight for family,Travel,103015,PKR,2026-06-23
+bought skincare products yesterday,Personal Care,12579,PKR,2026-07-09
+filled fuel for family,Transportation,12313,PKR,2026-03-30
+bought fruits yesterday,Food & Groceries,3903,PKR,2026-08-03
+paid water bill for family,Utilities,13499,PKR,2026-07-18
+bought medicine online,Healthcare,18212,PKR,2026-07-20
+paid monthly bill today,Bills & Payments,47136,PKR,2026-05-22
+went to amusement park today,Entertainment,11336,PKR,2026-05-30
+bought home appliances,Home & Rent,78431,PKR,2026-07-24
+bought clothes,Shopping,9080,PKR,2026-02-09
+played games online,Entertainment,2727,PKR,2026-07-09
+paid streaming subscription this week,Entertainment,1945,PKR,2026-01-24
+bought flour yesterday,Food & Groceries,5996,PKR,2026-07-14
+bought books today,Education,11942,PKR,2026-02-17
+went to amusement park for family,Entertainment,9288,PKR,2026-05-12
+watched a movie,Entertainment,1668,PKR,2026-04-01
+haircut for family,Personal Care,9998,PKR,2026-07-20
+bought prescription medicine yesterday,Healthcare,1108,PKR,2026-03-16
+went to amusement park,Entertainment,12075,PKR,2026-08-19
+bought shampoo for family,Personal Care,8737,PKR,2026-02-13
+bought home appliances today,Home & Rent,37396,PKR,2026-03-10
+bought notebooks yesterday,Education,19627,PKR,2026-01-17
+car maintenance this week,Transportation,6999,PKR,2026-03-18
+paid credit card bill this week,Bills & Payments,33490,PKR,2026-03-05
+other payment for family,Other,6507,PKR,2026-04-28
+paid gas bill this week,Utilities,721,PKR,2026-04-12
+bought prescription medicine for family,Healthcare,25196,PKR,2026-07-25
+bought vitamins this week,Healthcare,28520,PKR,2026-07-28
+paid maintenance charges today,Home & Rent,79757,PKR,2026-03-24
+paid hotel bill today,Travel,126569,PKR,2026-03-22
+car maintenance this week,Transportation,4875,PKR,2026-07-08
+other payment for family,Other,8043,PKR,2026-03-25
+paid streaming subscription yesterday,Entertainment,6180,PKR,2026-01-30
+booked flight for family,Travel,144033,PKR,2026-02-16
+home repair for family,Home & Rent,8055,PKR,2026-07-06
+paid online bill today,Bills & Payments,57969,PKR,2026-07-24
+bought books yesterday,Education,88708,PKR,2026-05-08
+booked ride today,Transportation,4239,PKR,2026-06-18
+car maintenance yesterday,Transportation,1311,PKR,2026-04-25
+paid travel fare for family,Travel,106068,PKR,2026-05-17
+bought personal care items yesterday,Personal Care,9107,PKR,2026-01-10
+dental checkup for family,Healthcare,39216,PKR,2026-06-13
+paid electricity bill today,Utilities,12132,PKR,2026-02-12
+paid maintenance charges,Home & Rent,148644,PKR,2026-06-15
+bought cleaning supplies yesterday,Home & Rent,87926,PKR,2026-07-23
+watched a movie,Entertainment,1815,PKR,2026-03-08
+bought household items online,Shopping,17299,PKR,2026-05-23
+paid hotel bill for family,Travel,58942,PKR,2026-04-25
+bought vitamins yesterday,Healthcare,44835,PKR,2026-05-31
+miscellaneous purchase today,Other,11403,PKR,2026-01-07
+paid credit card bill this week,Bills & Payments,55022,PKR,2026-01-22
+paid mobile bill today,Utilities,11914,PKR,2026-03-21
+bought vitamins today,Healthcare,34451,PKR,2026-05-04
+bought vitamins,Healthcare,29015,PKR,2026-07-04
+other payment this week,Other,2301,PKR,2026-03-18
+bought fruits,Food & Groceries,14012,PKR,2026-03-29
+paid house rent online,Home & Rent,44084,PKR,2026-07-09
+bought household items today,Shopping,18384,PKR,2026-02-10
+paid medical bill yesterday,Healthcare,30581,PKR,2026-03-01
+played games today,Entertainment,3253,PKR,2026-06-13
+bought home appliances yesterday,Home & Rent,8652,PKR,2026-07-08
+booked flight yesterday,Travel,113604,PKR,2026-04-10
+bought eggs today,Food & Groceries,4660,PKR,2026-07-12
+miscellaneous expense for family,Other,3434,PKR,2026-07-24
+bought shampoo this week,Personal Care,5540,PKR,2026-02-20
+paid credit card bill this week,Bills & Payments,88410,PKR,2026-08-09
+paid service fee online,Bills & Payments,41578,PKR,2026-06-02
+bought concert ticket yesterday,Entertainment,9817,PKR,2026-01-30
+visited hospital yesterday,Healthcare,40759,PKR,2026-02-14
+bought cleaning supplies this week,Home & Rent,23217,PKR,2026-06-22
+paid rickshaw fare,Transportation,4008,PKR,2026-03-20
+paid gas bill this week,Utilities,5132,PKR,2026-05-11
+went to amusement park for family,Entertainment,2458,PKR,2026-05-28
+went to amusement park today,Entertainment,8173,PKR,2026-06-12
+bought personal care items online,Personal Care,3038,PKR,2026-05-23
+changed car oil this week,Transportation,2398,PKR,2026-02-17
+bought prescription medicine yesterday,Healthcare,40893,PKR,2026-01-14
+bought medicine yesterday,Healthcare,9247,PKR,2026-02-19
+bought concert ticket for family,Entertainment,10899,PKR,2026-05-07
+played games yesterday,Entertainment,7009,PKR,2026-07-01
+paid monthly bill today,Bills & Payments,11335,PKR,2026-05-25
+bought chicken this week,Food & Groceries,635,PKR,2026-03-12
+bought household items this week,Shopping,5811,PKR,2026-07-19
+paid service fee online,Bills & Payments,65421,PKR,2026-05-21
+haircut for family,Personal Care,2071,PKR,2026-03-10
+bought skincare products for family,Personal Care,13677,PKR,2026-07-13
+bought snacks for family,Food & Groceries,3680,PKR,2026-04-19
+paid mobile bill online,Utilities,8611,PKR,2026-03-18
+bought snacks this week,Food & Groceries,5811,PKR,2026-08-09
+paid internet bill,Utilities,8264,PKR,2026-02-23
+miscellaneous purchase online,Other,11589,PKR,2026-08-09
+miscellaneous purchase online,Other,14130,PKR,2026-02-12
+booked flight today,Travel,55248,PKR,2026-07-26
+restaurant lunch for family,Food & Groceries,4705,PKR,2026-06-02
+bought shampoo this week,Personal Care,11735,PKR,2026-03-16
+bought notebooks for family,Education,89537,PKR,2026-07-28
+paid gas bill yesterday,Utilities,2442,PKR,2026-03-12
+paid apartment rent online,Home & Rent,35784,PKR,2026-03-05
+paid rickshaw fare today,Transportation,12575,PKR,2026-08-04
+bought home appliances yesterday,Home & Rent,38269,PKR,2026-05-28
+bought furniture online,Home & Rent,109586,PKR,2026-04-07
+paid credit card bill online,Bills & Payments,12702,PKR,2026-04-14
+bought personal care items this week,Personal Care,11582,PKR,2026-08-13
+bought vitamins yesterday,Healthcare,21749,PKR,2026-05-29
+bought vegetables online,Food & Groceries,7611,PKR,2026-06-12
+bought cleaning supplies this week,Home & Rent,17601,PKR,2026-07-23
+visited salon today,Personal Care,7239,PKR,2026-07-31
+bought accessories this week,Shopping,10879,PKR,2026-08-01
+paid course fee for family,Education,76250,PKR,2026-02-03
+travel expenses yesterday,Travel,91109,PKR,2026-08-17
+home repair,Home & Rent,13043,PKR,2026-01-26
+home repair yesterday,Home & Rent,5268,PKR,2026-02-01
+changed car oil yesterday,Transportation,111,PKR,2026-04-20
+bought shirt online,Shopping,10191,PKR,2026-02-10
+bought books online,Education,47742,PKR,2026-03-06
+paid water bill online,Utilities,5923,PKR,2026-01-14
+played games this week,Entertainment,12094,PKR,2026-06-29
+bought cosmetics online,Shopping,3288,PKR,2026-06-30
+paid electricity bill today,Utilities,16124,PKR,2026-01-20
+paid taxi fare for family,Transportation,11240,PKR,2026-04-24
+bought groceries online,Food & Groceries,5729,PKR,2026-07-29
+paid internet bill online,Utilities,4831,PKR,2026-05-03
+paid gas bill yesterday,Utilities,3427,PKR,2026-07-07
+paid electricity bill this week,Utilities,12544,PKR,2026-08-14
+bought stationery yesterday,Education,99217,PKR,2026-08-12
+paid bus fare,Transportation,8791,PKR,2026-05-25
+bought bread yesterday,Food & Groceries,5853,PKR,2026-07-04
+bought shirt yesterday,Shopping,20487,PKR,2026-06-25
+paid loan installment,Bills & Payments,13668,PKR,2026-02-05
+paid utility bill online,Utilities,13083,PKR,2026-03-31
+paid streaming subscription today,Entertainment,4259,PKR,2026-03-12
+paid house rent today,Home & Rent,146069,PKR,2026-06-03
+paid hotel bill for family,Travel,75690,PKR,2026-07-19
+miscellaneous expense online,Other,9984,PKR,2026-02-22
+bought perfume for family,Personal Care,3290,PKR,2026-07-11
+paid streaming subscription online,Entertainment,1094,PKR,2026-07-20
+bought accessories yesterday,Shopping,3994,PKR,2026-03-03
+paid online bill for family,Bills & Payments,9807,PKR,2026-05-16
+restaurant lunch this week,Food & Groceries,2262,PKR,2026-04-10
+paid travel fare this week,Travel,144224,PKR,2026-06-24
+changed car oil,Transportation,373,PKR,2026-05-31
+paid electricity bill this week,Utilities,7569,PKR,2026-01-11
+pizza for dinner for family,Food & Groceries,4793,PKR,2026-06-10
+miscellaneous purchase yesterday,Other,13979,PKR,2026-06-29
+watched a movie online,Entertainment,8991,PKR,2026-05-18
+booked flight this week,Travel,22914,PKR,2026-03-21
+paid utility bill today,Utilities,5591,PKR,2026-05-18
+bought vitamins for family,Healthcare,41869,PKR,2026-07-15
+bought cleaning supplies online,Home & Rent,18331,PKR,2026-03-21
+other payment online,Other,7919,PKR,2026-01-15
+bought clothes yesterday,Shopping,4100,PKR,2026-04-27
+booked bus ticket,Travel,82078,PKR,2026-06-20
+paid miscellaneous charges,Other,515,PKR,2026-07-01
+filled petrol in car today,Transportation,8233,PKR,2026-03-30
+bought perfume online,Personal Care,4447,PKR,2026-02-12
+paid doctor fee online,Healthcare,17913,PKR,2026-07-07
+paid electricity bill this week,Utilities,14568,PKR,2026-03-11
+haircut this week,Personal Care,11870,PKR,2026-05-28
+paid house rent yesterday,Home & Rent,120327,PKR,2026-05-11
+bought medicine yesterday,Healthcare,37451,PKR,2026-02-12
+paid doctor fee this week,Healthcare,7043,PKR,2026-08-17
+paid hotel bill online,Travel,31234,PKR,2026-02-28
+miscellaneous purchase,Other,1543,PKR,2026-08-08
+bought chicken,Food & Groceries,7829,PKR,2026-04-04
+bought movie ticket today,Entertainment,14249,PKR,2026-01-10
+bought personal care items online,Personal Care,10943,PKR,2026-04-18
+bought watch today,Shopping,13939,PKR,2026-07-04
+visited hospital,Healthcare,37756,PKR,2026-04-06
+paid utility bill online,Utilities,2225,PKR,2026-02-15
+bought household items,Shopping,13437,PKR,2026-01-18
+paid bank charges this week,Bills & Payments,43399,PKR,2026-01-23
+visited salon,Personal Care,6244,PKR,2026-02-21
+bought notebooks online,Education,82120,PKR,2026-03-04
+paid bank charges for family,Bills & Payments,65165,PKR,2026-07-17
+bought household items today,Shopping,5233,PKR,2026-01-02
+watched a movie today,Entertainment,9072,PKR,2026-03-30
+home repair online,Home & Rent,3515,PKR,2026-03-27
+pizza for dinner online,Food & Groceries,12014,PKR,2026-03-20
+paid gas bill for family,Utilities,8304,PKR,2026-04-18
+paid credit card bill today,Bills & Payments,93777,PKR,2026-03-13
+paid electricity bill today,Utilities,17531,PKR,2026-04-16
+general expense yesterday,Other,2882,PKR,2026-05-29
+paid utility bill today,Utilities,13422,PKR,2026-01-20
+booked bus ticket,Travel,115028,PKR,2026-06-19
+paid taxi fare this week,Transportation,4376,PKR,2026-08-06
+bought prescription medicine yesterday,Healthcare,46222,PKR,2026-08-01
+general expense this week,Other,14935,PKR,2026-03-11
+bought clothes today,Shopping,4760,PKR,2026-07-19
+booked hotel today,Travel,28697,PKR,2026-02-12
+paid monthly bill this week,Bills & Payments,53782,PKR,2026-01-31
+bought skincare products today,Personal Care,7604,PKR,2026-03-20
+paid bank charges,Bills & Payments,12351,PKR,2026-02-10
+bought furniture online,Home & Rent,11572,PKR,2026-02-25
+paid doctor fee,Healthcare,46906,PKR,2026-03-05
+bought vitamins for family,Healthcare,3508,PKR,2026-06-23
+bought notebooks today,Education,4573,PKR,2026-04-14
+paid service fee online,Bills & Payments,72605,PKR,2026-03-05
+paid internet bill,Utilities,5080,PKR,2026-02-01
+grocery shopping today,Food & Groceries,2241,PKR,2026-02-20
+paid streaming subscription online,Entertainment,10526,PKR,2026-06-15
+paid utility bill for family,Utilities,8981,PKR,2026-07-28
+paid electricity bill,Utilities,6979,PKR,2026-08-20
+bought home appliances today,Home & Rent,25111,PKR,2026-08-20
+bought medicine,Healthcare,30511,PKR,2026-01-13
+car maintenance online,Transportation,6571,PKR,2026-05-08
+pizza for dinner online,Food & Groceries,7090,PKR,2026-02-14
+paid doctor fee today,Healthcare,18321,PKR,2026-03-13
+paid loan installment,Bills & Payments,80992,PKR,2026-06-08
+booked flight online,Travel,78360,PKR,2026-05-08
+bought concert ticket yesterday,Entertainment,1199,PKR,2026-01-23
+bought educational material today,Education,55449,PKR,2026-02-21
+home repair for family,Home & Rent,66312,PKR,2026-06-11
+haircut yesterday,Personal Care,13010,PKR,2026-07-02
+bought vitamins for family,Healthcare,32063,PKR,2026-03-30
+booked bus ticket this week,Travel,102811,PKR,2026-03-11
+filled petrol in car this week,Transportation,9883,PKR,2026-02-26
+bought rice,Food & Groceries,13348,PKR,2026-05-01
+bought skincare products for family,Personal Care,4013,PKR,2026-02-10
+paid gas bill online,Utilities,8402,PKR,2026-03-10
+bought personal care items,Personal Care,12718,PKR,2026-02-26
+travel expenses yesterday,Travel,94009,PKR,2026-08-03
+paid bus fare today,Transportation,9807,PKR,2026-03-23
+general expense for family,Other,1024,PKR,2026-06-30
+general expense for family,Other,18568,PKR,2026-02-06
+booked flight yesterday,Travel,143114,PKR,2026-03-21
+changed car oil,Transportation,1578,PKR,2026-01-15
+online shopping today,Shopping,953,PKR,2026-05-15
+paid credit card bill this week,Bills & Payments,80995,PKR,2026-02-21
+paid rickshaw fare online,Transportation,3007,PKR,2026-07-25
+bought medicine,Healthcare,9980,PKR,2026-05-31
+paid miscellaneous charges,Other,17345,PKR,2026-08-09
+bought medicine this week,Healthcare,46472,PKR,2026-06-19
+bought concert ticket,Entertainment,5714,PKR,2026-03-19
+paid doctor fee today,Healthcare,48295,PKR,2026-04-22
+bought home appliances online,Home & Rent,84173,PKR,2026-02-14
+miscellaneous purchase online,Other,11792,PKR,2026-02-27
+paid maintenance charges today,Home & Rent,100191,PKR,2026-03-20
+general expense today,Other,5923,PKR,2026-07-06
+pizza for dinner for family,Food & Groceries,630,PKR,2026-02-16
+bought train ticket for family,Travel,58906,PKR,2026-06-13
+booked hotel yesterday,Travel,37868,PKR,2026-03-26
+miscellaneous expense today,Other,11464,PKR,2026-03-23
+filled fuel online,Transportation,11077,PKR,2026-06-13
+general expense yesterday,Other,473,PKR,2026-03-09
+bought trousers online,Shopping,2521,PKR,2026-03-31
+bought books online,Education,667,PKR,2026-01-13
+went to amusement park online,Entertainment,7075,PKR,2026-02-12
+went to amusement park yesterday,Entertainment,5954,PKR,2026-05-20
+watched a movie yesterday,Entertainment,13122,PKR,2026-08-10
+paid hotel bill online,Travel,60135,PKR,2026-02-11
+paid credit card bill,Bills & Payments,39154,PKR,2026-01-06
+visited hospital,Healthcare,5162,PKR,2026-03-29
+car maintenance today,Transportation,12092,PKR,2026-01-20
+haircut this week,Personal Care,9932,PKR,2026-06-07
+paid online bill,Bills & Payments,57034,PKR,2026-06-17
+car maintenance today,Transportation,977,PKR,2026-01-26
+paid doctor fee today,Healthcare,27122,PKR,2026-06-28
+bought personal care items online,Personal Care,9049,PKR,2026-03-09
+bought furniture this week,Home & Rent,63271,PKR,2026-01-25
+pizza for dinner for family,Food & Groceries,9105,PKR,2026-08-04
+paid loan installment,Bills & Payments,47794,PKR,2026-01-01
+watched a movie this week,Entertainment,13698,PKR,2026-06-19
+paid maintenance charges yesterday,Home & Rent,53343,PKR,2026-01-25
+bought eggs today,Food & Groceries,10556,PKR,2026-03-16
+paid internet bill,Utilities,10604,PKR,2026-07-20
+went to amusement park yesterday,Entertainment,14861,PKR,2026-06-19
+bought books online,Education,71819,PKR,2026-04-10
+paid rickshaw fare yesterday,Transportation,6152,PKR,2026-02-17
+paid credit card bill this week,Bills & Payments,58137,PKR,2026-04-30
+paid school fee this week,Education,74456,PKR,2026-01-16
+filled fuel,Transportation,11046,PKR,2026-03-30
+visited salon for family,Personal Care,3927,PKR,2026-05-22
+pizza for dinner for family,Food & Groceries,6958,PKR,2026-05-18
+home repair yesterday,Home & Rent,62772,PKR,2026-05-02
+bought books yesterday,Education,94125,PKR,2026-01-09
+bought perfume for family,Personal Care,13314,PKR,2026-05-27
+paid maintenance charges today,Home & Rent,32531,PKR,2026-07-13
+paid loan installment today,Bills & Payments,28272,PKR,2026-07-26
+bought shirt,Shopping,14173,PKR,2026-01-21
+bought home appliances today,Home & Rent,39765,PKR,2026-08-02
+bought train ticket this week,Travel,18566,PKR,2026-01-23
+bought concert ticket yesterday,Entertainment,9244,PKR,2026-03-25
+paid exam fee,Education,92304,PKR,2026-06-09
+booked bus ticket yesterday,Travel,30496,PKR,2026-04-17
+paid bus fare for family,Transportation,9732,PKR,2026-05-30
+paid electricity bill for family,Utilities,3809,PKR,2026-07-21
+paid course fee yesterday,Education,35120,PKR,2026-04-09
+bought home appliances for family,Home & Rent,125006,PKR,2026-01-10
+booked ride yesterday,Transportation,2456,PKR,2026-06-08
+paid hotel bill online,Travel,106308,PKR,2026-01-10
+paid streaming subscription online,Entertainment,4092,PKR,2026-01-13
+other payment this week,Other,12304,PKR,2026-01-06
+bought prescription medicine this week,Healthcare,20678,PKR,2026-03-13
+paid online bill online,Bills & Payments,13373,PKR,2026-08-11
+bought shirt this week,Shopping,24670,PKR,2026-04-24
+visited hospital online,Healthcare,27613,PKR,2026-06-04
+paid house rent today,Home & Rent,116793,PKR,2026-02-24
+played games yesterday,Entertainment,12643,PKR,2026-05-13
+bought prescription medicine,Healthcare,34068,PKR,2026-07-22
+filled fuel this week,Transportation,11725,PKR,2026-05-10
+bought movie ticket for family,Entertainment,14606,PKR,2026-05-26
+bought bread today,Food & Groceries,14438,PKR,2026-08-02
+bought new shoes today,Shopping,1383,PKR,2026-04-27
+restaurant lunch online,Food & Groceries,3362,PKR,2026-03-12
+bought prescription medicine yesterday,Healthcare,33403,PKR,2026-04-12
+paid house rent online,Home & Rent,9011,PKR,2026-03-03
+bought vitamins for family,Healthcare,29535,PKR,2026-02-15
+paid service fee for family,Bills & Payments,46343,PKR,2026-03-30
+booked ride online,Transportation,13712,PKR,2026-06-26
+paid water bill,Utilities,13166,PKR,2026-01-13
+paid taxi fare today,Transportation,10706,PKR,2026-02-27
+paid apartment rent this week,Home & Rent,108349,PKR,2026-05-12
+bought groceries yesterday,Food & Groceries,2267,PKR,2026-06-15
+filled petrol in car today,Transportation,4235,PKR,2026-06-05
+bought notebooks yesterday,Education,49845,PKR,2026-08-07
+bought vitamins this week,Healthcare,14600,PKR,2026-04-30
+bought educational material for family,Education,13910,PKR,2026-01-02
+bought personal care items this week,Personal Care,9398,PKR,2026-06-15
+booked bus ticket this week,Travel,79243,PKR,2026-06-25
+paid internet bill,Utilities,11519,PKR,2026-03-12
+bought furniture this week,Home & Rent,69458,PKR,2026-06-17
+general expense today,Other,5012,PKR,2026-05-13
+bought new shoes for family,Shopping,13541,PKR,2026-06-19
+dental checkup today,Healthcare,47570,PKR,2026-01-07
+bought home appliances this week,Home & Rent,69007,PKR,2026-04-18
+went to amusement park online,Entertainment,778,PKR,2026-05-30
+miscellaneous purchase today,Other,11344,PKR,2026-07-05
+paid miscellaneous charges online,Other,17618,PKR,2026-06-13
+paid online bill this week,Bills & Payments,66994,PKR,2026-03-18
+paid bus fare this week,Transportation,1699,PKR,2026-05-01
+booked ride online,Transportation,13343,PKR,2026-05-24
+paid rickshaw fare online,Transportation,1563,PKR,2026-02-26
+paid doctor fee online,Healthcare,20425,PKR,2026-04-18
+visited hospital this week,Healthcare,38675,PKR,2026-03-17
+paid credit card bill yesterday,Bills & Payments,7535,PKR,2026-08-10
+paid maintenance charges for family,Home & Rent,19668,PKR,2026-05-01
+bought household items,Shopping,28726,PKR,2026-06-24
+bought concert ticket this week,Entertainment,6968,PKR,2026-01-14
+paid bus fare today,Transportation,5714,PKR,2026-04-15
+paid travel fare today,Travel,83938,PKR,2026-08-09
+paid miscellaneous charges,Other,16077,PKR,2026-03-27
+paid apartment rent this week,Home & Rent,16207,PKR,2026-01-02
+paid bank charges today,Bills & Payments,22599,PKR,2026-05-28
+changed car oil,Transportation,2220,PKR,2026-06-07
+played games yesterday,Entertainment,6809,PKR,2026-04-20
+paid monthly bill,Bills & Payments,5444,PKR,2026-05-17
+bought watch,Shopping,29529,PKR,2026-03-24
+bought shampoo,Personal Care,11287,PKR,2026-01-02
+bought cleaning supplies today,Home & Rent,60314,PKR,2026-06-27
+visited hospital today,Healthcare,7031,PKR,2026-04-09
+bought perfume this week,Personal Care,2936,PKR,2026-01-17
+bought flour this week,Food & Groceries,7569,PKR,2026-07-06
+bought perfume for family,Personal Care,5735,PKR,2026-04-22
+paid apartment rent this week,Home & Rent,129497,PKR,2026-04-02
+bought shirt yesterday,Shopping,926,PKR,2026-02-28
+bought shirt today,Shopping,24354,PKR,2026-01-06
+booked bus ticket today,Travel,33286,PKR,2026-04-04
+miscellaneous expense yesterday,Other,8481,PKR,2026-07-17
+bought perfume,Personal Care,9930,PKR,2026-01-13
+paid house rent online,Home & Rent,6175,PKR,2026-01-13
+miscellaneous expense yesterday,Other,14659,PKR,2026-04-08
+paid utility bill this week,Utilities,16045,PKR,2026-06-29
+paid taxi fare online,Transportation,11335,PKR,2026-06-11
+bought flour yesterday,Food & Groceries,10940,PKR,2026-01-26
+paid maintenance charges this week,Home & Rent,36956,PKR,2026-04-18
+paid utility bill online,Utilities,4357,PKR,2026-03-14
+paid electricity bill yesterday,Utilities,7009,PKR,2026-06-05
+bought handbag for family,Shopping,6908,PKR,2026-04-02
+other payment this week,Other,5355,PKR,2026-01-11
+visited salon today,Personal Care,11475,PKR,2026-05-04
+paid doctor fee,Healthcare,1135,PKR,2026-06-21
+paid electricity bill for family,Utilities,16690,PKR,2026-02-08
+paid utility bill,Utilities,3819,PKR,2026-08-20
+paid school fee yesterday,Education,39300,PKR,2026-03-09
+paid credit card bill,Bills & Payments,23398,PKR,2026-08-12
+bought flour this week,Food & Groceries,13233,PKR,2026-06-23
+bought vitamins online,Healthcare,7895,PKR,2026-01-25
+bought groceries today,Food & Groceries,10968,PKR,2026-06-15
+paid rickshaw fare this week,Transportation,14755,PKR,2026-04-23
+bought train ticket online,Travel,25366,PKR,2026-04-06
+paid doctor fee,Healthcare,26565,PKR,2026-04-13
+paid bank charges yesterday,Bills & Payments,90926,PKR,2026-08-06
+paid monthly bill online,Bills & Payments,22360,PKR,2026-01-29
+filled petrol in car today,Transportation,1799,PKR,2026-04-17
+paid travel fare for family,Travel,115861,PKR,2026-02-16
+paid travel fare this week,Travel,8554,PKR,2026-08-09
+home repair online,Home & Rent,35250,PKR,2026-05-04
+paid credit card bill yesterday,Bills & Payments,58261,PKR,2026-01-12
+paid water bill online,Utilities,10796,PKR,2026-01-04
+miscellaneous purchase online,Other,18995,PKR,2026-07-05
+booked flight online,Travel,89683,PKR,2026-05-13
+bought personal care items online,Personal Care,10329,PKR,2026-01-25
+played games online,Entertainment,4272,PKR,2026-05-04
+dental checkup online,Healthcare,42335,PKR,2026-04-09
+filled petrol in car,Transportation,10641,PKR,2026-02-10
+visited salon yesterday,Personal Care,14444,PKR,2026-02-12
+paid internet bill this week,Utilities,8393,PKR,2026-03-26
+paid university fee for family,Education,29690,PKR,2026-05-21
+bought home appliances yesterday,Home & Rent,62603,PKR,2026-01-21
+paid monthly bill for family,Bills & Payments,59233,PKR,2026-01-23
+paid monthly bill this week,Bills & Payments,16059,PKR,2026-05-08
+miscellaneous expense,Other,13319,PKR,2026-04-16
+bought groceries,Food & Groceries,13072,PKR,2026-06-04
+paid hotel bill this week,Travel,134257,PKR,2026-05-24
+bought accessories this week,Shopping,12206,PKR,2026-07-31
+bought chicken yesterday,Food & Groceries,5539,PKR,2026-05-24
+booked bus ticket yesterday,Travel,96235,PKR,2026-07-03
+paid credit card bill,Bills & Payments,86864,PKR,2026-02-26
+restaurant dinner this week,Food & Groceries,13696,PKR,2026-06-12
+paid course fee online,Education,14435,PKR,2026-01-12
+changed car oil today,Transportation,13565,PKR,2026-07-03
+other payment,Other,8432,PKR,2026-06-06
+bought trousers,Shopping,28224,PKR,2026-04-11
+bought accessories today,Shopping,23787,PKR,2026-03-28
+paid internet bill,Utilities,19794,PKR,2026-02-01
+paid monthly bill online,Bills & Payments,77742,PKR,2026-05-10
+changed car oil,Transportation,8789,PKR,2026-07-08
+ordered food for family,Food & Groceries,8012,PKR,2026-05-11
+paid bus fare online,Transportation,13456,PKR,2026-02-02
+paid internet bill online,Utilities,11046,PKR,2026-05-10
+went to amusement park for family,Entertainment,11546,PKR,2026-07-15
+bought handbag yesterday,Shopping,11534,PKR,2026-03-17
+paid loan installment today,Bills & Payments,54599,PKR,2026-06-04
+miscellaneous purchase this week,Other,18050,PKR,2026-08-09
+dental checkup online,Healthcare,36579,PKR,2026-06-11
+bought trousers today,Shopping,20752,PKR,2026-07-02
+paid course fee online,Education,17889,PKR,2026-07-01
+paid apartment rent for family,Home & Rent,143210,PKR,2026-06-27
+bought furniture online,Home & Rent,31252,PKR,2026-07-14
+paid medical bill yesterday,Healthcare,38494,PKR,2026-05-27
+bought cleaning supplies yesterday,Home & Rent,140959,PKR,2026-03-15
+paid gaming subscription,Entertainment,8764,PKR,2026-01-28
+pizza for dinner today,Food & Groceries,969,PKR,2026-06-21
+bought eggs this week,Food & Groceries,12391,PKR,2026-07-21
+booked ride online,Transportation,4205,PKR,2026-02-07
+bought flour today,Food & Groceries,12446,PKR,2026-05-19
+restaurant lunch yesterday,Food & Groceries,1779,PKR,2026-06-07
+bought cleaning supplies for family,Home & Rent,59800,PKR,2026-07-10
+paid maintenance charges yesterday,Home & Rent,63284,PKR,2026-05-11
+general expense online,Other,1639,PKR,2026-04-08
+went to amusement park online,Entertainment,5322,PKR,2026-05-22
+bought groceries online,Food & Groceries,4217,PKR,2026-02-21
+travel expenses yesterday,Travel,60126,PKR,2026-06-12
+general expense for family,Other,18011,PKR,2026-07-09
+booked flight online,Travel,51724,PKR,2026-03-17
+paid loan installment online,Bills & Payments,10260,PKR,2026-02-17
+filled fuel yesterday,Transportation,765,PKR,2026-04-20
+bought notebooks today,Education,21593,PKR,2026-05-30
+paid university fee this week,Education,61622,PKR,2026-07-01
+filled petrol in car today,Transportation,5385,PKR,2026-06-02
+bought flour yesterday,Food & Groceries,13041,PKR,2026-05-27
+bought skincare products,Personal Care,13045,PKR,2026-07-01
+paid medical bill today,Healthcare,12350,PKR,2026-05-14
+paid utility bill today,Utilities,14129,PKR,2026-05-20
+visited salon,Personal Care,5924,PKR,2026-02-26
+bought watch this week,Shopping,12122,PKR,2026-03-17
+online shopping for family,Shopping,15860,PKR,2026-05-24
+paid house rent,Home & Rent,91703,PKR,2026-04-25
+online shopping for family,Shopping,8289,PKR,2026-01-11
+bought furniture yesterday,Home & Rent,30720,PKR,2026-04-09
+bought notebooks,Education,68246,PKR,2026-07-30
+paid medical bill for family,Healthcare,29500,PKR,2026-05-05
+bought flour online,Food & Groceries,3254,PKR,2026-03-24
+haircut,Personal Care,2942,PKR,2026-07-17
+bought perfume,Personal Care,10471,PKR,2026-01-17
+bought trousers online,Shopping,14200,PKR,2026-08-02
+paid gas bill for family,Utilities,14761,PKR,2026-06-15
+paid mobile bill online,Utilities,5538,PKR,2026-01-07
+paid online bill this week,Bills & Payments,5465,PKR,2026-01-23
+paid electricity bill today,Utilities,8754,PKR,2026-05-23
+paid utility bill today,Utilities,8975,PKR,2026-04-15
+went to amusement park online,Entertainment,6826,PKR,2026-04-21
+bought medicine yesterday,Healthcare,44425,PKR,2026-01-31
+haircut online,Personal Care,12001,PKR,2026-06-08
+paid mobile bill for family,Utilities,1991,PKR,2026-06-29
+paid water bill for family,Utilities,3977,PKR,2026-03-16
+bought furniture for family,Home & Rent,23676,PKR,2026-03-14
+paid monthly bill yesterday,Bills & Payments,87102,PKR,2026-01-08
+paid loan installment for family,Bills & Payments,29318,PKR,2026-02-04
+other payment for family,Other,9765,PKR,2026-06-12
+booked ride online,Transportation,14632,PKR,2026-07-23
+general expense,Other,18237,PKR,2026-08-12
+bought shampoo,Personal Care,884,PKR,2026-01-02
+booked bus ticket yesterday,Travel,141811,PKR,2026-05-21
+paid water bill today,Utilities,11767,PKR,2026-02-24
+played games for family,Entertainment,2533,PKR,2026-02-11
+paid taxi fare for family,Transportation,13776,PKR,2026-03-06
+bought clothes today,Shopping,22286,PKR,2026-07-24
+travel expenses,Travel,144878,PKR,2026-04-29
+paid maintenance charges,Home & Rent,77192,PKR,2026-06-21
+paid water bill,Utilities,6968,PKR,2026-07-05
+paid travel fare this week,Travel,94621,PKR,2026-02-02
+bought cleaning supplies today,Home & Rent,27226,PKR,2026-03-14
+booked hotel today,Travel,84305,PKR,2026-05-05
+paid bank charges for family,Bills & Payments,86931,PKR,2026-03-20
+miscellaneous purchase today,Other,18632,PKR,2026-05-26
+bought prescription medicine this week,Healthcare,28369,PKR,2026-02-13
+restaurant dinner today,Food & Groceries,12972,PKR,2026-02-26
+other payment this week,Other,11879,PKR,2026-02-04
+bought cleaning supplies this week,Home & Rent,126817,PKR,2026-04-29
+paid bank charges this week,Bills & Payments,64328,PKR,2026-05-22
+paid gas bill online,Utilities,3186,PKR,2026-08-04
+bought stationery for family,Education,26246,PKR,2026-03-09
+miscellaneous expense online,Other,2570,PKR,2026-08-17
+bought groceries for family,Food & Groceries,9584,PKR,2026-04-14
+booked flight,Travel,145597,PKR,2026-03-08
+bought perfume yesterday,Personal Care,10913,PKR,2026-07-18
+paid rickshaw fare yesterday,Transportation,3758,PKR,2026-08-17
+paid hotel bill this week,Travel,36096,PKR,2026-04-29
+bought perfume,Personal Care,6700,PKR,2026-04-04
+haircut online,Personal Care,4113,PKR,2026-08-06
+paid hotel bill today,Travel,135777,PKR,2026-02-05
+paid loan installment today,Bills & Payments,74733,PKR,2026-05-25
+home repair today,Home & Rent,127747,PKR,2026-04-02
+bought chicken yesterday,Food & Groceries,3896,PKR,2026-01-17
+paid course fee today,Education,6110,PKR,2026-06-21
+bought household items this week,Shopping,13017,PKR,2026-05-01
+paid credit card bill,Bills & Payments,85503,PKR,2026-03-24
+paid mobile bill for family,Utilities,9461,PKR,2026-08-02
+general expense for family,Other,17937,PKR,2026-05-26
+car maintenance online,Transportation,6301,PKR,2026-04-04
+paid hotel bill,Travel,136440,PKR,2026-03-06
+bought movie ticket for family,Entertainment,6849,PKR,2026-04-01
+bought vitamins yesterday,Healthcare,39897,PKR,2026-01-02
+bought shampoo yesterday,Personal Care,2913,PKR,2026-02-28
+paid utility bill online,Utilities,9701,PKR,2026-02-24
+paid bus fare today,Transportation,6034,PKR,2026-06-04
+miscellaneous expense online,Other,7647,PKR,2026-04-17
+dental checkup,Healthcare,31856,PKR,2026-06-22
+paid monthly bill today,Bills & Payments,77936,PKR,2026-02-11
+home repair yesterday,Home & Rent,6884,PKR,2026-03-04
+bought milk for family,Food & Groceries,9805,PKR,2026-02-11
+filled petrol in car for family,Transportation,2506,PKR,2026-01-15
+booked ride today,Transportation,8564,PKR,2026-04-14
+booked bus ticket online,Travel,5881,PKR,2026-08-13
+general expense,Other,7197,PKR,2026-04-25
+paid travel fare yesterday,Travel,45713,PKR,2026-02-26
+bought concert ticket today,Entertainment,13218,PKR,2026-05-30
+booked ride today,Transportation,11965,PKR,2026-06-25
+bought vitamins for family,Healthcare,39005,PKR,2026-01-18
+bought cosmetics yesterday,Shopping,4632,PKR,2026-01-28
+bought eggs for family,Food & Groceries,14183,PKR,2026-05-10
+bought home appliances today,Home & Rent,26244,PKR,2026-02-15
+paid service fee for family,Bills & Payments,5616,PKR,2026-08-13
+bought perfume,Personal Care,1726,PKR,2026-05-04
+paid apartment rent for family,Home & Rent,142370,PKR,2026-07-31
+ordered food for family,Food & Groceries,6992,PKR,2026-04-05
+ordered food today,Food & Groceries,13244,PKR,2026-05-04
+paid streaming subscription for family,Entertainment,13382,PKR,2026-07-09
+miscellaneous purchase,Other,14042,PKR,2026-02-04
+paid exam fee today,Education,11486,PKR,2026-03-14
+booked bus ticket yesterday,Travel,68582,PKR,2026-02-18
+bought groceries for family,Food & Groceries,8661,PKR,2026-01-31
+haircut yesterday,Personal Care,10924,PKR,2026-02-22
+general expense yesterday,Other,11970,PKR,2026-01-28
+car maintenance online,Transportation,9690,PKR,2026-03-06
+bought educational material for family,Education,48425,PKR,2026-06-06
+bought educational material today,Education,54662,PKR,2026-05-22
+visited salon today,Personal Care,6265,PKR,2026-05-24
+visited salon this week,Personal Care,5224,PKR,2026-05-28
+bought prescription medicine online,Healthcare,26391,PKR,2026-07-08
+filled fuel online,Transportation,3864,PKR,2026-04-25
+paid miscellaneous charges,Other,7127,PKR,2026-05-11
+paid gaming subscription this week,Entertainment,13321,PKR,2026-05-21
+paid hotel bill online,Travel,14645,PKR,2026-02-11
+played games,Entertainment,13378,PKR,2026-01-24
+changed car oil for family,Transportation,7233,PKR,2026-01-23
+paid water bill today,Utilities,12651,PKR,2026-01-21
+booked hotel online,Travel,101748,PKR,2026-04-13
+paid hotel bill for family,Travel,76096,PKR,2026-07-02
+booked hotel today,Travel,130595,PKR,2026-04-23
+bought eggs online,Food & Groceries,13271,PKR,2026-05-13
+paid school fee,Education,79079,PKR,2026-05-11
+bought personal care items today,Personal Care,10279,PKR,2026-02-13
+paid house rent this week,Home & Rent,63719,PKR,2026-06-17
+bought bread,Food & Groceries,4620,PKR,2026-07-19
+paid streaming subscription online,Entertainment,6674,PKR,2026-04-14
+booked flight for family,Travel,5028,PKR,2026-07-08
+miscellaneous expense,Other,18109,PKR,2026-03-14
+miscellaneous purchase for family,Other,11506,PKR,2026-03-30
+paid school fee for family,Education,25996,PKR,2026-04-27
+bought concert ticket,Entertainment,4477,PKR,2026-02-14
+bought concert ticket,Entertainment,9352,PKR,2026-01-19
+bought skincare products this week,Personal Care,2117,PKR,2026-07-25
+bought skincare products for family,Personal Care,13522,PKR,2026-07-23
+bought train ticket online,Travel,117069,PKR,2026-04-07
+paid travel fare today,Travel,90040,PKR,2026-07-18
+paid online bill yesterday,Bills & Payments,77416,PKR,2026-08-09
+bought cooking oil,Food & Groceries,4324,PKR,2026-01-18
+played games today,Entertainment,11290,PKR,2026-06-29
+bought watch yesterday,Shopping,11870,PKR,2026-05-13
+haircut online,Personal Care,13834,PKR,2026-03-09
+bought handbag,Shopping,13372,PKR,2026-06-22
+general expense,Other,18271,PKR,2026-02-15
+paid bank charges this week,Bills & Payments,29147,PKR,2026-08-17
+bought train ticket today,Travel,50851,PKR,2026-05-08
+paid miscellaneous charges today,Other,8031,PKR,2026-08-12
+paid school fee today,Education,27077,PKR,2026-08-02
+online shopping this week,Shopping,5411,PKR,2026-07-19
+paid electricity bill,Utilities,16643,PKR,2026-06-07
+grocery shopping yesterday,Food & Groceries,6181,PKR,2026-06-08
+bought vitamins for family,Healthcare,18304,PKR,2026-05-06
+booked ride yesterday,Transportation,3738,PKR,2026-07-12
+booked flight,Travel,138818,PKR,2026-07-24
+went to amusement park for family,Entertainment,733,PKR,2026-05-09
+bought vitamins online,Healthcare,11755,PKR,2026-04-28
+paid mobile bill for family,Utilities,15575,PKR,2026-03-22
+miscellaneous expense,Other,7005,PKR,2026-04-08
+booked hotel this week,Travel,95791,PKR,2026-06-06
+bought stationery for family,Education,34952,PKR,2026-03-02
+paid exam fee for family,Education,45470,PKR,2026-04-04
+changed car oil yesterday,Transportation,3549,PKR,2026-04-18
+general expense this week,Other,13226,PKR,2026-03-13
+paid loan installment for family,Bills & Payments,17688,PKR,2026-05-28
+paid apartment rent,Home & Rent,71765,PKR,2026-07-25
+bought household items yesterday,Shopping,28359,PKR,2026-04-08
+bought shirt online,Shopping,5200,PKR,2026-05-02
+bought bread yesterday,Food & Groceries,8285,PKR,2026-02-04
+paid maintenance charges for family,Home & Rent,83766,PKR,2026-07-21
+paid bank charges this week,Bills & Payments,74180,PKR,2026-08-08
+booked hotel yesterday,Travel,26945,PKR,2026-06-26
+filled petrol in car today,Transportation,13433,PKR,2026-03-07
+paid online bill,Bills & Payments,59463,PKR,2026-07-10
+visited hospital this week,Healthcare,23913,PKR,2026-05-24
+bought skincare products this week,Personal Care,524,PKR,2026-04-16
+paid water bill online,Utilities,7019,PKR,2026-05-28
+paid hotel bill online,Travel,142148,PKR,2026-02-14
+paid course fee this week,Education,88736,PKR,2026-05-11
+paid online bill yesterday,Bills & Payments,10777,PKR,2026-04-08
+bought train ticket yesterday,Travel,38971,PKR,2026-08-11
+paid rickshaw fare yesterday,Transportation,10442,PKR,2026-06-06
+paid travel fare,Travel,21738,PKR,2026-02-11
+paid doctor fee this week,Healthcare,21066,PKR,2026-06-17
+bought notebooks for family,Education,84994,PKR,2026-04-12
+paid exam fee this week,Education,98528,PKR,2026-05-31
+visited salon yesterday,Personal Care,2941,PKR,2026-02-17
+bought milk online,Food & Groceries,3944,PKR,2026-06-19
+bought books today,Education,22377,PKR,2026-04-12
+paid electricity bill,Utilities,16005,PKR,2026-05-21
+bought groceries yesterday,Food & Groceries,8684,PKR,2026-07-15
+paid electricity bill this week,Utilities,5588,PKR,2026-01-22
+bought home appliances this week,Home & Rent,61124,PKR,2026-03-05
+general expense yesterday,Other,4242,PKR,2026-02-03
+bought shampoo,Personal Care,775,PKR,2026-06-19
+bought prescription medicine this week,Healthcare,31505,PKR,2026-04-30
+bought skincare products for family,Personal Care,7488,PKR,2026-02-04
+miscellaneous purchase today,Other,19460,PKR,2026-06-02
+paid online bill online,Bills & Payments,83842,PKR,2026-08-13
+paid travel fare for family,Travel,140928,PKR,2026-03-21
+bought vitamins for family,Healthcare,15185,PKR,2026-07-26
+paid internet bill this week,Utilities,12485,PKR,2026-04-16
+bought stationery this week,Education,1883,PKR,2026-01-01
+bought shampoo this week,Personal Care,4898,PKR,2026-05-01
+haircut online,Personal Care,8259,PKR,2026-07-13
+paid bank charges,Bills & Payments,56918,PKR,2026-07-24
+paid school fee,Education,72355,PKR,2026-04-06
+bought cosmetics for family,Shopping,14623,PKR,2026-04-12
+bought shirt online,Shopping,24453,PKR,2026-06-15
+paid gaming subscription yesterday,Entertainment,3814,PKR,2026-03-09
+paid internet bill online,Utilities,8349,PKR,2026-05-13
+travel expenses online,Travel,72267,PKR,2026-03-14
+bought cleaning supplies for family,Home & Rent,71470,PKR,2026-04-16
+bought clothes today,Shopping,4776,PKR,2026-03-16
+paid mobile bill yesterday,Utilities,15336,PKR,2026-03-11
+miscellaneous purchase yesterday,Other,6253,PKR,2026-03-24
+bought milk,Food & Groceries,8864,PKR,2026-01-06
+filled fuel this week,Transportation,4510,PKR,2026-02-02
+other payment online,Other,368,PKR,2026-03-01
+paid gas bill,Utilities,16673,PKR,2026-02-25
+bought vitamins this week,Healthcare,32962,PKR,2026-04-06
+paid online bill,Bills & Payments,43786,PKR,2026-01-21
+filled petrol in car this week,Transportation,12808,PKR,2026-04-11
+paid utility bill yesterday,Utilities,6450,PKR,2026-02-19
+bought educational material,Education,16485,PKR,2026-07-16
+paid miscellaneous charges yesterday,Other,14614,PKR,2026-03-05
+miscellaneous expense today,Other,15200,PKR,2026-07-08
+paid utility bill online,Utilities,7330,PKR,2026-05-02
+played games this week,Entertainment,5493,PKR,2026-02-10
+bought cleaning supplies,Home & Rent,145069,PKR,2026-05-14
+paid water bill yesterday,Utilities,10291,PKR,2026-02-20
+bought medicine online,Healthcare,14572,PKR,2026-01-29
+bought cosmetics this week,Shopping,793,PKR,2026-02-12
+bought books yesterday,Education,32362,PKR,2026-01-03
+bought cooking oil online,Food & Groceries,9868,PKR,2026-02-09
+bought prescription medicine,Healthcare,16600,PKR,2026-02-10
+paid credit card bill online,Bills & Payments,81587,PKR,2026-03-28
+paid house rent,Home & Rent,94196,PKR,2026-06-15
+filled fuel today,Transportation,8092,PKR,2026-03-01
+paid medical bill online,Healthcare,49890,PKR,2026-03-30
+paid online bill today,Bills & Payments,3298,PKR,2026-06-26
+paid streaming subscription online,Entertainment,2407,PKR,2026-03-06
+bought cooking oil online,Food & Groceries,7268,PKR,2026-05-24
+paid exam fee today,Education,74778,PKR,2026-02-17
+bought skincare products this week,Personal Care,12199,PKR,2026-04-30
+bought stationery,Education,70117,PKR,2026-02-09
+paid bank charges this week,Bills & Payments,71489,PKR,2026-04-04
+paid credit card bill online,Bills & Payments,66816,PKR,2026-04-08
+paid miscellaneous charges,Other,12030,PKR,2026-07-18
+booked flight this week,Travel,17604,PKR,2026-06-18
+visited salon today,Personal Care,8786,PKR,2026-06-24
+paid service fee today,Bills & Payments,80852,PKR,2026-03-14
+bought vitamins online,Healthcare,21404,PKR,2026-01-29
+paid utility bill online,Utilities,2684,PKR,2026-01-12
+paid bus fare,Transportation,3410,PKR,2026-01-28
+paid loan installment,Bills & Payments,4670,PKR,2026-05-27
+home repair yesterday,Home & Rent,129426,PKR,2026-05-15
+paid hotel bill for family,Travel,68092,PKR,2026-01-13
+paid doctor fee for family,Healthcare,47344,PKR,2026-01-19
+bought eggs online,Food & Groceries,8151,PKR,2026-08-16
+paid internet bill online,Utilities,2489,PKR,2026-04-03
+bought personal care items yesterday,Personal Care,13668,PKR,2026-04-05
+miscellaneous expense for family,Other,8810,PKR,2026-05-16
+bought vegetables this week,Food & Groceries,1376,PKR,2026-02-25
+haircut,Personal Care,12081,PKR,2026-03-01
+visited salon today,Personal Care,3364,PKR,2026-05-15
+paid apartment rent for family,Home & Rent,47897,PKR,2026-05-23
+miscellaneous purchase yesterday,Other,3557,PKR,2026-07-16
+paid maintenance charges this week,Home & Rent,121250,PKR,2026-06-29
+bought home appliances,Home & Rent,44728,PKR,2026-07-22
+car maintenance for family,Transportation,5629,PKR,2026-06-18
+changed car oil this week,Transportation,14886,PKR,2026-03-22
+bought skincare products this week,Personal Care,6955,PKR,2026-07-15
+bought home appliances online,Home & Rent,85790,PKR,2026-06-05
+online shopping for family,Shopping,7309,PKR,2026-04-07
+bought personal care items this week,Personal Care,6098,PKR,2026-04-26
+paid monthly bill,Bills & Payments,95699,PKR,2026-01-09
+paid university fee for family,Education,18205,PKR,2026-08-16
+paid university fee this week,Education,29583,PKR,2026-02-24
+bought medicine online,Healthcare,18385,PKR,2026-05-22
+bought perfume for family,Personal Care,9565,PKR,2026-02-09
+paid electricity bill yesterday,Utilities,12154,PKR,2026-02-09
+booked ride this week,Transportation,14675,PKR,2026-05-30
+bought trousers this week,Shopping,26877,PKR,2026-03-18
+paid utility bill yesterday,Utilities,19147,PKR,2026-02-25
+miscellaneous expense online,Other,10739,PKR,2026-07-22
+paid loan installment yesterday,Bills & Payments,90886,PKR,2026-06-29
+travel expenses,Travel,79746,PKR,2026-01-10
+miscellaneous purchase yesterday,Other,2671,PKR,2026-07-19
+restaurant dinner this week,Food & Groceries,14514,PKR,2026-07-29
+went to amusement park,Entertainment,14450,PKR,2026-07-17
+online shopping,Shopping,21071,PKR,2026-07-19
+bought home appliances,Home & Rent,80897,PKR,2026-05-15
+restaurant dinner for family,Food & Groceries,9355,PKR,2026-02-08
+paid medical bill online,Healthcare,14770,PKR,2026-02-09
+pizza for dinner yesterday,Food & Groceries,12434,PKR,2026-06-02
+booked bus ticket,Travel,59218,PKR,2026-04-21
+bought educational material today,Education,17826,PKR,2026-03-28
+paid internet bill for family,Utilities,2115,PKR,2026-05-21
+paid streaming subscription,Entertainment,6729,PKR,2026-05-09
+paid gaming subscription online,Entertainment,2336,PKR,2026-07-15
+changed car oil for family,Transportation,3345,PKR,2026-05-05
+played games for family,Entertainment,3412,PKR,2026-05-24
+paid hotel bill for family,Travel,65551,PKR,2026-03-04
+paid water bill yesterday,Utilities,11097,PKR,2026-06-25
+booked hotel,Travel,109418,PKR,2026-04-19
+visited hospital today,Healthcare,21319,PKR,2026-03-30
+paid hotel bill,Travel,80906,PKR,2026-02-13
+paid medical bill yesterday,Healthcare,41140,PKR,2026-02-07
+paid credit card bill today,Bills & Payments,26673,PKR,2026-06-25
+paid doctor fee online,Healthcare,5923,PKR,2026-01-29
+miscellaneous expense today,Other,4939,PKR,2026-08-11
+paid university fee this week,Education,91437,PKR,2026-07-25
+paid water bill yesterday,Utilities,15939,PKR,2026-01-06
+paid doctor fee online,Healthcare,35558,PKR,2026-02-24
+bought household items for family,Shopping,24887,PKR,2026-03-08
+visited salon for family,Personal Care,12159,PKR,2026-02-06
+miscellaneous expense yesterday,Other,19203,PKR,2026-08-20
+paid maintenance charges,Home & Rent,67966,PKR,2026-02-13
+bought flour today,Food & Groceries,13030,PKR,2026-06-28
+bought train ticket,Travel,122886,PKR,2026-06-17
+bought vegetables yesterday,Food & Groceries,10919,PKR,2026-03-11
+home repair online,Home & Rent,95429,PKR,2026-08-10
+paid electricity bill this week,Utilities,13165,PKR,2026-03-01
+bought concert ticket online,Entertainment,1831,PKR,2026-08-20
+bought vitamins for family,Healthcare,35136,PKR,2026-01-23
+paid taxi fare for family,Transportation,7603,PKR,2026-05-24
+miscellaneous expense,Other,8206,PKR,2026-05-16
+paid course fee yesterday,Education,52063,PKR,2026-07-10
+filled petrol in car this week,Transportation,11311,PKR,2026-04-01
+dental checkup this week,Healthcare,15779,PKR,2026-05-09
+paid university fee online,Education,34274,PKR,2026-08-13
+paid gaming subscription,Entertainment,9292,PKR,2026-03-13
+bought shirt this week,Shopping,29698,PKR,2026-04-11
+paid apartment rent,Home & Rent,101193,PKR,2026-05-14
+paid maintenance charges online,Home & Rent,60618,PKR,2026-04-17
+online shopping today,Shopping,14274,PKR,2026-03-21
+bought train ticket yesterday,Travel,143143,PKR,2026-02-03
+bought shirt for family,Shopping,18039,PKR,2026-06-25
+bought shirt this week,Shopping,22861,PKR,2026-06-30
+bought shampoo yesterday,Personal Care,12816,PKR,2026-02-07
+paid maintenance charges today,Home & Rent,84229,PKR,2026-01-18
+bought perfume online,Personal Care,2139,PKR,2026-02-17
+bought prescription medicine today,Healthcare,47949,PKR,2026-01-08
+bought vitamins yesterday,Healthcare,20180,PKR,2026-04-24
+general expense today,Other,6258,PKR,2026-01-28
+paid bus fare,Transportation,12591,PKR,2026-06-06
+bought train ticket for family,Travel,149646,PKR,2026-06-06
+online shopping today,Shopping,7866,PKR,2026-06-25
+restaurant lunch,Food & Groceries,11374,PKR,2026-07-19
+paid loan installment for family,Bills & Payments,79760,PKR,2026-05-01
+general expense today,Other,12796,PKR,2026-05-06
+paid loan installment today,Bills & Payments,25830,PKR,2026-02-27
+ordered food,Food & Groceries,4521,PKR,2026-04-16
+bought trousers today,Shopping,2467,PKR,2026-02-15
+paid service fee yesterday,Bills & Payments,90659,PKR,2026-03-25
+paid loan installment yesterday,Bills & Payments,53566,PKR,2026-07-18
+pizza for dinner online,Food & Groceries,5226,PKR,2026-04-11
+paid hotel bill for family,Travel,141550,PKR,2026-05-15
+bought cleaning supplies,Home & Rent,137485,PKR,2026-01-28
+paid monthly bill,Bills & Payments,32707,PKR,2026-05-13
+visited salon online,Personal Care,843,PKR,2026-05-23
+bought concert ticket online,Entertainment,1007,PKR,2026-02-18
+paid exam fee yesterday,Education,40418,PKR,2026-07-18
+paid exam fee today,Education,55872,PKR,2026-03-17
+booked hotel online,Travel,136520,PKR,2026-08-20
+changed car oil online,Transportation,7500,PKR,2026-01-24
+miscellaneous purchase,Other,5990,PKR,2026-07-19
+paid hotel bill for family,Travel,36469,PKR,2026-04-11
+paid streaming subscription yesterday,Entertainment,608,PKR,2026-02-15
+paid service fee online,Bills & Payments,26967,PKR,2026-08-14
+paid credit card bill this week,Bills & Payments,42977,PKR,2026-06-27
+bought cleaning supplies today,Home & Rent,33386,PKR,2026-01-24
+paid mobile bill yesterday,Utilities,12392,PKR,2026-01-22
+bought personal care items yesterday,Personal Care,12109,PKR,2026-07-22
+bought perfume today,Personal Care,6404,PKR,2026-05-21
+watched a movie today,Entertainment,5691,PKR,2026-05-25
+home repair today,Home & Rent,43499,PKR,2026-08-11
+paid bus fare online,Transportation,940,PKR,2026-04-18
+bought notebooks online,Education,58991,PKR,2026-03-15
+paid apartment rent,Home & Rent,35490,PKR,2026-02-21
+bought rice,Food & Groceries,7614,PKR,2026-05-08
+paid service fee,Bills & Payments,80189,PKR,2026-08-14
+paid loan installment today,Bills & Payments,77683,PKR,2026-06-18
+paid monthly bill yesterday,Bills & Payments,58417,PKR,2026-01-21
+booked bus ticket,Travel,65150,PKR,2026-08-14
+bought skincare products for family,Personal Care,10499,PKR,2026-05-23
+bought new shoes today,Shopping,5158,PKR,2026-01-15
+bought furniture,Home & Rent,39109,PKR,2026-08-07
+bought flour this week,Food & Groceries,1536,PKR,2026-01-13
+paid internet bill today,Utilities,5786,PKR,2026-06-22
+bought stationery yesterday,Education,98716,PKR,2026-05-29
+bought medicine,Healthcare,19914,PKR,2026-03-24
+bought vitamins,Healthcare,28305,PKR,2026-08-04
+haircut this week,Personal Care,7913,PKR,2026-02-04
+paid mobile bill this week,Utilities,11287,PKR,2026-05-15
+bought concert ticket today,Entertainment,11600,PKR,2026-02-23
+booked hotel,Travel,139660,PKR,2026-01-23
+paid online bill online,Bills & Payments,79769,PKR,2026-07-21
+general expense yesterday,Other,10470,PKR,2026-03-08
+bought perfume for family,Personal Care,5997,PKR,2026-02-03
+booked bus ticket yesterday,Travel,137237,PKR,2026-07-06
+bought home appliances yesterday,Home & Rent,48161,PKR,2026-08-15
+booked flight online,Travel,77149,PKR,2026-02-19
+bought fruits,Food & Groceries,7716,PKR,2026-06-10
+paid mobile bill today,Utilities,14086,PKR,2026-04-16
+restaurant dinner this week,Food & Groceries,9281,PKR,2026-07-26
+paid apartment rent,Home & Rent,53740,PKR,2026-06-26
+bought notebooks,Education,40840,PKR,2026-03-18
+bought perfume this week,Personal Care,12767,PKR,2026-01-02
+paid mobile bill this week,Utilities,11685,PKR,2026-04-12
+miscellaneous purchase for family,Other,1054,PKR,2026-08-02
+paid taxi fare this week,Transportation,13761,PKR,2026-03-28
+bought home appliances yesterday,Home & Rent,10321,PKR,2026-06-15
+changed car oil today,Transportation,10376,PKR,2026-04-28
+bought skincare products yesterday,Personal Care,13044,PKR,2026-07-28
+played games,Entertainment,13882,PKR,2026-05-14
+paid course fee for family,Education,70739,PKR,2026-01-05
+online shopping online,Shopping,11169,PKR,2026-07-24
+bought medicine today,Healthcare,18680,PKR,2026-08-04
+restaurant dinner yesterday,Food & Groceries,10364,PKR,2026-05-17
+car maintenance today,Transportation,9851,PKR,2026-01-30
+paid course fee online,Education,4645,PKR,2026-03-11
+watched a movie yesterday,Entertainment,14569,PKR,2026-03-02
+bought vitamins this week,Healthcare,14464,PKR,2026-05-15
+bought stationery,Education,49549,PKR,2026-07-20
+bought eggs,Food & Groceries,7370,PKR,2026-05-10
+bought cooking oil for family,Food & Groceries,2624,PKR,2026-02-18
+bought vitamins online,Healthcare,34616,PKR,2026-03-21
+paid doctor fee,Healthcare,34126,PKR,2026-06-23
+paid taxi fare online,Transportation,698,PKR,2026-04-28
+played games for family,Entertainment,2097,PKR,2026-01-02
+paid university fee online,Education,78394,PKR,2026-08-12
+paid water bill yesterday,Utilities,2011,PKR,2026-01-27
+bought personal care items online,Personal Care,5319,PKR,2026-01-06
+travel expenses this week,Travel,56009,PKR,2026-03-24
+bought trousers this week,Shopping,9365,PKR,2026-05-17
+bought prescription medicine yesterday,Healthcare,44282,PKR,2026-01-31
+bought stationery today,Education,36366,PKR,2026-01-30
+bought fruits today,Food & Groceries,8988,PKR,2026-03-31
+bought skincare products this week,Personal Care,2519,PKR,2026-06-30
+paid school fee today,Education,9837,PKR,2026-03-21
+bought train ticket for family,Travel,117299,PKR,2026-01-13
+filled petrol in car yesterday,Transportation,14899,PKR,2026-06-22
+bought fruits yesterday,Food & Groceries,981,PKR,2026-01-23
+went to amusement park today,Entertainment,11745,PKR,2026-06-02
+paid hotel bill online,Travel,117873,PKR,2026-06-07
+visited hospital this week,Healthcare,13285,PKR,2026-07-02
+home repair for family,Home & Rent,21590,PKR,2026-07-13
+paid service fee today,Bills & Payments,12678,PKR,2026-07-28
+other payment,Other,15028,PKR,2026-03-21
+bought cleaning supplies online,Home & Rent,123000,PKR,2026-05-01
+bought trousers today,Shopping,28516,PKR,2026-08-18
+bought train ticket this week,Travel,103780,PKR,2026-02-16
+general expense this week,Other,14953,PKR,2026-05-05
+bought vegetables yesterday,Food & Groceries,1949,PKR,2026-03-31
+paid monthly bill today,Bills & Payments,37496,PKR,2026-07-16
+paid medical bill for family,Healthcare,8648,PKR,2026-05-11
+paid internet bill online,Utilities,4005,PKR,2026-03-25
+bought personal care items,Personal Care,13183,PKR,2026-03-19
+visited salon yesterday,Personal Care,9875,PKR,2026-04-16
+online shopping today,Shopping,18255,PKR,2026-02-10
+paid monthly bill,Bills & Payments,45158,PKR,2026-02-23
+miscellaneous purchase yesterday,Other,14365,PKR,2026-05-26
+paid medical bill online,Healthcare,15776,PKR,2026-02-14
+bought cleaning supplies,Home & Rent,128567,PKR,2026-01-30
+booked bus ticket yesterday,Travel,86295,PKR,2026-05-23
+paid internet bill today,Utilities,10593,PKR,2026-04-14
+paid utility bill,Utilities,12916,PKR,2026-03-25
+paid online bill online,Bills & Payments,8558,PKR,2026-01-24
+bought shirt for family,Shopping,29897,PKR,2026-07-13
+home repair,Home & Rent,39463,PKR,2026-06-19
+changed car oil for family,Transportation,4875,PKR,2026-04-10
+booked bus ticket yesterday,Travel,52292,PKR,2026-02-22
+bought furniture this week,Home & Rent,80835,PKR,2026-04-22
+general expense,Other,19194,PKR,2026-01-03
+booked bus ticket yesterday,Travel,34437,PKR,2026-08-07
+paid university fee this week,Education,72443,PKR,2026-01-14
+restaurant lunch,Food & Groceries,14210,PKR,2026-03-14
+bought chicken yesterday,Food & Groceries,11605,PKR,2026-06-01
+played games this week,Entertainment,11861,PKR,2026-04-08
+went to amusement park yesterday,Entertainment,9131,PKR,2026-02-24
+paid apartment rent yesterday,Home & Rent,37456,PKR,2026-02-18
+visited salon this week,Personal Care,13961,PKR,2026-04-17
+booked ride online,Transportation,2156,PKR,2026-02-04
+bought vegetables online,Food & Groceries,357,PKR,2026-02-06
+other payment online,Other,14410,PKR,2026-02-04
+paid gas bill online,Utilities,14126,PKR,2026-08-09
+paid online bill for family,Bills & Payments,56297,PKR,2026-06-09
+changed car oil for family,Transportation,7048,PKR,2026-05-22
+paid monthly bill this week,Bills & Payments,30088,PKR,2026-02-17
+bought concert ticket,Entertainment,9668,PKR,2026-05-08
+paid miscellaneous charges online,Other,16540,PKR,2026-03-10
+bought concert ticket for family,Entertainment,6212,PKR,2026-01-09
+bought cooking oil online,Food & Groceries,6138,PKR,2026-01-29
+paid travel fare online,Travel,21988,PKR,2026-02-06
+miscellaneous purchase this week,Other,15335,PKR,2026-05-13
+paid utility bill for family,Utilities,3398,PKR,2026-03-04
+paid online bill online,Bills & Payments,87497,PKR,2026-06-21
+paid mobile bill online,Utilities,18168,PKR,2026-07-24
+bought train ticket for family,Travel,14834,PKR,2026-08-20
+paid medical bill,Healthcare,31027,PKR,2026-04-27
+visited salon for family,Personal Care,12222,PKR,2026-03-26
+paid streaming subscription this week,Entertainment,4938,PKR,2026-02-12
+bought flour online,Food & Groceries,12961,PKR,2026-05-25
+paid university fee online,Education,62518,PKR,2026-05-29
+filled petrol in car online,Transportation,4880,PKR,2026-07-27
+miscellaneous purchase,Other,9498,PKR,2026-05-05
+paid gas bill for family,Utilities,3018,PKR,2026-08-06
+bought notebooks today,Education,81213,PKR,2026-03-13
+bought notebooks,Education,97680,PKR,2026-01-29
+booked flight for family,Travel,40619,PKR,2026-06-18
+paid bank charges today,Bills & Payments,34742,PKR,2026-07-20
+paid miscellaneous charges yesterday,Other,6024,PKR,2026-07-24
+haircut this week,Personal Care,1582,PKR,2026-02-07
+travel expenses today,Travel,131009,PKR,2026-07-12
+paid gaming subscription yesterday,Entertainment,4098,PKR,2026-06-19
+paid online bill online,Bills & Payments,22426,PKR,2026-02-23
+paid hotel bill this week,Travel,15241,PKR,2026-06-14
+bought books,Education,22467,PKR,2026-04-29
+went to amusement park this week,Entertainment,8003,PKR,2026-07-11
+bought shampoo yesterday,Personal Care,11398,PKR,2026-06-30
+went to amusement park this week,Entertainment,2578,PKR,2026-05-16
+watched a movie this week,Entertainment,13263,PKR,2026-04-25
+played games this week,Entertainment,8887,PKR,2026-06-24
+bought fruits for family,Food & Groceries,10543,PKR,2026-04-01
+bought concert ticket online,Entertainment,14263,PKR,2026-03-11
+visited hospital this week,Healthcare,6740,PKR,2026-03-07
+paid maintenance charges yesterday,Home & Rent,121876,PKR,2026-07-17
+bought cleaning supplies today,Home & Rent,52098,PKR,2026-05-14
+dental checkup online,Healthcare,12091,PKR,2026-03-22
+haircut online,Personal Care,338,PKR,2026-08-01
+paid electricity bill yesterday,Utilities,3701,PKR,2026-05-15
+paid mobile bill yesterday,Utilities,12018,PKR,2026-02-26
+general expense this week,Other,6426,PKR,2026-01-09
+bought vegetables,Food & Groceries,9834,PKR,2026-06-18
+online shopping online,Shopping,4290,PKR,2026-07-01
+paid electricity bill for family,Utilities,4756,PKR,2026-04-07
+home repair online,Home & Rent,149391,PKR,2026-07-25
+filled fuel online,Transportation,3118,PKR,2026-03-06
+paid exam fee online,Education,10424,PKR,2026-06-13
+paid bank charges yesterday,Bills & Payments,91230,PKR,2026-08-20
+home repair this week,Home & Rent,68459,PKR,2026-02-11
+paid water bill,Utilities,13043,PKR,2026-04-10
+bought medicine this week,Healthcare,17645,PKR,2026-02-15
+paid credit card bill yesterday,Bills & Payments,26802,PKR,2026-06-06
+bought movie ticket online,Entertainment,8261,PKR,2026-01-28
+car maintenance today,Transportation,10159,PKR,2026-06-14
+paid internet bill online,Utilities,8986,PKR,2026-01-27
+bought vegetables,Food & Groceries,9460,PKR,2026-07-06
+paid exam fee,Education,65734,PKR,2026-02-08
+bought cleaning supplies,Home & Rent,10918,PKR,2026-06-20
+paid streaming subscription today,Entertainment,11669,PKR,2026-03-26
+bought concert ticket,Entertainment,8644,PKR,2026-07-01
+paid monthly bill yesterday,Bills & Payments,53441,PKR,2026-08-05
+miscellaneous expense for family,Other,7500,PKR,2026-01-01
+played games yesterday,Entertainment,2185,PKR,2026-05-26
+bought skincare products this week,Personal Care,11371,PKR,2026-03-19
+watched a movie online,Entertainment,10801,PKR,2026-01-24
+paid medical bill this week,Healthcare,5572,PKR,2026-08-04
+paid bank charges online,Bills & Payments,27123,PKR,2026-02-15
+haircut yesterday,Personal Care,11025,PKR,2026-02-18
+bought educational material,Education,83156,PKR,2026-06-26
+bought vitamins,Healthcare,41770,PKR,2026-04-23
+paid miscellaneous charges today,Other,1269,PKR,2026-02-19
+bought chicken yesterday,Food & Groceries,6469,PKR,2026-01-17
+bought personal care items this week,Personal Care,8386,PKR,2026-05-17
+paid credit card bill,Bills & Payments,44970,PKR,2026-01-15
+bought prescription medicine online,Healthcare,3105,PKR,2026-04-14
+paid gas bill online,Utilities,17641,PKR,2026-04-28
+home repair for family,Home & Rent,40047,PKR,2026-07-09
+booked flight,Travel,10667,PKR,2026-07-08
+changed car oil online,Transportation,412,PKR,2026-05-01
+booked hotel today,Travel,35219,PKR,2026-01-04
+filled petrol in car this week,Transportation,13546,PKR,2026-07-23
+paid internet bill for family,Utilities,6093,PKR,2026-08-02
+booked hotel,Travel,30931,PKR,2026-05-08
+travel expenses for family,Travel,58821,PKR,2026-01-17
+bought cosmetics this week,Shopping,26891,PKR,2026-08-02
+other payment this week,Other,4058,PKR,2026-06-25
+booked bus ticket today,Travel,85302,PKR,2026-08-03
+bought new shoes for family,Shopping,5983,PKR,2026-03-27
+paid electricity bill this week,Utilities,5128,PKR,2026-07-13
+bought movie ticket online,Entertainment,6260,PKR,2026-05-22
+changed car oil today,Transportation,9635,PKR,2026-01-11
+filled fuel online,Transportation,10134,PKR,2026-04-07
+filled petrol in car yesterday,Transportation,1422,PKR,2026-01-02
+bought bread,Food & Groceries,11679,PKR,2026-06-16
+bought train ticket yesterday,Travel,125783,PKR,2026-06-27
+paid taxi fare today,Transportation,10582,PKR,2026-03-11
+visited salon yesterday,Personal Care,4119,PKR,2026-02-14
+paid hotel bill,Travel,48186,PKR,2026-07-03
+paid service fee,Bills & Payments,82707,PKR,2026-07-31
+paid course fee yesterday,Education,1099,PKR,2026-05-23
+bought trousers,Shopping,17673,PKR,2026-01-25
+bought train ticket for family,Travel,134048,PKR,2026-02-26
+paid online bill online,Bills & Payments,27777,PKR,2026-03-12
+bought eggs,Food & Groceries,13151,PKR,2026-02-08
+home repair yesterday,Home & Rent,131420,PKR,2026-02-15
+filled petrol in car,Transportation,10665,PKR,2026-04-04
+paid school fee yesterday,Education,33449,PKR,2026-03-27
+travel expenses yesterday,Travel,12355,PKR,2026-01-27
+miscellaneous expense for family,Other,5863,PKR,2026-02-10
+bought cooking oil for family,Food & Groceries,2001,PKR,2026-01-19
+bought accessories for family,Shopping,19297,PKR,2026-03-25
+bought movie ticket online,Entertainment,11289,PKR,2026-08-18
+paid doctor fee,Healthcare,21673,PKR,2026-02-28
+paid gas bill online,Utilities,14019,PKR,2026-08-11
+bought cosmetics today,Shopping,2709,PKR,2026-05-01
+paid travel fare,Travel,115259,PKR,2026-02-07
+online shopping yesterday,Shopping,6134,PKR,2026-04-10
+paid doctor fee yesterday,Healthcare,47474,PKR,2026-02-19
+bought furniture this week,Home & Rent,54008,PKR,2026-03-27
+filled petrol in car online,Transportation,9417,PKR,2026-01-16
+bought stationery,Education,61518,PKR,2026-04-28
+bought movie ticket this week,Entertainment,3802,PKR,2026-08-15
+bought stationery online,Education,80654,PKR,2026-08-20
+paid taxi fare,Transportation,6845,PKR,2026-08-08
+visited salon today,Personal Care,9892,PKR,2026-05-02
+paid bank charges,Bills & Payments,96184,PKR,2026-04-20
+paid miscellaneous charges today,Other,10824,PKR,2026-04-22
+booked flight for family,Travel,40051,PKR,2026-05-27
+ordered food,Food & Groceries,756,PKR,2026-05-01
+miscellaneous purchase,Other,14049,PKR,2026-05-16
+went to amusement park online,Entertainment,13656,PKR,2026-01-26
+paid monthly bill today,Bills & Payments,11390,PKR,2026-05-23
+ordered food today,Food & Groceries,2274,PKR,2026-04-02
+paid school fee online,Education,12392,PKR,2026-01-05
+paid online bill this week,Bills & Payments,21707,PKR,2026-06-30
+paid service fee online,Bills & Payments,77001,PKR,2026-01-07
+paid monthly bill today,Bills & Payments,92661,PKR,2026-04-14
+paid rickshaw fare online,Transportation,7707,PKR,2026-06-30
+paid house rent online,Home & Rent,19533,PKR,2026-04-09
+general expense for family,Other,1171,PKR,2026-03-17
+paid gaming subscription this week,Entertainment,11636,PKR,2026-06-06
+bought perfume today,Personal Care,13105,PKR,2026-06-25
+paid utility bill this week,Utilities,2296,PKR,2026-05-12
+bought furniture,Home & Rent,30089,PKR,2026-04-09
+bought vitamins for family,Healthcare,2978,PKR,2026-04-04
+paid doctor fee online,Healthcare,36920,PKR,2026-06-30
+paid utility bill online,Utilities,7208,PKR,2026-02-05
+paid doctor fee for family,Healthcare,7742,PKR,2026-06-16
+paid online bill for family,Bills & Payments,92623,PKR,2026-02-23
+paid miscellaneous charges this week,Other,11657,PKR,2026-08-18
+bought educational material this week,Education,7638,PKR,2026-01-17
+visited hospital yesterday,Healthcare,32165,PKR,2026-05-09
+haircut yesterday,Personal Care,11829,PKR,2026-05-17
+home repair for family,Home & Rent,77615,PKR,2026-04-26
+bought train ticket online,Travel,18203,PKR,2026-02-18
+paid credit card bill,Bills & Payments,51707,PKR,2026-08-18
+booked ride,Transportation,1891,PKR,2026-02-12
+bought books online,Education,19892,PKR,2026-05-08
+paid taxi fare for family,Transportation,10377,PKR,2026-01-06
+bought educational material online,Education,71466,PKR,2026-02-03
+paid bank charges yesterday,Bills & Payments,58677,PKR,2026-07-08
+paid house rent this week,Home & Rent,50561,PKR,2026-01-17
+bought chicken for family,Food & Groceries,10662,PKR,2026-03-27
+bought concert ticket this week,Entertainment,10943,PKR,2026-06-15
+bought vitamins for family,Healthcare,43937,PKR,2026-06-28
+bought perfume yesterday,Personal Care,7703,PKR,2026-03-19
+booked flight this week,Travel,46019,PKR,2026-07-22
+paid school fee yesterday,Education,49245,PKR,2026-03-15
+bought milk this week,Food & Groceries,4759,PKR,2026-04-27
+paid bus fare online,Transportation,8870,PKR,2026-03-15
+paid bus fare online,Transportation,11451,PKR,2026-08-20
+home repair today,Home & Rent,43271,PKR,2026-03-02
+paid electricity bill this week,Utilities,19326,PKR,2026-02-02
+paid bank charges this week,Bills & Payments,24682,PKR,2026-02-22
+bought personal care items,Personal Care,11104,PKR,2026-03-23
+paid doctor fee this week,Healthcare,29688,PKR,2026-05-19
+booked ride,Transportation,508,PKR,2026-04-14
+paid loan installment yesterday,Bills & Payments,42471,PKR,2026-02-09
+restaurant dinner online,Food & Groceries,11658,PKR,2026-03-17
+paid bank charges for family,Bills & Payments,87910,PKR,2026-02-07
+paid hotel bill yesterday,Travel,89784,PKR,2026-06-26
+paid mobile bill yesterday,Utilities,1813,PKR,2026-02-05
+paid maintenance charges,Home & Rent,81761,PKR,2026-01-07
+bought concert ticket today,Entertainment,7506,PKR,2026-04-02
+paid water bill,Utilities,6894,PKR,2026-05-30
+bought shampoo this week,Personal Care,3406,PKR,2026-01-06
+paid utility bill yesterday,Utilities,3363,PKR,2026-05-12
+bought movie ticket yesterday,Entertainment,5406,PKR,2026-06-04
+booked bus ticket,Travel,95650,PKR,2026-04-12
+car maintenance this week,Transportation,6426,PKR,2026-04-06
+bought flour this week,Food & Groceries,5856,PKR,2026-03-20
+paid service fee,Bills & Payments,28771,PKR,2026-07-06
+paid online bill yesterday,Bills & Payments,58499,PKR,2026-03-15
+car maintenance online,Transportation,14787,PKR,2026-04-17
+filled fuel today,Transportation,3504,PKR,2026-03-19
+paid service fee this week,Bills & Payments,9165,PKR,2026-06-01
+watched a movie,Entertainment,6908,PKR,2026-06-13
+bought educational material today,Education,73351,PKR,2026-04-29
+miscellaneous purchase today,Other,6629,PKR,2026-02-17
+paid streaming subscription for family,Entertainment,8237,PKR,2026-01-11
+bought notebooks yesterday,Education,73806,PKR,2026-07-09
+paid loan installment,Bills & Payments,820,PKR,2026-02-09
+bought notebooks online,Education,83935,PKR,2026-05-01
+paid mobile bill online,Utilities,9926,PKR,2026-04-17
+changed car oil online,Transportation,10664,PKR,2026-03-04
+bought fruits this week,Food & Groceries,8178,PKR,2026-01-18
+paid hotel bill this week,Travel,126956,PKR,2026-05-25
+paid gaming subscription this week,Entertainment,10489,PKR,2026-06-25
+paid online bill,Bills & Payments,49416,PKR,2026-05-12
+miscellaneous purchase,Other,8604,PKR,2026-02-11
+booked hotel today,Travel,84802,PKR,2026-04-29
+paid miscellaneous charges this week,Other,5451,PKR,2026-01-14
+paid course fee yesterday,Education,83894,PKR,2026-04-02
+bought flour this week,Food & Groceries,8777,PKR,2026-06-13
+paid utility bill today,Utilities,6504,PKR,2026-07-15
+paid utility bill today,Utilities,18316,PKR,2026-03-24
+bought prescription medicine online,Healthcare,20031,PKR,2026-03-11
+bought cleaning supplies online,Home & Rent,96033,PKR,2026-01-25
+bought perfume this week,Personal Care,13689,PKR,2026-02-06
+bought milk for family,Food & Groceries,4710,PKR,2026-04-06
+paid monthly bill this week,Bills & Payments,21868,PKR,2026-01-27
+bought shirt for family,Shopping,7545,PKR,2026-08-01
+bought household items for family,Shopping,22898,PKR,2026-08-01
+bought perfume online,Personal Care,9229,PKR,2026-06-29
+paid internet bill yesterday,Utilities,3003,PKR,2026-01-30
+filled petrol in car yesterday,Transportation,5805,PKR,2026-03-21
+general expense today,Other,14581,PKR,2026-08-16
+booked bus ticket this week,Travel,46143,PKR,2026-07-01
+paid university fee online,Education,16044,PKR,2026-02-26
+paid bus fare online,Transportation,3812,PKR,2026-03-20
+paid taxi fare today,Transportation,1387,PKR,2026-04-19
+miscellaneous expense,Other,716,PKR,2026-07-18
+paid monthly bill,Bills & Payments,26236,PKR,2026-01-28
+grocery shopping yesterday,Food & Groceries,2048,PKR,2026-03-06
+bought vegetables this week,Food & Groceries,11037,PKR,2026-01-03
+paid electricity bill for family,Utilities,7230,PKR,2026-05-31
+bought shirt online,Shopping,11819,PKR,2026-01-08
+paid gas bill online,Utilities,9589,PKR,2026-05-29
+visited hospital today,Healthcare,33109,PKR,2026-07-19
+miscellaneous purchase today,Other,16644,PKR,2026-05-26
+paid electricity bill for family,Utilities,958,PKR,2026-05-16
+bought trousers this week,Shopping,5928,PKR,2026-08-19
+haircut online,Personal Care,1816,PKR,2026-02-24
+bought personal care items yesterday,Personal Care,6204,PKR,2026-06-28
+booked flight yesterday,Travel,29134,PKR,2026-02-16
+bought vitamins yesterday,Healthcare,14342,PKR,2026-05-12
+bought cosmetics,Shopping,25249,PKR,2026-03-22
+paid internet bill,Utilities,17530,PKR,2026-02-04
+paid bank charges online,Bills & Payments,38284,PKR,2026-05-23
+miscellaneous expense,Other,10851,PKR,2026-05-07
+paid internet bill this week,Utilities,15473,PKR,2026-06-03
+general expense online,Other,14647,PKR,2026-02-27
+visited salon this week,Personal Care,14214,PKR,2026-04-20
+bought clothes yesterday,Shopping,22553,PKR,2026-04-05
+filled petrol in car online,Transportation,8155,PKR,2026-06-22
+paid internet bill yesterday,Utilities,17626,PKR,2026-06-18
+paid house rent,Home & Rent,38582,PKR,2026-04-12
+played games for family,Entertainment,1866,PKR,2026-07-09
+filled fuel this week,Transportation,3361,PKR,2026-03-28
+online shopping yesterday,Shopping,4322,PKR,2026-03-01
+played games yesterday,Entertainment,4763,PKR,2026-07-15
+miscellaneous purchase for family,Other,9044,PKR,2026-07-13
+bought home appliances this week,Home & Rent,125735,PKR,2026-06-20
+paid travel fare yesterday,Travel,135064,PKR,2026-03-13
+changed car oil,Transportation,2101,PKR,2026-03-06
+paid monthly bill today,Bills & Payments,82861,PKR,2026-02-04
+bought fruits online,Food & Groceries,965,PKR,2026-08-01
+paid internet bill online,Utilities,1376,PKR,2026-02-15
+bought concert ticket online,Entertainment,5556,PKR,2026-02-09
+bought books,Education,87149,PKR,2026-07-12
+visited salon yesterday,Personal Care,3508,PKR,2026-03-17
+bought home appliances yesterday,Home & Rent,133328,PKR,2026-03-08
+bought skincare products for family,Personal Care,9155,PKR,2026-01-05
+ordered food,Food & Groceries,6385,PKR,2026-04-26
+bought prescription medicine yesterday,Healthcare,29303,PKR,2026-04-28
+grocery shopping today,Food & Groceries,9220,PKR,2026-06-18
+bought stationery yesterday,Education,56950,PKR,2026-02-04
+bought educational material yesterday,Education,14836,PKR,2026-05-26
+bought home appliances online,Home & Rent,146171,PKR,2026-06-25
+bought perfume yesterday,Personal Care,7997,PKR,2026-05-24
+filled petrol in car yesterday,Transportation,4415,PKR,2026-05-07
+paid travel fare for family,Travel,93474,PKR,2026-07-16
+paid course fee,Education,4189,PKR,2026-06-01
+bought milk this week,Food & Groceries,5815,PKR,2026-07-27
+miscellaneous purchase,Other,11282,PKR,2026-04-08
+paid internet bill this week,Utilities,12210,PKR,2026-04-16
+bought medicine online,Healthcare,16305,PKR,2026-03-05
+bought handbag for family,Shopping,3083,PKR,2026-06-26
+paid water bill,Utilities,11562,PKR,2026-02-13
+restaurant dinner,Food & Groceries,7651,PKR,2026-06-18
+bought concert ticket for family,Entertainment,14968,PKR,2026-04-18
+paid university fee online,Education,62064,PKR,2026-05-31
+restaurant dinner yesterday,Food & Groceries,9444,PKR,2026-04-10
+paid medical bill,Healthcare,32305,PKR,2026-01-26
+paid miscellaneous charges this week,Other,16376,PKR,2026-05-09
+bought furniture today,Home & Rent,79517,PKR,2026-04-04
+bought movie ticket yesterday,Entertainment,10611,PKR,2026-08-05
+paid utility bill today,Utilities,9916,PKR,2026-03-09
+bought flour for family,Food & Groceries,6686,PKR,2026-07-25
+online shopping online,Shopping,3313,PKR,2026-07-03
+booked hotel for family,Travel,89300,PKR,2026-03-11
+paid utility bill for family,Utilities,16073,PKR,2026-04-20
+bought watch,Shopping,21649,PKR,2026-07-30
+bought notebooks yesterday,Education,87460,PKR,2026-05-19
+paid doctor fee yesterday,Healthcare,26665,PKR,2026-03-06
+booked bus ticket yesterday,Travel,144540,PKR,2026-02-16
+bought bread for family,Food & Groceries,8278,PKR,2026-02-24
+home repair online,Home & Rent,123498,PKR,2026-03-10
+paid maintenance charges for family,Home & Rent,114698,PKR,2026-05-25
+miscellaneous expense for family,Other,6674,PKR,2026-04-04
+paid loan installment today,Bills & Payments,20222,PKR,2026-07-11
+home repair this week,Home & Rent,115134,PKR,2026-04-16
+bought prescription medicine,Healthcare,41845,PKR,2026-02-22
+paid streaming subscription this week,Entertainment,10784,PKR,2026-02-11
+paid school fee yesterday,Education,31758,PKR,2026-01-30
+paid taxi fare,Transportation,4123,PKR,2026-07-24
+paid exam fee yesterday,Education,73877,PKR,2026-04-22
+played games,Entertainment,3509,PKR,2026-02-10
+bought stationery,Education,34368,PKR,2026-07-22
+bought stationery online,Education,6035,PKR,2026-07-04
+paid credit card bill,Bills & Payments,11500,PKR,2026-03-22
+bought train ticket,Travel,107694,PKR,2026-08-18
+dental checkup online,Healthcare,6218,PKR,2026-04-12
+paid miscellaneous charges today,Other,3767,PKR,2026-05-27
+miscellaneous purchase,Other,17203,PKR,2026-06-20
+travel expenses for family,Travel,67009,PKR,2026-05-08
+paid gas bill for family,Utilities,4506,PKR,2026-07-17
+visited hospital for family,Healthcare,48615,PKR,2026-04-10
+paid miscellaneous charges yesterday,Other,7243,PKR,2026-02-06
+paid gas bill today,Utilities,9496,PKR,2026-04-23
+paid streaming subscription for family,Entertainment,1116,PKR,2026-05-06
+bought skincare products online,Personal Care,2050,PKR,2026-03-23
+visited salon yesterday,Personal Care,11385,PKR,2026-03-05
+bought stationery this week,Education,62788,PKR,2026-07-03
+bought prescription medicine this week,Healthcare,1681,PKR,2026-06-15
+booked hotel online,Travel,15332,PKR,2026-06-26
+paid apartment rent this week,Home & Rent,145894,PKR,2026-04-09
+paid course fee online,Education,16497,PKR,2026-05-17
+bought accessories yesterday,Shopping,557,PKR,2026-04-11
+bought notebooks,Education,99677,PKR,2026-03-02
+paid school fee today,Education,58020,PKR,2026-06-11
+bought prescription medicine online,Healthcare,26926,PKR,2026-07-22
+bought rice,Food & Groceries,13587,PKR,2026-07-19
+paid monthly bill online,Bills & Payments,54627,PKR,2026-08-04
+dental checkup yesterday,Healthcare,6879,PKR,2026-07-31
+booked ride for family,Transportation,1187,PKR,2026-04-01
+bought concert ticket online,Entertainment,13527,PKR,2026-05-21
+general expense yesterday,Other,996,PKR,2026-07-15
+bought bread online,Food & Groceries,7364,PKR,2026-07-22
+paid apartment rent,Home & Rent,106031,PKR,2026-02-21
+bought furniture this week,Home & Rent,22556,PKR,2026-01-29
+paid taxi fare for family,Transportation,11791,PKR,2026-07-16
+home repair today,Home & Rent,108561,PKR,2026-07-22
+bought vitamins yesterday,Healthcare,48480,PKR,2026-02-04
+bought stationery online,Education,78228,PKR,2026-07-31
+bought prescription medicine this week,Healthcare,13319,PKR,2026-01-22
+paid streaming subscription today,Entertainment,6647,PKR,2026-08-13
+paid gaming subscription for family,Entertainment,3877,PKR,2026-01-06
+bought chicken,Food & Groceries,7676,PKR,2026-02-20
+bought stationery,Education,53064,PKR,2026-06-08
+bought concert ticket this week,Entertainment,2645,PKR,2026-01-23
+paid doctor fee for family,Healthcare,7990,PKR,2026-01-04
+miscellaneous purchase yesterday,Other,14967,PKR,2026-07-31
+bought home appliances,Home & Rent,59847,PKR,2026-07-02
+bought trousers this week,Shopping,9735,PKR,2026-07-11
+paid monthly bill today,Bills & Payments,57032,PKR,2026-08-08
+online shopping today,Shopping,27303,PKR,2026-03-14
+paid miscellaneous charges yesterday,Other,6010,PKR,2026-04-15
+filled petrol in car this week,Transportation,4389,PKR,2026-03-02
+paid travel fare today,Travel,97898,PKR,2026-05-30
+bought cleaning supplies yesterday,Home & Rent,23475,PKR,2026-01-03
+paid loan installment this week,Bills & Payments,91335,PKR,2026-04-12
+paid apartment rent online,Home & Rent,101531,PKR,2026-07-01
+played games for family,Entertainment,4398,PKR,2026-01-19
+paid utility bill,Utilities,2207,PKR,2026-03-27
+bought accessories this week,Shopping,20169,PKR,2026-06-21
+paid hotel bill online,Travel,12930,PKR,2026-01-02
+bought educational material this week,Education,52233,PKR,2026-06-21
+paid doctor fee for family,Healthcare,2995,PKR,2026-05-29
+booked ride today,Transportation,8353,PKR,2026-05-07
+bought vitamins today,Healthcare,6175,PKR,2026-03-23
+miscellaneous purchase yesterday,Other,4746,PKR,2026-03-08
+paid water bill,Utilities,4690,PKR,2026-05-08
+paid course fee yesterday,Education,37583,PKR,2026-08-20
+bought notebooks for family,Education,41526,PKR,2026-04-22
+paid rickshaw fare online,Transportation,8149,PKR,2026-07-15
+changed car oil,Transportation,3195,PKR,2026-02-08
+bought chicken today,Food & Groceries,687,PKR,2026-05-01
+bought stationery online,Education,61728,PKR,2026-04-22
+paid internet bill,Utilities,14967,PKR,2026-04-02
+miscellaneous purchase yesterday,Other,15099,PKR,2026-05-07
+paid mobile bill today,Utilities,4551,PKR,2026-03-31
+paid gas bill this week,Utilities,6419,PKR,2026-08-02
+booked ride for family,Transportation,14696,PKR,2026-06-19
+booked flight for family,Travel,2081,PKR,2026-05-15
+booked flight yesterday,Travel,21141,PKR,2026-03-05
+paid online bill,Bills & Payments,43577,PKR,2026-01-07
+bought books yesterday,Education,49463,PKR,2026-06-01
+paid water bill today,Utilities,1446,PKR,2026-01-21
+paid online bill online,Bills & Payments,63395,PKR,2026-04-27
+bought furniture for family,Home & Rent,2521,PKR,2026-03-26
+bought snacks this week,Food & Groceries,12085,PKR,2026-07-07
+booked flight today,Travel,13761,PKR,2026-07-25
+bought furniture this week,Home & Rent,15558,PKR,2026-07-10
+paid utility bill for family,Utilities,12997,PKR,2026-01-24
+paid streaming subscription today,Entertainment,4133,PKR,2026-07-17
+watched a movie,Entertainment,14164,PKR,2026-02-23
+car maintenance yesterday,Transportation,4768,PKR,2026-06-15
+paid apartment rent,Home & Rent,79262,PKR,2026-05-06
+played games this week,Entertainment,11422,PKR,2026-06-04
+paid rickshaw fare online,Transportation,1674,PKR,2026-08-02
+paid medical bill today,Healthcare,32387,PKR,2026-04-25
+went to amusement park this week,Entertainment,9425,PKR,2026-06-03
+watched a movie yesterday,Entertainment,13487,PKR,2026-04-05
+booked flight yesterday,Travel,112677,PKR,2026-01-24
+restaurant dinner yesterday,Food & Groceries,11182,PKR,2026-02-27
+bought cleaning supplies online,Home & Rent,41650,PKR,2026-05-07
+bought personal care items online,Personal Care,8796,PKR,2026-01-22
+paid exam fee yesterday,Education,10878,PKR,2026-07-25
+paid bank charges today,Bills & Payments,17249,PKR,2026-06-25
+paid school fee for family,Education,56563,PKR,2026-03-17
+booked hotel for family,Travel,21062,PKR,2026-01-12
+haircut for family,Personal Care,7161,PKR,2026-04-16
+paid internet bill online,Utilities,19127,PKR,2026-07-28
+paid course fee this week,Education,77251,PKR,2026-01-21
+haircut,Personal Care,12332,PKR,2026-06-19
+paid loan installment today,Bills & Payments,52005,PKR,2026-01-12
+paid internet bill online,Utilities,10253,PKR,2026-03-22
+paid hotel bill yesterday,Travel,118951,PKR,2026-06-09
+paid course fee today,Education,28165,PKR,2026-02-17
+paid mobile bill for family,Utilities,8997,PKR,2026-08-12
+paid house rent yesterday,Home & Rent,141083,PKR,2026-01-05
+pizza for dinner,Food & Groceries,317,PKR,2026-02-13
+bought home appliances yesterday,Home & Rent,107192,PKR,2026-08-11
+bought cleaning supplies for family,Home & Rent,128591,PKR,2026-03-19
+travel expenses for family,Travel,95562,PKR,2026-06-26
+bought cleaning supplies online,Home & Rent,104546,PKR,2026-07-25
+bought books today,Education,18209,PKR,2026-01-04
+bought clothes,Shopping,23107,PKR,2026-02-18
+bought eggs yesterday,Food & Groceries,10727,PKR,2026-02-07
+paid apartment rent yesterday,Home & Rent,142186,PKR,2026-02-18
+paid water bill yesterday,Utilities,5355,PKR,2026-05-02
+watched a movie,Entertainment,2921,PKR,2026-08-20
+changed car oil yesterday,Transportation,7824,PKR,2026-01-06
+paid service fee today,Bills & Payments,26889,PKR,2026-03-17
+travel expenses yesterday,Travel,14348,PKR,2026-03-27
+bought fruits online,Food & Groceries,13987,PKR,2026-07-02
+went to amusement park yesterday,Entertainment,12276,PKR,2026-05-29
+paid hotel bill for family,Travel,77224,PKR,2026-01-10
+paid monthly bill yesterday,Bills & Payments,67786,PKR,2026-06-01
+miscellaneous purchase online,Other,16087,PKR,2026-03-01
+miscellaneous expense for family,Other,723,PKR,2026-04-19
+bought train ticket for family,Travel,17648,PKR,2026-03-10
+bought home appliances yesterday,Home & Rent,31655,PKR,2026-05-07
+paid hotel bill this week,Travel,118525,PKR,2026-06-28
+watched a movie today,Entertainment,4918,PKR,2026-07-05
+bought accessories this week,Shopping,14656,PKR,2026-03-01
+bought shampoo for family,Personal Care,11422,PKR,2026-03-28
+travel expenses online,Travel,123805,PKR,2026-02-03
+bought educational material yesterday,Education,88725,PKR,2026-06-17
+general expense yesterday,Other,5409,PKR,2026-06-09
+bought handbag online,Shopping,24851,PKR,2026-01-23
+bought home appliances today,Home & Rent,46427,PKR,2026-02-21
+changed car oil,Transportation,13100,PKR,2026-04-17
+paid bank charges today,Bills & Payments,27950,PKR,2026-05-23
+bought groceries this week,Food & Groceries,14532,PKR,2026-03-08
+dental checkup today,Healthcare,11750,PKR,2026-07-31
+haircut,Personal Care,5733,PKR,2026-04-21
+paid utility bill today,Utilities,4454,PKR,2026-05-24
+bought accessories this week,Shopping,11451,PKR,2026-07-20
+bought prescription medicine,Healthcare,36805,PKR,2026-03-10
+filled fuel online,Transportation,926,PKR,2026-04-23
+paid credit card bill,Bills & Payments,80528,PKR,2026-06-06
+paid utility bill,Utilities,17123,PKR,2026-01-27
+filled fuel today,Transportation,6025,PKR,2026-02-10
+general expense online,Other,14567,PKR,2026-07-15
+visited salon online,Personal Care,14462,PKR,2026-01-26
+paid rickshaw fare this week,Transportation,13521,PKR,2026-02-05
+paid gas bill yesterday,Utilities,14123,PKR,2026-07-16
+bought chicken yesterday,Food & Groceries,5692,PKR,2026-03-15
+bought shampoo,Personal Care,4558,PKR,2026-04-06
+other payment this week,Other,8142,PKR,2026-02-08
+visited salon today,Personal Care,2460,PKR,2026-07-25
+went to amusement park yesterday,Entertainment,14913,PKR,2026-04-28
+bought personal care items this week,Personal Care,687,PKR,2026-04-24
+filled petrol in car online,Transportation,13309,PKR,2026-05-13
+paid electricity bill this week,Utilities,10815,PKR,2026-04-13
+car maintenance,Transportation,6543,PKR,2026-07-14
+bought milk for family,Food & Groceries,1047,PKR,2026-06-11
+miscellaneous purchase this week,Other,13839,PKR,2026-04-13
+bought cleaning supplies for family,Home & Rent,80776,PKR,2026-07-04
+general expense this week,Other,358,PKR,2026-07-31
+bought stationery online,Education,53444,PKR,2026-04-25
+paid apartment rent for family,Home & Rent,116905,PKR,2026-06-28
+bought prescription medicine online,Healthcare,26809,PKR,2026-07-18
+bought handbag,Shopping,1511,PKR,2026-05-18
+bought vitamins online,Healthcare,47412,PKR,2026-07-09
+booked ride today,Transportation,1620,PKR,2026-05-11
+bought skincare products for family,Personal Care,5782,PKR,2026-07-13
+paid apartment rent,Home & Rent,8311,PKR,2026-08-16
+bought perfume this week,Personal Care,4154,PKR,2026-08-02
+bought educational material for family,Education,14975,PKR,2026-07-07
+restaurant lunch this week,Food & Groceries,10372,PKR,2026-05-10
+bought medicine,Healthcare,49881,PKR,2026-06-16
+paid internet bill this week,Utilities,19257,PKR,2026-07-08
+bought snacks this week,Food & Groceries,3968,PKR,2026-07-26
+miscellaneous purchase for family,Other,17574,PKR,2026-08-05
+booked flight this week,Travel,79433,PKR,2026-03-14
+home repair online,Home & Rent,37692,PKR,2026-07-02
+bought concert ticket online,Entertainment,4257,PKR,2026-01-27
+paid medical bill for family,Healthcare,12919,PKR,2026-07-30
+bought vitamins,Healthcare,9904,PKR,2026-07-02
+paid gaming subscription yesterday,Entertainment,1542,PKR,2026-01-24
+ordered food today,Food & Groceries,7902,PKR,2026-02-24
+paid credit card bill this week,Bills & Payments,89212,PKR,2026-05-15
+bought concert ticket for family,Entertainment,8702,PKR,2026-07-19
+paid gaming subscription this week,Entertainment,9773,PKR,2026-05-08
+bought home appliances yesterday,Home & Rent,129330,PKR,2026-07-07
+paid gaming subscription today,Entertainment,2564,PKR,2026-05-10
+changed car oil online,Transportation,7599,PKR,2026-02-03
+miscellaneous purchase for family,Other,3968,PKR,2026-06-27
+bought accessories yesterday,Shopping,1368,PKR,2026-07-11
+paid rickshaw fare,Transportation,9956,PKR,2026-08-07
+watched a movie,Entertainment,6255,PKR,2026-05-27
+paid university fee for family,Education,20593,PKR,2026-01-31
+visited hospital this week,Healthcare,20174,PKR,2026-03-17
+paid credit card bill today,Bills & Payments,19130,PKR,2026-07-20
+paid travel fare,Travel,80996,PKR,2026-08-16
+paid school fee today,Education,97448,PKR,2026-05-06
+bought fruits for family,Food & Groceries,5812,PKR,2026-01-18
+ordered food yesterday,Food & Groceries,9489,PKR,2026-03-21
+paid travel fare this week,Travel,99908,PKR,2026-05-02
+miscellaneous purchase today,Other,4639,PKR,2026-05-10
+bought home appliances yesterday,Home & Rent,118722,PKR,2026-02-08
+general expense,Other,13522,PKR,2026-04-10
+bought cosmetics this week,Shopping,18027,PKR,2026-01-12
+bought home appliances online,Home & Rent,73712,PKR,2026-06-15
+paid gas bill online,Utilities,1312,PKR,2026-05-27
+home repair online,Home & Rent,81962,PKR,2026-05-24
+paid house rent online,Home & Rent,147630,PKR,2026-01-22
+online shopping for family,Shopping,19202,PKR,2026-07-13
+bought eggs yesterday,Food & Groceries,8335,PKR,2026-08-18
+bought fruits online,Food & Groceries,8813,PKR,2026-02-16
+bought rice today,Food & Groceries,4118,PKR,2026-08-01
+miscellaneous purchase yesterday,Other,2873,PKR,2026-07-26
+bought perfume this week,Personal Care,6783,PKR,2026-05-31
+bought cooking oil,Food & Groceries,5669,PKR,2026-04-22
+car maintenance,Transportation,14184,PKR,2026-05-16
+bought vitamins this week,Healthcare,6265,PKR,2026-01-30
+paid utility bill today,Utilities,9850,PKR,2026-02-06
+booked ride,Transportation,2626,PKR,2026-03-20
+played games today,Entertainment,1165,PKR,2026-06-07
+paid doctor fee,Healthcare,47046,PKR,2026-01-15
+bought educational material,Education,42448,PKR,2026-02-06
+paid streaming subscription this week,Entertainment,6352,PKR,2026-07-31
+paid electricity bill today,Utilities,8351,PKR,2026-07-12
+booked bus ticket today,Travel,130231,PKR,2026-05-11
+visited salon,Personal Care,4612,PKR,2026-01-16
+bought vitamins for family,Healthcare,26978,PKR,2026-01-17
+paid credit card bill yesterday,Bills & Payments,83539,PKR,2026-03-01
+bought rice for family,Food & Groceries,9703,PKR,2026-06-22
+paid gas bill for family,Utilities,4614,PKR,2026-03-19
+paid travel fare yesterday,Travel,22996,PKR,2026-08-05
+paid maintenance charges today,Home & Rent,38320,PKR,2026-04-06
+bought shampoo today,Personal Care,9006,PKR,2026-04-19
+visited salon,Personal Care,216,PKR,2026-07-28
+paid service fee this week,Bills & Payments,86097,PKR,2026-02-12
+grocery shopping yesterday,Food & Groceries,4577,PKR,2026-06-03
+bought educational material this week,Education,83364,PKR,2026-02-24
+travel expenses for family,Travel,74744,PKR,2026-01-12
+filled fuel this week,Transportation,1569,PKR,2026-04-12
+miscellaneous expense today,Other,18334,PKR,2026-03-13
+bought movie ticket for family,Entertainment,8470,PKR,2026-07-25
+dental checkup this week,Healthcare,41926,PKR,2026-03-08
+other payment this week,Other,8158,PKR,2026-06-19
+visited hospital today,Healthcare,30433,PKR,2026-06-03
+bought medicine online,Healthcare,9063,PKR,2026-06-15
+bought cooking oil,Food & Groceries,14869,PKR,2026-01-03
+paid apartment rent yesterday,Home & Rent,146697,PKR,2026-08-18
+other payment yesterday,Other,17733,PKR,2026-01-21
+bought cleaning supplies,Home & Rent,142203,PKR,2026-01-08
+bought home appliances online,Home & Rent,33352,PKR,2026-04-01
+paid gaming subscription for family,Entertainment,6064,PKR,2026-04-10
+filled petrol in car,Transportation,7680,PKR,2026-04-05
+bought accessories,Shopping,7558,PKR,2026-07-10
+bought rice online,Food & Groceries,11719,PKR,2026-04-02
+bought clothes for family,Shopping,20787,PKR,2026-03-19
+paid miscellaneous charges today,Other,16281,PKR,2026-04-03
+bought rice yesterday,Food & Groceries,14919,PKR,2026-06-30
+miscellaneous purchase today,Other,333,PKR,2026-02-20
+bought home appliances,Home & Rent,73704,PKR,2026-05-26
+visited salon today,Personal Care,9240,PKR,2026-02-19
+bought cleaning supplies for family,Home & Rent,149148,PKR,2026-02-14
+paid utility bill today,Utilities,2631,PKR,2026-02-02
+paid school fee for family,Education,96038,PKR,2026-07-20
+paid school fee online,Education,3530,PKR,2026-06-27
+paid maintenance charges for family,Home & Rent,67301,PKR,2026-06-24
+visited salon,Personal Care,7197,PKR,2026-06-14
+bought cleaning supplies,Home & Rent,85672,PKR,2026-04-21
+paid streaming subscription,Entertainment,11343,PKR,2026-05-13
+paid monthly bill this week,Bills & Payments,68297,PKR,2026-07-14
+bought chicken,Food & Groceries,4653,PKR,2026-04-18
+visited salon this week,Personal Care,284,PKR,2026-04-11
+bought watch,Shopping,29139,PKR,2026-05-27
+bought chicken online,Food & Groceries,7043,PKR,2026-01-20
+bought trousers today,Shopping,11088,PKR,2026-03-21
+paid mobile bill online,Utilities,3669,PKR,2026-01-08
+paid monthly bill,Bills & Payments,78164,PKR,2026-07-24
+bought furniture this week,Home & Rent,65789,PKR,2026-01-28
+paid loan installment this week,Bills & Payments,7634,PKR,2026-07-30
+paid medical bill today,Healthcare,5078,PKR,2026-07-18
+booked bus ticket yesterday,Travel,26079,PKR,2026-06-10
+paid service fee,Bills & Payments,11711,PKR,2026-01-16
+pizza for dinner this week,Food & Groceries,14683,PKR,2026-08-06
+miscellaneous expense today,Other,2131,PKR,2026-07-25
+paid credit card bill this week,Bills & Payments,80550,PKR,2026-06-10
+watched a movie,Entertainment,11301,PKR,2026-01-15
+haircut this week,Personal Care,14125,PKR,2026-04-08
+watched a movie for family,Entertainment,12520,PKR,2026-04-16
+online shopping online,Shopping,20747,PKR,2026-01-03
+paid monthly bill yesterday,Bills & Payments,56612,PKR,2026-08-14
+booked bus ticket,Travel,90028,PKR,2026-06-16
+home repair,Home & Rent,120033,PKR,2026-05-13
+paid medical bill today,Healthcare,7378,PKR,2026-01-27
+bought vegetables for family,Food & Groceries,13033,PKR,2026-08-04
+online shopping today,Shopping,21185,PKR,2026-05-11
+paid course fee yesterday,Education,63597,PKR,2026-07-05
+paid travel fare today,Travel,64740,PKR,2026-02-05
+grocery shopping today,Food & Groceries,5206,PKR,2026-05-30
+bought concert ticket online,Entertainment,12559,PKR,2026-04-02
+bought stationery today,Education,62041,PKR,2026-03-21
+bought train ticket this week,Travel,97686,PKR,2026-01-03
+bought perfume online,Personal Care,11313,PKR,2026-02-07
+bought chicken for family,Food & Groceries,13521,PKR,2026-08-02
+haircut yesterday,Personal Care,5833,PKR,2026-02-20
+bought trousers,Shopping,11491,PKR,2026-02-18
+bought home appliances online,Home & Rent,123526,PKR,2026-06-03
+general expense for family,Other,18649,PKR,2026-03-27
+bought train ticket yesterday,Travel,87145,PKR,2026-02-11
+paid internet bill,Utilities,16750,PKR,2026-02-26
+bought chicken online,Food & Groceries,3872,PKR,2026-04-30
+booked flight today,Travel,127024,PKR,2026-07-08
+bought prescription medicine online,Healthcare,24935,PKR,2026-02-22
+bought movie ticket,Entertainment,6144,PKR,2026-01-03
+paid water bill,Utilities,18676,PKR,2026-01-30
+booked ride yesterday,Transportation,3285,PKR,2026-06-11
+travel expenses this week,Travel,12509,PKR,2026-01-08
+bought trousers this week,Shopping,6006,PKR,2026-02-26
+bought stationery this week,Education,73180,PKR,2026-03-04
+paid taxi fare,Transportation,2984,PKR,2026-08-04
+bought books,Education,89295,PKR,2026-02-05
+played games,Entertainment,5744,PKR,2026-02-23
+paid exam fee today,Education,48949,PKR,2026-07-27
+dental checkup today,Healthcare,34832,PKR,2026-07-24
+paid travel fare online,Travel,18138,PKR,2026-01-31
+paid bus fare today,Transportation,3240,PKR,2026-05-17
+played games this week,Entertainment,5409,PKR,2026-06-03
+played games today,Entertainment,956,PKR,2026-07-15
+booked bus ticket today,Travel,141369,PKR,2026-03-17
+paid rickshaw fare today,Transportation,972,PKR,2026-06-11
+bought stationery for family,Education,77056,PKR,2026-08-15
+paid loan installment online,Bills & Payments,11170,PKR,2026-07-20
+paid online bill for family,Bills & Payments,9003,PKR,2026-02-12
+visited salon online,Personal Care,12506,PKR,2026-05-11
+bought vitamins for family,Healthcare,30726,PKR,2026-02-15
+dental checkup this week,Healthcare,34737,PKR,2026-06-27
+paid online bill yesterday,Bills & Payments,62596,PKR,2026-03-10
+paid travel fare online,Travel,10595,PKR,2026-02-23
+bought trousers yesterday,Shopping,28584,PKR,2026-03-02
+bought movie ticket this week,Entertainment,7163,PKR,2026-08-16
+bought concert ticket today,Entertainment,14002,PKR,2026-04-06
+bought books today,Education,99016,PKR,2026-01-22
+paid exam fee for family,Education,46581,PKR,2026-02-28
+booked hotel yesterday,Travel,135286,PKR,2026-06-09
+bought vitamins yesterday,Healthcare,30941,PKR,2026-04-21
+paid streaming subscription yesterday,Entertainment,5394,PKR,2026-03-11
+watched a movie today,Entertainment,7436,PKR,2026-03-01
+bought books this week,Education,11302,PKR,2026-03-17
+bought perfume for family,Personal Care,10745,PKR,2026-01-21
+paid school fee,Education,16043,PKR,2026-01-19
+bought medicine for family,Healthcare,13427,PKR,2026-03-27
+bought watch this week,Shopping,10219,PKR,2026-07-10
+home repair this week,Home & Rent,50975,PKR,2026-06-30
+booked flight online,Travel,143377,PKR,2026-03-08
+bought flour this week,Food & Groceries,13572,PKR,2026-03-30
+went to amusement park for family,Entertainment,12615,PKR,2026-06-17
+bought cooking oil online,Food & Groceries,8499,PKR,2026-07-14
+car maintenance today,Transportation,3817,PKR,2026-07-05
+paid miscellaneous charges yesterday,Other,7758,PKR,2026-05-13
+travel expenses for family,Travel,123876,PKR,2026-07-04
+paid bank charges,Bills & Payments,41535,PKR,2026-08-05
+bought cosmetics online,Shopping,13986,PKR,2026-02-23
+paid monthly bill for family,Bills & Payments,4445,PKR,2026-04-06
+paid bus fare this week,Transportation,12188,PKR,2026-01-03
+paid online bill this week,Bills & Payments,45041,PKR,2026-02-27
+went to amusement park online,Entertainment,12531,PKR,2026-04-14
+miscellaneous purchase this week,Other,10784,PKR,2026-05-31
+grocery shopping today,Food & Groceries,2618,PKR,2026-03-26
+paid hotel bill for family,Travel,103468,PKR,2026-04-08
+bought cosmetics,Shopping,17814,PKR,2026-04-09
+bought accessories,Shopping,11075,PKR,2026-05-26
+paid online bill this week,Bills & Payments,12721,PKR,2026-02-13
+paid mobile bill for family,Utilities,6320,PKR,2026-01-09
+miscellaneous purchase yesterday,Other,979,PKR,2026-02-17
+bought clothes yesterday,Shopping,9600,PKR,2026-02-22
+bought handbag online,Shopping,17483,PKR,2026-01-18
+paid credit card bill this week,Bills & Payments,68464,PKR,2026-01-03
+paid rickshaw fare yesterday,Transportation,6507,PKR,2026-02-10
+paid gas bill for family,Utilities,14210,PKR,2026-05-03
+miscellaneous expense yesterday,Other,6865,PKR,2026-02-03
+bought handbag yesterday,Shopping,27100,PKR,2026-07-01
+bought home appliances today,Home & Rent,82346,PKR,2026-05-31
+bought household items online,Shopping,22740,PKR,2026-04-28
+paid school fee,Education,19202,PKR,2026-04-25
+paid internet bill for family,Utilities,8588,PKR,2026-05-15
+paid medical bill yesterday,Healthcare,30459,PKR,2026-04-29
+booked hotel online,Travel,24882,PKR,2026-03-15
+bought home appliances this week,Home & Rent,78974,PKR,2026-04-11
+travel expenses today,Travel,109803,PKR,2026-03-05
+car maintenance yesterday,Transportation,6402,PKR,2026-06-18
+filled fuel yesterday,Transportation,11546,PKR,2026-01-12
+bought shirt this week,Shopping,29219,PKR,2026-06-10
+bought skincare products online,Personal Care,1293,PKR,2026-06-28
+paid miscellaneous charges yesterday,Other,13576,PKR,2026-07-15
+haircut this week,Personal Care,1453,PKR,2026-07-13
+paid utility bill this week,Utilities,13938,PKR,2026-04-26
+booked ride today,Transportation,8391,PKR,2026-01-12
+paid credit card bill,Bills & Payments,84237,PKR,2026-06-27
+bought cleaning supplies yesterday,Home & Rent,100917,PKR,2026-03-29
+other payment today,Other,13098,PKR,2026-01-10
+bought rice,Food & Groceries,11717,PKR,2026-02-04
+dental checkup online,Healthcare,30724,PKR,2026-05-05
+paid credit card bill,Bills & Payments,72383,PKR,2026-06-18
+bought accessories today,Shopping,15726,PKR,2026-07-30
+bought stationery today,Education,2867,PKR,2026-06-05
+paid gas bill this week,Utilities,4568,PKR,2026-05-17
+other payment today,Other,2642,PKR,2026-06-21
+bought rice today,Food & Groceries,7319,PKR,2026-04-02
+paid taxi fare online,Transportation,664,PKR,2026-08-17
+paid maintenance charges today,Home & Rent,116882,PKR,2026-06-28
+bought fruits yesterday,Food & Groceries,11410,PKR,2026-03-20
+paid credit card bill for family,Bills & Payments,1111,PKR,2026-01-13
+paid gaming subscription today,Entertainment,4291,PKR,2026-04-06
+bought trousers,Shopping,825,PKR,2026-04-18
+bought groceries this week,Food & Groceries,13543,PKR,2026-02-19
+bought cleaning supplies,Home & Rent,58820,PKR,2026-08-14
+paid mobile bill today,Utilities,5973,PKR,2026-01-12
+bought concert ticket,Entertainment,13563,PKR,2026-03-25
+paid medical bill online,Healthcare,12722,PKR,2026-06-09
+bought household items yesterday,Shopping,14320,PKR,2026-01-31
+bought trousers,Shopping,11984,PKR,2026-03-24
+filled petrol in car yesterday,Transportation,10815,PKR,2026-03-22
+pizza for dinner today,Food & Groceries,7616,PKR,2026-02-26
+paid mobile bill this week,Utilities,12590,PKR,2026-01-12
+paid gas bill yesterday,Utilities,10380,PKR,2026-07-16
+paid travel fare,Travel,141556,PKR,2026-07-22
+booked flight this week,Travel,25836,PKR,2026-06-03
+dental checkup online,Healthcare,25765,PKR,2026-06-23
+paid miscellaneous charges this week,Other,5845,PKR,2026-06-12
+general expense online,Other,15898,PKR,2026-01-18
+bought medicine for family,Healthcare,38640,PKR,2026-04-25
+bought concert ticket online,Entertainment,12353,PKR,2026-03-01
+bought perfume online,Personal Care,417,PKR,2026-03-01
+bought fruits this week,Food & Groceries,3973,PKR,2026-07-08
+paid gaming subscription today,Entertainment,10354,PKR,2026-01-21
+bought milk this week,Food & Groceries,8271,PKR,2026-03-17
+bought shirt yesterday,Shopping,6997,PKR,2026-06-14
+bought chicken online,Food & Groceries,9898,PKR,2026-04-24
+general expense today,Other,9213,PKR,2026-03-23
+home repair,Home & Rent,137543,PKR,2026-07-22
+played games this week,Entertainment,12497,PKR,2026-01-07
+bought watch this week,Shopping,8238,PKR,2026-02-22
+haircut online,Personal Care,4268,PKR,2026-07-25
+bought cleaning supplies online,Home & Rent,59312,PKR,2026-06-05
+bought concert ticket this week,Entertainment,3207,PKR,2026-04-24
+paid house rent,Home & Rent,129881,PKR,2026-01-18
+bought new shoes online,Shopping,4937,PKR,2026-02-22
+filled fuel today,Transportation,9809,PKR,2026-05-21
+bought trousers for family,Shopping,2861,PKR,2026-04-20
+other payment this week,Other,5479,PKR,2026-07-04
+bought trousers yesterday,Shopping,6081,PKR,2026-06-05
+bought handbag this week,Shopping,19188,PKR,2026-04-25
+paid apartment rent this week,Home & Rent,127136,PKR,2026-01-21
+bought vitamins yesterday,Healthcare,11294,PKR,2026-05-01
+paid monthly bill for family,Bills & Payments,80374,PKR,2026-07-08
+paid gaming subscription today,Entertainment,13628,PKR,2026-07-23
+paid credit card bill yesterday,Bills & Payments,56519,PKR,2026-08-07
+paid water bill for family,Utilities,18102,PKR,2026-02-09
+bought personal care items today,Personal Care,4415,PKR,2026-04-08
+paid bank charges yesterday,Bills & Payments,37622,PKR,2026-04-07
+bought perfume yesterday,Personal Care,1378,PKR,2026-03-27
+changed car oil today,Transportation,2635,PKR,2026-02-18
+bought groceries for family,Food & Groceries,12066,PKR,2026-07-05
+bought vitamins yesterday,Healthcare,27551,PKR,2026-04-12
+general expense yesterday,Other,16141,PKR,2026-03-20
+paid maintenance charges,Home & Rent,108161,PKR,2026-08-15
+bought fruits yesterday,Food & Groceries,9366,PKR,2026-02-11
+bought cosmetics this week,Shopping,25572,PKR,2026-07-12
+general expense for family,Other,16111,PKR,2026-06-12
+general expense online,Other,1990,PKR,2026-06-16
+went to amusement park online,Entertainment,4243,PKR,2026-03-04
+paid credit card bill this week,Bills & Payments,83200,PKR,2026-06-30
+paid house rent online,Home & Rent,39766,PKR,2026-03-08
+paid travel fare online,Travel,39631,PKR,2026-03-07
+online shopping for family,Shopping,22012,PKR,2026-08-04
+filled petrol in car,Transportation,12731,PKR,2026-01-24
+bought cleaning supplies yesterday,Home & Rent,105245,PKR,2026-06-30
+booked hotel for family,Travel,50498,PKR,2026-08-13
+bought movie ticket yesterday,Entertainment,4343,PKR,2026-06-27
+bought educational material for family,Education,40867,PKR,2026-07-07
+paid gaming subscription online,Entertainment,14444,PKR,2026-01-23
+paid mobile bill for family,Utilities,11785,PKR,2026-07-28
+booked ride online,Transportation,3532,PKR,2026-07-11
+played games this week,Entertainment,305,PKR,2026-02-13
+paid credit card bill,Bills & Payments,9654,PKR,2026-07-18
+other payment for family,Other,13759,PKR,2026-06-17
+bought educational material today,Education,23621,PKR,2026-04-06
+paid bus fare today,Transportation,8070,PKR,2026-02-16
+haircut yesterday,Personal Care,9491,PKR,2026-07-28
+bought shirt today,Shopping,2232,PKR,2026-07-11
+paid taxi fare this week,Transportation,14882,PKR,2026-08-12
+went to amusement park online,Entertainment,10430,PKR,2026-01-28
+paid apartment rent,Home & Rent,77841,PKR,2026-01-22
+watched a movie this week,Entertainment,1252,PKR,2026-03-29
+bought chicken yesterday,Food & Groceries,8049,PKR,2026-06-22
+paid electricity bill,Utilities,9218,PKR,2026-07-12
+grocery shopping,Food & Groceries,3558,PKR,2026-05-14
+pizza for dinner for family,Food & Groceries,8620,PKR,2026-07-14
+paid exam fee yesterday,Education,99709,PKR,2026-03-28
+paid travel fare this week,Travel,98199,PKR,2026-06-24
+visited hospital today,Healthcare,23972,PKR,2026-06-20
+went to amusement park for family,Entertainment,1137,PKR,2026-04-02
+bought prescription medicine,Healthcare,502,PKR,2026-04-27
+other payment online,Other,4650,PKR,2026-01-07
+booked hotel for family,Travel,74260,PKR,2026-06-29
+bought watch yesterday,Shopping,20562,PKR,2026-06-25
+home repair yesterday,Home & Rent,135981,PKR,2026-04-16
+paid apartment rent,Home & Rent,85458,PKR,2026-01-05
+bought furniture,Home & Rent,86334,PKR,2026-06-23
+paid loan installment for family,Bills & Payments,64009,PKR,2026-04-13
+miscellaneous purchase,Other,11514,PKR,2026-04-20
+paid online bill online,Bills & Payments,13666,PKR,2026-07-07
+paid streaming subscription for family,Entertainment,3396,PKR,2026-07-02
+filled petrol in car today,Transportation,8258,PKR,2026-07-23
+paid water bill online,Utilities,18481,PKR,2026-08-12
+paid loan installment yesterday,Bills & Payments,15662,PKR,2026-05-04
+paid maintenance charges today,Home & Rent,64794,PKR,2026-02-24
+filled fuel,Transportation,7225,PKR,2026-07-03
+bought bread this week,Food & Groceries,14888,PKR,2026-04-09
+paid school fee online,Education,34267,PKR,2026-06-20
+paid online bill,Bills & Payments,87725,PKR,2026-02-04
+bought personal care items online,Personal Care,8260,PKR,2026-01-24
+general expense today,Other,18973,PKR,2026-07-16
+booked hotel online,Travel,90974,PKR,2026-04-07
+other payment online,Other,18512,PKR,2026-08-08
+paid gaming subscription today,Entertainment,3862,PKR,2026-03-08
+paid water bill,Utilities,4149,PKR,2026-01-23
+dental checkup for family,Healthcare,12631,PKR,2026-07-10
+paid utility bill this week,Utilities,4675,PKR,2026-08-07
+bought vitamins for family,Healthcare,48594,PKR,2026-01-01
+paid university fee for family,Education,70702,PKR,2026-02-18
+went to amusement park this week,Entertainment,12836,PKR,2026-04-04
+home repair today,Home & Rent,137249,PKR,2026-06-19
+booked bus ticket today,Travel,28940,PKR,2026-04-12
+bought snacks this week,Food & Groceries,2470,PKR,2026-07-28
+paid school fee yesterday,Education,89626,PKR,2026-04-27
+booked ride today,Transportation,12339,PKR,2026-06-20
+miscellaneous expense for family,Other,10590,PKR,2026-03-21
+bought personal care items,Personal Care,4680,PKR,2026-08-06
+miscellaneous purchase yesterday,Other,7168,PKR,2026-05-07
+bought educational material,Education,44165,PKR,2026-02-09
+paid miscellaneous charges online,Other,7475,PKR,2026-06-29
+miscellaneous expense today,Other,16074,PKR,2026-07-06
+paid streaming subscription online,Entertainment,14102,PKR,2026-02-10
+pizza for dinner this week,Food & Groceries,7021,PKR,2026-06-23
+paid bank charges yesterday,Bills & Payments,51757,PKR,2026-01-19
+bought personal care items this week,Personal Care,4826,PKR,2026-06-28
+bought household items yesterday,Shopping,3488,PKR,2026-02-03
+bought prescription medicine for family,Healthcare,3847,PKR,2026-08-06
+general expense yesterday,Other,5463,PKR,2026-05-28
+changed car oil online,Transportation,8004,PKR,2026-03-16
+paid taxi fare today,Transportation,13278,PKR,2026-07-11
+bought new shoes this week,Shopping,24088,PKR,2026-08-08
+booked hotel online,Travel,39693,PKR,2026-04-07
+played games today,Entertainment,1122,PKR,2026-01-25
+bought vitamins today,Healthcare,3738,PKR,2026-01-31
+bought personal care items this week,Personal Care,9922,PKR,2026-04-22
+car maintenance today,Transportation,656,PKR,2026-01-31
+bought cosmetics yesterday,Shopping,10218,PKR,2026-06-26
+booked flight online,Travel,99401,PKR,2026-07-18
+miscellaneous expense yesterday,Other,12620,PKR,2026-03-12
+bought cleaning supplies yesterday,Home & Rent,97291,PKR,2026-01-03
+paid electricity bill,Utilities,4499,PKR,2026-05-06
+bought cleaning supplies for family,Home & Rent,59965,PKR,2026-01-06
+booked bus ticket for family,Travel,126697,PKR,2026-03-12
+miscellaneous expense for family,Other,6034,PKR,2026-04-09
+paid online bill online,Bills & Payments,57340,PKR,2026-03-18
+booked flight,Travel,86256,PKR,2026-01-17
+miscellaneous purchase today,Other,13381,PKR,2026-07-28
+miscellaneous expense yesterday,Other,18320,PKR,2026-07-29
+bought perfume yesterday,Personal Care,1247,PKR,2026-05-13
+booked bus ticket online,Travel,33529,PKR,2026-07-12
+bought clothes today,Shopping,28546,PKR,2026-06-03
+paid miscellaneous charges,Other,18277,PKR,2026-04-25
+bought medicine,Healthcare,8742,PKR,2026-05-28
+bought shirt,Shopping,18731,PKR,2026-03-07
+bought vegetables,Food & Groceries,8392,PKR,2026-03-18
+paid medical bill today,Healthcare,28025,PKR,2026-06-18
+bought chicken this week,Food & Groceries,856,PKR,2026-05-13
+paid exam fee today,Education,76137,PKR,2026-05-06
+general expense for family,Other,11638,PKR,2026-06-05
+bought perfume today,Personal Care,11471,PKR,2026-01-26
+home repair,Home & Rent,63154,PKR,2026-01-10
+bought shirt this week,Shopping,28352,PKR,2026-08-02
+bought shirt for family,Shopping,18390,PKR,2026-02-25
+bought train ticket this week,Travel,34683,PKR,2026-07-06
+paid travel fare,Travel,145139,PKR,2026-03-07
+bought educational material online,Education,21906,PKR,2026-04-13
+paid credit card bill this week,Bills & Payments,89173,PKR,2026-04-19
+paid miscellaneous charges for family,Other,6776,PKR,2026-01-19
+bought cleaning supplies this week,Home & Rent,51496,PKR,2026-07-02
+paid medical bill online,Healthcare,42752,PKR,2026-07-30
+bought perfume today,Personal Care,7076,PKR,2026-07-30
+paid rickshaw fare yesterday,Transportation,6308,PKR,2026-01-07
+booked flight,Travel,71811,PKR,2026-02-01
+haircut online,Personal Care,9184,PKR,2026-04-15
+paid water bill online,Utilities,3415,PKR,2026-04-03
+bought prescription medicine this week,Healthcare,9889,PKR,2026-08-11
+bought handbag,Shopping,3509,PKR,2026-04-07
+bought cosmetics,Shopping,25948,PKR,2026-02-01
+booked ride for family,Transportation,13556,PKR,2026-07-26
+paid credit card bill for family,Bills & Payments,46231,PKR,2026-06-29
+travel expenses this week,Travel,145583,PKR,2026-03-11
+booked hotel,Travel,45760,PKR,2026-03-23
+bought movie ticket this week,Entertainment,13406,PKR,2026-07-09
+home repair for family,Home & Rent,145617,PKR,2026-06-02
+went to amusement park for family,Entertainment,2290,PKR,2026-03-08
+bought milk online,Food & Groceries,2170,PKR,2026-02-06
+bought concert ticket online,Entertainment,4580,PKR,2026-01-14
+general expense online,Other,8262,PKR,2026-06-23
+paid travel fare online,Travel,121006,PKR,2026-02-16
+paid bank charges yesterday,Bills & Payments,66328,PKR,2026-03-15
+bought educational material for family,Education,94670,PKR,2026-08-14
+bought handbag online,Shopping,28412,PKR,2026-01-23
+bought educational material this week,Education,12314,PKR,2026-06-12
+paid electricity bill online,Utilities,8365,PKR,2026-01-24
+filled petrol in car,Transportation,12280,PKR,2026-03-15
+visited salon,Personal Care,7146,PKR,2026-06-23
+bought personal care items today,Personal Care,8058,PKR,2026-05-08
+bought personal care items online,Personal Care,14750,PKR,2026-05-17
+miscellaneous expense yesterday,Other,555,PKR,2026-06-07
+bought new shoes online,Shopping,14225,PKR,2026-06-29
+bought personal care items this week,Personal Care,4201,PKR,2026-07-09
+home repair for family,Home & Rent,12103,PKR,2026-06-05
+paid loan installment online,Bills & Payments,69118,PKR,2026-08-20
+bought shirt,Shopping,12327,PKR,2026-08-03
+paid rickshaw fare,Transportation,7025,PKR,2026-05-07
+bought movie ticket this week,Entertainment,2055,PKR,2026-03-28
+paid apartment rent for family,Home & Rent,31897,PKR,2026-03-16
+paid exam fee this week,Education,35201,PKR,2026-02-24
+pizza for dinner today,Food & Groceries,5094,PKR,2026-06-14
+haircut yesterday,Personal Care,14822,PKR,2026-06-08
+paid credit card bill this week,Bills & Payments,1272,PKR,2026-06-07
+paid bank charges this week,Bills & Payments,46885,PKR,2026-01-28
+restaurant lunch online,Food & Groceries,3150,PKR,2026-04-13
+bought medicine,Healthcare,28533,PKR,2026-05-06
+bought clothes for family,Shopping,17153,PKR,2026-08-19
+car maintenance,Transportation,8085,PKR,2026-01-02
+booked ride today,Transportation,7811,PKR,2026-04-12
+visited hospital this week,Healthcare,28371,PKR,2026-08-17
+booked ride,Transportation,7285,PKR,2026-06-18
+paid loan installment today,Bills & Payments,46865,PKR,2026-07-11
+watched a movie this week,Entertainment,14676,PKR,2026-08-11
+paid miscellaneous charges,Other,6311,PKR,2026-03-14
+bought milk yesterday,Food & Groceries,6998,PKR,2026-07-10
+bought medicine today,Healthcare,43960,PKR,2026-02-20
+paid online bill this week,Bills & Payments,16070,PKR,2026-04-18
+paid service fee yesterday,Bills & Payments,89856,PKR,2026-07-02
+paid rickshaw fare yesterday,Transportation,8322,PKR,2026-07-05
+other payment today,Other,3695,PKR,2026-01-28
+bought milk today,Food & Groceries,5738,PKR,2026-05-09
+bought chicken,Food & Groceries,11213,PKR,2026-08-01
+bought vitamins for family,Healthcare,48628,PKR,2026-01-03
+went to amusement park this week,Entertainment,4823,PKR,2026-05-05
+paid internet bill today,Utilities,5496,PKR,2026-07-06
+bought shampoo today,Personal Care,4806,PKR,2026-07-16
+paid water bill online,Utilities,8605,PKR,2026-06-20
+bought movie ticket yesterday,Entertainment,11774,PKR,2026-07-20
+paid mobile bill online,Utilities,16960,PKR,2026-06-06
+paid taxi fare for family,Transportation,10404,PKR,2026-06-12
+paid taxi fare,Transportation,2267,PKR,2026-04-13
+bought rice today,Food & Groceries,2495,PKR,2026-04-20
+bought eggs,Food & Groceries,14261,PKR,2026-01-14
+went to amusement park for family,Entertainment,5220,PKR,2026-06-29
+paid apartment rent today,Home & Rent,89127,PKR,2026-04-20
+paid credit card bill for family,Bills & Payments,56477,PKR,2026-06-14
+bought flour,Food & Groceries,4511,PKR,2026-04-04
+paid course fee online,Education,55297,PKR,2026-03-05
+bought medicine today,Healthcare,2979,PKR,2026-01-01
+restaurant dinner today,Food & Groceries,4774,PKR,2026-05-01
+bought books yesterday,Education,24727,PKR,2026-03-06
+paid bank charges this week,Bills & Payments,40392,PKR,2026-01-29
+paid mobile bill,Utilities,18580,PKR,2026-07-17
+paid rickshaw fare this week,Transportation,12245,PKR,2026-07-27
+dental checkup for family,Healthcare,34959,PKR,2026-06-04
+paid doctor fee online,Healthcare,18384,PKR,2026-02-23
+paid travel fare,Travel,28883,PKR,2026-02-03
+bought cleaning supplies for family,Home & Rent,32550,PKR,2026-01-11
+paid hotel bill today,Travel,51574,PKR,2026-06-30
+paid credit card bill,Bills & Payments,72141,PKR,2026-06-08
+visited hospital online,Healthcare,31377,PKR,2026-07-14
+bought household items online,Shopping,5335,PKR,2026-01-12
+paid taxi fare yesterday,Transportation,9119,PKR,2026-07-02
+paid course fee this week,Education,59283,PKR,2026-06-11
+miscellaneous expense yesterday,Other,2318,PKR,2026-05-04
+bought concert ticket for family,Entertainment,13157,PKR,2026-01-06
+booked ride online,Transportation,2212,PKR,2026-03-16
+grocery shopping online,Food & Groceries,3216,PKR,2026-07-09
+went to amusement park online,Entertainment,8923,PKR,2026-08-11
+haircut today,Personal Care,7372,PKR,2026-07-12
+visited salon for family,Personal Care,12969,PKR,2026-04-10
+bought concert ticket this week,Entertainment,3590,PKR,2026-02-17
+bought bread for family,Food & Groceries,3668,PKR,2026-06-01
+miscellaneous expense for family,Other,15023,PKR,2026-05-09
+miscellaneous purchase this week,Other,10042,PKR,2026-08-07
+bought handbag online,Shopping,9098,PKR,2026-05-22
+paid gas bill today,Utilities,1994,PKR,2026-05-17
+bought handbag,Shopping,21258,PKR,2026-02-07
+bought stationery this week,Education,7252,PKR,2026-06-14
+bought trousers for family,Shopping,4107,PKR,2026-01-01
+bought furniture online,Home & Rent,97760,PKR,2026-03-25
+paid mobile bill for family,Utilities,9152,PKR,2026-07-04
+car maintenance for family,Transportation,4931,PKR,2026-03-25
+bought groceries this week,Food & Groceries,3692,PKR,2026-07-07
+bought stationery this week,Education,2549,PKR,2026-05-18
+home repair for family,Home & Rent,28903,PKR,2026-07-04
+other payment online,Other,8532,PKR,2026-08-11
+bought cleaning supplies for family,Home & Rent,145409,PKR,2026-02-22
+paid loan installment this week,Bills & Payments,35731,PKR,2026-02-22
+paid hotel bill yesterday,Travel,41800,PKR,2026-04-25
+bought cosmetics this week,Shopping,5160,PKR,2026-08-19
+paid credit card bill yesterday,Bills & Payments,24291,PKR,2026-04-28
+paid bus fare today,Transportation,9433,PKR,2026-05-06
+paid miscellaneous charges online,Other,9342,PKR,2026-01-06
+bought stationery today,Education,52168,PKR,2026-06-25
+booked flight,Travel,38623,PKR,2026-01-19
+bought movie ticket yesterday,Entertainment,10769,PKR,2026-04-14
+paid mobile bill for family,Utilities,4998,PKR,2026-07-06
+bought fruits yesterday,Food & Groceries,6391,PKR,2026-01-06
+paid electricity bill online,Utilities,1933,PKR,2026-02-03
+bought clothes this week,Shopping,4973,PKR,2026-06-10
+booked hotel,Travel,28876,PKR,2026-05-19
+general expense online,Other,2884,PKR,2026-02-21
+changed car oil for family,Transportation,14720,PKR,2026-04-24
+booked ride this week,Transportation,7946,PKR,2026-02-09
+bought new shoes for family,Shopping,22976,PKR,2026-03-10
+paid maintenance charges,Home & Rent,6559,PKR,2026-07-31
+bought fruits for family,Food & Groceries,4961,PKR,2026-01-27
+visited salon today,Personal Care,219,PKR,2026-02-27
+bought chicken yesterday,Food & Groceries,6414,PKR,2026-02-07
+dental checkup this week,Healthcare,15103,PKR,2026-08-14
+bought home appliances online,Home & Rent,30467,PKR,2026-05-06
+filled fuel today,Transportation,1766,PKR,2026-03-14
+bought medicine for family,Healthcare,22170,PKR,2026-01-31
+bought medicine,Healthcare,39916,PKR,2026-02-08
+car maintenance for family,Transportation,5586,PKR,2026-06-03
+car maintenance today,Transportation,14732,PKR,2026-06-20
+bought furniture for family,Home & Rent,76236,PKR,2026-03-31
+paid water bill yesterday,Utilities,12595,PKR,2026-03-09
+miscellaneous expense,Other,4970,PKR,2026-07-19
+paid apartment rent this week,Home & Rent,39739,PKR,2026-04-10
+paid online bill yesterday,Bills & Payments,9322,PKR,2026-01-29
+paid travel fare online,Travel,74000,PKR,2026-02-07
+paid water bill today,Utilities,6459,PKR,2026-07-16
+paid streaming subscription this week,Entertainment,8297,PKR,2026-04-19
+paid online bill yesterday,Bills & Payments,79371,PKR,2026-07-23
+bought furniture today,Home & Rent,65463,PKR,2026-04-09
+bought concert ticket yesterday,Entertainment,9026,PKR,2026-05-17
+paid service fee for family,Bills & Payments,30661,PKR,2026-04-09
+paid utility bill online,Utilities,14322,PKR,2026-05-15
+travel expenses online,Travel,58497,PKR,2026-06-29
+paid gas bill this week,Utilities,593,PKR,2026-02-22
+restaurant lunch for family,Food & Groceries,7864,PKR,2026-02-04
+paid electricity bill this week,Utilities,12324,PKR,2026-08-06
+booked ride yesterday,Transportation,2461,PKR,2026-08-02
+visited salon today,Personal Care,3652,PKR,2026-07-31
+bought new shoes online,Shopping,4815,PKR,2026-01-31
+paid miscellaneous charges yesterday,Other,963,PKR,2026-06-28
+paid streaming subscription,Entertainment,11691,PKR,2026-01-28
+paid maintenance charges,Home & Rent,125997,PKR,2026-08-03
+travel expenses today,Travel,8913,PKR,2026-02-07
+paid doctor fee,Healthcare,16359,PKR,2026-01-20
+ordered food today,Food & Groceries,12640,PKR,2026-02-16
+paid online bill today,Bills & Payments,98555,PKR,2026-05-16
+general expense yesterday,Other,13584,PKR,2026-07-04
+bought vitamins online,Healthcare,45863,PKR,2026-01-04
+bought books today,Education,8364,PKR,2026-08-14
+paid house rent for family,Home & Rent,46503,PKR,2026-05-09
+filled petrol in car yesterday,Transportation,13742,PKR,2026-04-19
+bought home appliances for family,Home & Rent,68647,PKR,2026-05-27
+bought skincare products online,Personal Care,3924,PKR,2026-04-19
+booked ride,Transportation,8644,PKR,2026-04-07
+paid taxi fare yesterday,Transportation,10242,PKR,2026-01-15
+bought cosmetics today,Shopping,27251,PKR,2026-07-10
+bought perfume,Personal Care,13578,PKR,2026-06-27
+paid monthly bill this week,Bills & Payments,86050,PKR,2026-06-14
+paid gaming subscription yesterday,Entertainment,2900,PKR,2026-01-14
+dental checkup yesterday,Healthcare,13061,PKR,2026-03-11
+paid electricity bill,Utilities,12385,PKR,2026-06-04
+bought medicine today,Healthcare,18794,PKR,2026-02-11
+haircut,Personal Care,3671,PKR,2026-06-02
+bought flour today,Food & Groceries,9138,PKR,2026-02-21
+paid house rent today,Home & Rent,71560,PKR,2026-01-22
+booked bus ticket,Travel,148780,PKR,2026-07-22
+paid credit card bill,Bills & Payments,41732,PKR,2026-01-24
+paid university fee this week,Education,99024,PKR,2026-03-14
+bought concert ticket today,Entertainment,5352,PKR,2026-07-12
+played games this week,Entertainment,2322,PKR,2026-06-29
+paid house rent this week,Home & Rent,107767,PKR,2026-08-18
+miscellaneous purchase,Other,16555,PKR,2026-07-26
+filled petrol in car for family,Transportation,13142,PKR,2026-04-08
+paid service fee,Bills & Payments,38526,PKR,2026-02-11
+changed car oil,Transportation,14603,PKR,2026-06-10
+paid mobile bill today,Utilities,7566,PKR,2026-07-26
+bought cleaning supplies today,Home & Rent,43217,PKR,2026-05-09
+bought personal care items for family,Personal Care,10872,PKR,2026-05-14
+bought vitamins today,Healthcare,22518,PKR,2026-03-16
+paid medical bill yesterday,Healthcare,2922,PKR,2026-08-17
+other payment today,Other,6942,PKR,2026-06-06
+booked hotel today,Travel,149609,PKR,2026-06-10
+paid credit card bill,Bills & Payments,19193,PKR,2026-07-16
+bought books yesterday,Education,12835,PKR,2026-04-27
+paid doctor fee this week,Healthcare,10882,PKR,2026-01-18
+paid course fee this week,Education,12195,PKR,2026-01-19
+changed car oil this week,Transportation,7853,PKR,2026-03-07
+paid online bill today,Bills & Payments,16748,PKR,2026-05-26
+paid credit card bill this week,Bills & Payments,38068,PKR,2026-04-13
+paid gaming subscription for family,Entertainment,11350,PKR,2026-02-03
+paid bank charges for family,Bills & Payments,82371,PKR,2026-03-22
+bought medicine online,Healthcare,27379,PKR,2026-05-10
+paid bank charges online,Bills & Payments,6093,PKR,2026-06-08
+paid house rent online,Home & Rent,65177,PKR,2026-06-29
+haircut today,Personal Care,14176,PKR,2026-01-27
+bought educational material today,Education,75228,PKR,2026-04-13
+paid gas bill yesterday,Utilities,15647,PKR,2026-06-21
+paid water bill yesterday,Utilities,15851,PKR,2026-06-14
+visited salon,Personal Care,1606,PKR,2026-02-16
+miscellaneous expense yesterday,Other,14292,PKR,2026-02-21
+paid streaming subscription,Entertainment,5398,PKR,2026-03-29
+paid travel fare today,Travel,125838,PKR,2026-01-30
+paid exam fee,Education,71944,PKR,2026-02-09
+paid loan installment online,Bills & Payments,28479,PKR,2026-03-23
+booked hotel for family,Travel,100689,PKR,2026-01-16
+bought prescription medicine yesterday,Healthcare,31325,PKR,2026-02-24
+bought eggs,Food & Groceries,12529,PKR,2026-06-25
+paid streaming subscription this week,Entertainment,10615,PKR,2026-02-15
+paid gas bill,Utilities,9475,PKR,2026-04-14
+paid water bill online,Utilities,15292,PKR,2026-08-12
+bought concert ticket today,Entertainment,11171,PKR,2026-08-17
+bought stationery,Education,12616,PKR,2026-08-18
+paid streaming subscription this week,Entertainment,2895,PKR,2026-02-20
+bought vitamins yesterday,Healthcare,31462,PKR,2026-05-18
+paid miscellaneous charges online,Other,14412,PKR,2026-04-01
+miscellaneous purchase yesterday,Other,425,PKR,2026-05-24
+booked flight,Travel,38910,PKR,2026-03-24
+home repair online,Home & Rent,83972,PKR,2026-01-04
+changed car oil today,Transportation,8282,PKR,2026-08-10
+bought medicine online,Healthcare,26932,PKR,2026-03-09
+bought personal care items,Personal Care,7581,PKR,2026-08-02
+changed car oil online,Transportation,9576,PKR,2026-01-25
+bought eggs online,Food & Groceries,3174,PKR,2026-04-18
+miscellaneous purchase today,Other,19791,PKR,2026-04-07
+bought watch today,Shopping,6563,PKR,2026-06-23
+booked hotel this week,Travel,96366,PKR,2026-01-05
+bought notebooks for family,Education,16850,PKR,2026-06-29
+paid online bill yesterday,Bills & Payments,54770,PKR,2026-04-16
+visited hospital for family,Healthcare,28208,PKR,2026-05-14
+bought medicine today,Healthcare,30369,PKR,2026-04-20
+paid doctor fee for family,Healthcare,39286,PKR,2026-02-11
+visited salon yesterday,Personal Care,4869,PKR,2026-08-05
+bought cleaning supplies online,Home & Rent,115686,PKR,2026-06-12
+bought books,Education,14106,PKR,2026-01-23
+paid house rent for family,Home & Rent,108814,PKR,2026-01-27
+paid online bill for family,Bills & Payments,71899,PKR,2026-01-26
+bought home appliances for family,Home & Rent,9555,PKR,2026-06-20
+bought educational material today,Education,29713,PKR,2026-07-18
+paid service fee yesterday,Bills & Payments,15507,PKR,2026-02-20
+paid credit card bill this week,Bills & Payments,61310,PKR,2026-04-16
+bought cleaning supplies online,Home & Rent,104758,PKR,2026-01-02
+bought prescription medicine today,Healthcare,33563,PKR,2026-03-14
+bought notebooks this week,Education,54857,PKR,2026-06-22
+bought new shoes yesterday,Shopping,1370,PKR,2026-01-04
+bought milk this week,Food & Groceries,13875,PKR,2026-07-29
+bought personal care items for family,Personal Care,5401,PKR,2026-03-27
+car maintenance today,Transportation,9205,PKR,2026-04-11
+online shopping online,Shopping,13188,PKR,2026-08-01
+ordered food today,Food & Groceries,10524,PKR,2026-04-10
+paid miscellaneous charges yesterday,Other,10524,PKR,2026-05-13
+car maintenance today,Transportation,1731,PKR,2026-07-01
+filled fuel online,Transportation,9552,PKR,2026-07-20
+paid gaming subscription online,Entertainment,4463,PKR,2026-08-03
+bought shampoo this week,Personal Care,3538,PKR,2026-01-24
+paid electricity bill yesterday,Utilities,878,PKR,2026-06-10
+booked flight,Travel,143520,PKR,2026-01-21
+paid travel fare,Travel,35222,PKR,2026-04-27
+bought cleaning supplies this week,Home & Rent,49904,PKR,2026-03-03
+paid apartment rent this week,Home & Rent,51811,PKR,2026-05-18
+bought cosmetics this week,Shopping,21902,PKR,2026-01-14
+bought books today,Education,82739,PKR,2026-01-06
+paid maintenance charges,Home & Rent,30080,PKR,2026-04-28
+booked hotel,Travel,38181,PKR,2026-03-14
+bought stationery,Education,10642,PKR,2026-05-07
+bought prescription medicine today,Healthcare,25911,PKR,2026-01-26
+paid credit card bill yesterday,Bills & Payments,10143,PKR,2026-05-05
+paid house rent today,Home & Rent,111076,PKR,2026-04-07
+dental checkup yesterday,Healthcare,10858,PKR,2026-02-16
+paid university fee today,Education,86963,PKR,2026-05-26
+paid maintenance charges,Home & Rent,31725,PKR,2026-03-29
+bought vitamins for family,Healthcare,39621,PKR,2026-05-20
+bought bread for family,Food & Groceries,12251,PKR,2026-03-07
+paid gas bill for family,Utilities,1468,PKR,2026-05-18
+bought milk today,Food & Groceries,14302,PKR,2026-04-04
+paid gas bill,Utilities,11232,PKR,2026-02-05
+bought clothes online,Shopping,22962,PKR,2026-02-02
+bought notebooks yesterday,Education,26614,PKR,2026-01-24
+dental checkup for family,Healthcare,43024,PKR,2026-03-17
+paid online bill yesterday,Bills & Payments,57655,PKR,2026-05-12
+bought movie ticket this week,Entertainment,3033,PKR,2026-02-20
+home repair online,Home & Rent,74684,PKR,2026-04-11
+paid utility bill for family,Utilities,10710,PKR,2026-02-12
+bought accessories yesterday,Shopping,29229,PKR,2026-04-25
+bought concert ticket online,Entertainment,4651,PKR,2026-07-28
+paid medical bill,Healthcare,40099,PKR,2026-04-09
+bought movie ticket for family,Entertainment,5982,PKR,2026-04-06
+home repair,Home & Rent,118808,PKR,2026-02-12
+bought rice for family,Food & Groceries,6814,PKR,2026-03-17
+travel expenses online,Travel,140066,PKR,2026-04-01
+watched a movie,Entertainment,3147,PKR,2026-07-27
+bought vitamins today,Healthcare,23745,PKR,2026-03-04
+paid gas bill online,Utilities,12678,PKR,2026-04-06
+paid rickshaw fare,Transportation,257,PKR,2026-03-23
+miscellaneous expense online,Other,10876,PKR,2026-02-24
+paid service fee this week,Bills & Payments,30993,PKR,2026-05-24
+paid internet bill this week,Utilities,7452,PKR,2026-05-15
+bought clothes for family,Shopping,9411,PKR,2026-07-03
+travel expenses online,Travel,20614,PKR,2026-05-27
+bought home appliances online,Home & Rent,115086,PKR,2026-03-23
+paid doctor fee today,Healthcare,3554,PKR,2026-07-25
+paid monthly bill,Bills & Payments,36468,PKR,2026-04-18
+paid electricity bill yesterday,Utilities,6107,PKR,2026-06-03
+paid medical bill yesterday,Healthcare,15794,PKR,2026-05-28
+bought flour,Food & Groceries,10645,PKR,2026-07-20
+booked hotel yesterday,Travel,75544,PKR,2026-02-03
+watched a movie for family,Entertainment,8842,PKR,2026-01-11
+dental checkup,Healthcare,4851,PKR,2026-05-01
+paid internet bill online,Utilities,10363,PKR,2026-03-12
+bought prescription medicine this week,Healthcare,26536,PKR,2026-01-21
+bought skincare products yesterday,Personal Care,10232,PKR,2026-01-13
+paid streaming subscription online,Entertainment,7647,PKR,2026-05-07
+paid house rent this week,Home & Rent,27933,PKR,2026-01-08
+bought new shoes,Shopping,4846,PKR,2026-01-27
+bought prescription medicine online,Healthcare,47764,PKR,2026-04-22
+bought shirt,Shopping,6563,PKR,2026-07-05
+bought prescription medicine for family,Healthcare,623,PKR,2026-06-26
+bought rice,Food & Groceries,1915,PKR,2026-01-13
+bought books this week,Education,43665,PKR,2026-06-26
+travel expenses yesterday,Travel,71755,PKR,2026-06-28
+paid bus fare for family,Transportation,7648,PKR,2026-01-31
+paid rickshaw fare today,Transportation,12437,PKR,2026-05-30
+played games yesterday,Entertainment,11148,PKR,2026-02-01
+bought perfume today,Personal Care,9668,PKR,2026-05-03
+bought home appliances this week,Home & Rent,85387,PKR,2026-07-17
+other payment today,Other,3108,PKR,2026-03-09
+bought books this week,Education,73705,PKR,2026-08-02
+bought trousers online,Shopping,2856,PKR,2026-01-20
+paid credit card bill today,Bills & Payments,2220,PKR,2026-06-21
+bought accessories yesterday,Shopping,6457,PKR,2026-05-05
+paid water bill today,Utilities,19850,PKR,2026-07-14
+bought perfume this week,Personal Care,12659,PKR,2026-03-21
+other payment online,Other,5146,PKR,2026-08-06
+haircut today,Personal Care,3784,PKR,2026-04-04
+went to amusement park for family,Entertainment,8612,PKR,2026-02-21
+bought movie ticket,Entertainment,4752,PKR,2026-04-19
+booked ride for family,Transportation,10723,PKR,2026-01-27
+changed car oil,Transportation,12306,PKR,2026-01-29
+bought new shoes yesterday,Shopping,6428,PKR,2026-03-10
+bought cooking oil online,Food & Groceries,8798,PKR,2026-04-26
+visited hospital,Healthcare,36364,PKR,2026-01-22
+bought vitamins today,Healthcare,10171,PKR,2026-04-12
+visited salon for family,Personal Care,5667,PKR,2026-01-14
+paid bank charges this week,Bills & Payments,13320,PKR,2026-01-13
+bought home appliances online,Home & Rent,111779,PKR,2026-02-19
+paid school fee yesterday,Education,23653,PKR,2026-06-02
+paid exam fee for family,Education,57328,PKR,2026-01-28
+paid house rent online,Home & Rent,66259,PKR,2026-01-29
+bought clothes,Shopping,29629,PKR,2026-01-10
+bought train ticket today,Travel,18261,PKR,2026-05-17
+paid water bill today,Utilities,13756,PKR,2026-04-11
+watched a movie today,Entertainment,12224,PKR,2026-07-30
+general expense yesterday,Other,6840,PKR,2026-02-13
+bought watch online,Shopping,9736,PKR,2026-06-30
+bought train ticket online,Travel,1814,PKR,2026-01-25
+changed car oil online,Transportation,5102,PKR,2026-08-07
+paid miscellaneous charges today,Other,10425,PKR,2026-06-24
+paid gas bill today,Utilities,11384,PKR,2026-08-19
+paid loan installment,Bills & Payments,87798,PKR,2026-05-02
+paid streaming subscription,Entertainment,3108,PKR,2026-03-09
+paid gas bill online,Utilities,818,PKR,2026-06-02
+bought vitamins for family,Healthcare,365,PKR,2026-05-06
+bought accessories,Shopping,1780,PKR,2026-07-29
+bought flour today,Food & Groceries,8706,PKR,2026-05-09
+paid bus fare,Transportation,1738,PKR,2026-03-19
+general expense yesterday,Other,16178,PKR,2026-07-08
+paid medical bill this week,Healthcare,43777,PKR,2026-05-05
+paid course fee yesterday,Education,2277,PKR,2026-07-31
+visited hospital online,Healthcare,22171,PKR,2026-08-17
+bought personal care items for family,Personal Care,8135,PKR,2026-01-29
+paid university fee today,Education,54281,PKR,2026-08-08
+bought shirt this week,Shopping,16612,PKR,2026-01-08
+online shopping online,Shopping,23100,PKR,2026-04-21
+paid doctor fee online,Healthcare,6150,PKR,2026-02-19
+played games,Entertainment,4687,PKR,2026-08-13
+bought cleaning supplies for family,Home & Rent,118773,PKR,2026-08-13
+bought shampoo this week,Personal Care,11325,PKR,2026-03-31
+bought vitamins for family,Healthcare,27647,PKR,2026-03-12
+paid school fee,Education,76458,PKR,2026-05-14
+general expense for family,Other,4129,PKR,2026-04-21
+paid service fee this week,Bills & Payments,38302,PKR,2026-01-29
+bought cooking oil online,Food & Groceries,2510,PKR,2026-04-30
+paid apartment rent for family,Home & Rent,76964,PKR,2026-06-09
+bought personal care items today,Personal Care,5174,PKR,2026-05-05
+bought books this week,Education,2543,PKR,2026-04-27
+bought eggs this week,Food & Groceries,13624,PKR,2026-06-01
+paid electricity bill yesterday,Utilities,10521,PKR,2026-01-02
+paid streaming subscription online,Entertainment,13866,PKR,2026-01-01
+bought rice today,Food & Groceries,5837,PKR,2026-08-13
+bought stationery,Education,93980,PKR,2026-03-11
+paid taxi fare yesterday,Transportation,9688,PKR,2026-01-21
+paid school fee,Education,62520,PKR,2026-04-01
+bought cosmetics yesterday,Shopping,13378,PKR,2026-08-20
+paid water bill this week,Utilities,10682,PKR,2026-02-14
+paid travel fare online,Travel,85536,PKR,2026-07-25
+booked flight online,Travel,53299,PKR,2026-03-06
+car maintenance for family,Transportation,3368,PKR,2026-03-19
+bought books this week,Education,74773,PKR,2026-06-10
+paid service fee today,Bills & Payments,49778,PKR,2026-07-20
+watched a movie today,Entertainment,8827,PKR,2026-04-24
+general expense for family,Other,11816,PKR,2026-04-30
+bought vitamins yesterday,Healthcare,27858,PKR,2026-04-16
+paid credit card bill for family,Bills & Payments,3963,PKR,2026-07-16
+watched a movie today,Entertainment,10279,PKR,2026-03-19
+online shopping for family,Shopping,12526,PKR,2026-02-02
+booked bus ticket for family,Travel,77898,PKR,2026-01-14
+bought movie ticket yesterday,Entertainment,11178,PKR,2026-01-02
+paid service fee yesterday,Bills & Payments,7623,PKR,2026-01-22
+bought rice online,Food & Groceries,1853,PKR,2026-03-27
+booked hotel this week,Travel,149227,PKR,2026-05-04
+general expense,Other,4079,PKR,2026-07-09
+paid hotel bill for family,Travel,14898,PKR,2026-06-29
+bought household items today,Shopping,18717,PKR,2026-07-09
+paid loan installment today,Bills & Payments,89062,PKR,2026-06-13
+booked ride online,Transportation,5193,PKR,2026-07-04
+bought cooking oil for family,Food & Groceries,11368,PKR,2026-02-21
+paid electricity bill,Utilities,5514,PKR,2026-06-04
+paid utility bill,Utilities,8600,PKR,2026-02-22
+paid internet bill,Utilities,17074,PKR,2026-04-24
+watched a movie,Entertainment,5113,PKR,2026-04-14
+paid loan installment today,Bills & Payments,72159,PKR,2026-03-08
+paid hotel bill yesterday,Travel,33295,PKR,2026-04-21
+filled petrol in car today,Transportation,2421,PKR,2026-07-29
+paid miscellaneous charges today,Other,16861,PKR,2026-07-09
+miscellaneous purchase today,Other,15702,PKR,2026-05-03
+bought notebooks online,Education,13609,PKR,2026-05-31
+paid bank charges online,Bills & Payments,36568,PKR,2026-04-11
+played games,Entertainment,7801,PKR,2026-04-17
+bought movie ticket,Entertainment,4843,PKR,2026-04-28
+paid utility bill yesterday,Utilities,861,PKR,2026-05-29
+paid university fee online,Education,85752,PKR,2026-08-17
+paid maintenance charges yesterday,Home & Rent,12175,PKR,2026-04-01
+changed car oil online,Transportation,7609,PKR,2026-03-12
+bought bread this week,Food & Groceries,8302,PKR,2026-08-08
+bought shampoo this week,Personal Care,14987,PKR,2026-06-30
+visited salon for family,Personal Care,1228,PKR,2026-02-14
+paid apartment rent this week,Home & Rent,148625,PKR,2026-03-28
+paid online bill today,Bills & Payments,36982,PKR,2026-07-20
+bought furniture yesterday,Home & Rent,18880,PKR,2026-08-03
+bought home appliances yesterday,Home & Rent,124667,PKR,2026-06-05
+paid apartment rent for family,Home & Rent,133901,PKR,2026-07-18
+paid maintenance charges this week,Home & Rent,34927,PKR,2026-06-28
+paid medical bill for family,Healthcare,23112,PKR,2026-05-30
+travel expenses yesterday,Travel,18713,PKR,2026-01-12
+bought bread today,Food & Groceries,1681,PKR,2026-06-20
+paid internet bill online,Utilities,16111,PKR,2026-03-24
+bought trousers,Shopping,29784,PKR,2026-08-14
+car maintenance yesterday,Transportation,1154,PKR,2026-01-16
+bought train ticket,Travel,10808,PKR,2026-08-05
+miscellaneous expense yesterday,Other,12365,PKR,2026-06-05
+home repair,Home & Rent,46630,PKR,2026-03-24
+paid mobile bill yesterday,Utilities,12874,PKR,2026-02-04
+paid maintenance charges for family,Home & Rent,53359,PKR,2026-02-20
